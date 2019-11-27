@@ -16,14 +16,17 @@ A fundamental tenet of the Systems Engineering practice is to engineer the whole
 
 *"An integrated set of elements that accomplish a defined set of objectives"* [International Council On Systems Engineering](http://www.incose.org/)
 
-What does *Integrated set of Elements* mean?
-: Users, sub-systems, components, HW, SW, Support Services, Training, Processes, Information, environment, etc
+### What does *Integrated set of Elements* mean?
 
-What does *Defined set of Objectives* mean?
-: Conformance to ALL of the requirements. Technical Specs, Contracts Statement of Work, Corporate Operating Procedures, Regulatory Standards, etc.
+Users, sub-systems, components, HW, SW, Support Services, Training, Processes, Information, environment, etc
 
-Why is Systems Engineering Important to Australia?
-: Systems Engineering delivers major benefits to a wide range of industrial sectors where complex projects are undertaken. Theseadvantages include reducing your project risk, improving likelihood of success, and delivery of lower life cycle costs. Industrial Sectors where Systems Engineering practices can provide positive effects in terms of successful project outcomes include:
+### What does *Defined set of Objectives* mean?
+
+Conformance to ALL of the requirements. Technical Specs, Contracts Statement of Work, Corporate Operating Procedures, Regulatory Standards, etc.
+
+### Why is Systems Engineering Important to Australia?
+
+Systems Engineering delivers major benefits to a wide range of industrial sectors where complex projects are undertaken. Theseadvantages include reducing your project risk, improving likelihood of success, and delivery of lower life cycle costs. Industrial Sectors where Systems Engineering practices can provide positive effects in terms of successful project outcomes include:
 
 * Defence and Aerospace
 * Telecommunications

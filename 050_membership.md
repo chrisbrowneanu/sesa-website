@@ -6,7 +6,7 @@ Individual membership is open to everyone with an interest in Systems Engineerin
 
 SESA is the lead Systems Engineering learned society within Australia, and is therefore able to offer the following key benefits to all individual members:
 
-* Login access to a members private area on the SESA website which provides d[ownload access to SESA Organisational documents, past SETE conference proceedings and general ]{style="line-height: 19.7999992370605px;"}[Systems Engineering related resources](/system-engineering-resources)[ ]{style="line-height: 19.7999992370605px;"}[(Note - new members who have not been provided with login details should contact the ]{style="line-height: 19.7999992370605px;"}[SESA Webmaster](/contact-us)[);]{style="line-height: 19.7999992370605p x;"} -
+* Login access to a members private area on the SESA website which provides download access to SESA Organisational documents, past SETE conference proceedings and general [Systems Engineering related resources](/system-engineering-resources)
 * Full membership with INCOSE. Please [click here to read about the significant benefits of INCOSE membership](http://incose.org/membership/benefits.aspx "INCOSE Me mbership Benefits").
 * An opportunity to network with other Systems Engineering professionals;
 * SESA's [annual SETE conference](/sete) provides networking opportunities and presentations from other professionals in the field. It includes a combination of plenary sessions, panels, papers, tutorials, workshops and trade exhibits. SESA members get a substantial discount when registering for this conference; -
