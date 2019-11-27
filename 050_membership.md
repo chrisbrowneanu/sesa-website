@@ -24,11 +24,10 @@ If you belong to a company or government department involved in the acquisition,
 
 ## Membership Grades and Costs
 
-Membership costs can be found on the [Engineer's Australia website](https://www.engineersaustralia.org.au/Membership/Membership-
-Fees)
+Membership costs can be found on the [Engineer's Australia website](https://www.engineersaustralia.org.au/Membership/Membership-Fees)
 
 ## Apply for Membership
 
-Applications for membership with SESA are performed online via the [Engineers Australia Technical Societies website](https://www.engineersaustralia.org.au/technical-societies/techn ical-societies "Engineers Australia Technical Societies Web Site"). **Please note** that you will need to apply for an Engineers Australia ID (EA ID) prior to applying for membership with SESA - the Engineers Australia Technical Societies website has a link to request and EA ID.
+Applications for membership with SESA are performed online via the [Engineers Australia Technical Societies website](https://www.engineersaustralia.org.au/technical-societies/technical-societies "Engineers Australia Technical Societies Web Site"). **Please note** that you will need to apply for an Engineers Australia ID (EA ID) prior to applying for membership with SESA - the Engineers Australia Technical Societies website has a link to request and EA ID.
  
  
