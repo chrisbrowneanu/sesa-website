@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="Kunena 1.6.0-RC1" -->
+<rss version="2.0">
+	<channel>
+		<title>Sesa - Intelligent Transport Systems</title>
+		<description>Kunena Site Syndication</description>
+		<link>https://sesa.org.au/</link>
+		<lastBuildDate>Sat, 16 Nov 2019 08:54:21 +0100</lastBuildDate>
+        <generator>Kunena 1.6.0-RC1</generator>
+		<image>
+			<url>https://sesa.org.au/components/com_kunena/template/example/images/icons/rss.png</url>
+			<title>Sesa - Intelligent Transport Systems</title>
+			<link>https://sesa.org.au/</link>
+			<description>Kunena Site Syndication</description>
+		</image>
+		<pubDate>Sat, 16 Nov 2019 08:54:21 +0100</pubDate>
+		<item>
+			<title>Subject: Formation of the Transportation Working Group in New South Wales - by: Christopher ...</title>
+			<link>https://sesa.org.au/index.php?option=com_kunena&amp;func=view&amp;catid=12&amp;id=57&amp;Itemid=85#57</link>
+			<description>The NSW TWG was formed in 2012 as a local chapter of the INCOSE TWG. I applaud this initiative because the field of Intelligent Transport Systems [ITS] is especially in need of a systems engineering discipline in the design and development of integrated, multi-purpose ITS that are experiencing rapidly increasing connectivity</description>
+			<author>Christopher John Skinner</author>
+			<category>Intelligent Transport Systems</category>
+			<pubDate>Tue, 28 Aug 2012 18:53:13 +0100</pubDate>
+			<guid>https://sesa.org.au/index.php?option=com_kunena&amp;func=view&amp;catid=12&amp;id=57&amp;Itemid=85#57</guid>
+		</item>
+	</channel>
+</rss>

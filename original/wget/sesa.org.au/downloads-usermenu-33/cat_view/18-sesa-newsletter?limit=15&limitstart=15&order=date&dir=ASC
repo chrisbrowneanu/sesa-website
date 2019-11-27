@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding=""?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+  <base href="https://sesa.org.au/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="" />
+  <meta name="title" content="Downloads | SESA Newsletter - Sesa" />
+  <meta name="description" content="Systems engineering focuses on how the deliverables of complex projects are specified, designed, qualified, deployed and change managed over the entire end to end life cycle of the project." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Downloads | SESA Newsletter - Sesa</title>
+  <link href="https://sesa.org.au/downloads-usermenu-33/cat_view/18-sesa-newsletter" rel="canonical"  />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="https://sesa.org.au/components/com_docman/themes/default/css/theme.css" type="text/css" />
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/modal.js"></script>
+  <script type="text/javascript">
+
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+
+			$$('a.modal').each(function(el) {
+				el.addEvent('click', function(e) {
+					new Event(e).stop();
+					SqueezeBox.fromElement(el);
+				});
+			});
+		});
+  </script>
+
+
+<link href="/templates/js_simplepro_red/css/template_css.css" rel="stylesheet" type="text/css" />
+
+<link rel="shortcut icon" href="/images/favicon.ico" />
+
+</head>
+
+<body id="page_bg">
+
+<a name="up" id="up"></a>
+
+<div class="center" align="center">
+
+  <table cellpadding="0" cellspacing="0" width="1100" id="maintable">
+
+    <tr valign="top">
+
+      <td class="shadowleft"><img src="/templates/js_simplepro_red/images/topleft.png" alt="" width="11"/><br /></td>
+
+      <td class="wrapper">
+	  	<div id="header">
+      		<div id="headeright">
+            	<div id="headerleft">
+                	<a href="/"><img class="sesa_logo" src="/templates/js_simplepro_red/images/sesa_logo.png" /></a>
+                 </div>
+            </div>
+		</div>
+        
+        <div id="mainbody">
+	        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr valign="top">
+	            <td valign="top" class="navbar">
+                <div class="push">
+                    <div class="leftcoltop">&nbsp;</div>
+                    <div class="leftcol">		<div class="moduletable">
+					
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr ><td><a href="/" class="mainlevel" >Home</a></td></tr>
+<tr ><td><a href="/what-is-systems-engineering" class="mainlevel" >What is Systems Eng?</a></td></tr>
+<tr ><td><a href="/about-sesa" class="mainlevel" >About SESA</a></td></tr>
+<tr ><td><a href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12" class="mainlevel" >SESA Committee</a></td></tr>
+<tr ><td><a href="/membership" class="mainlevel" >Membership</a></td></tr>
+<tr ><td><a href="/corporate-members-fy2015-16" class="mainlevel" >Corporate Members</a></td></tr>
+<tr ><td><a href="/system-engineering-resources" class="mainlevel" >Systems Eng Resources</a></td></tr>
+<tr ><td><a href="/sesa-working-groups" class="mainlevel" >SESA Working Groups</a></td></tr>
+<tr ><td><a href="/newlinks" class="mainlevel" >Links</a></td></tr>
+<tr ><td><a href="/case-csep-applications" class="mainlevel" >CASE/CSEP Applications</a></td></tr>
+<tr ><td><a href="/search" class="mainlevel" >Search</a></td></tr>
+<tr ><td><a href="/contact-us" class="mainlevel" >Contact Us</a></td></tr>
+</table>		</div>
+			<div class="moduletable">
+					<h3>Member Login</h3>
+					<form action="https://sesa.org.au/component/comprofiler/login" method="post" id="mod_loginform" style="margin:0px;">
+Available to SESA members only. If you are a SESA member and don't have a login, go to the Contact Us web page and send a request to the Webmaster.
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="mod_login">
+<tr><td><span id="mod_login_usernametext"><label for="mod_login_username">Username</label></span><br />
+<input type="text" name="username" id="mod_login_username" class="inputbox" size="14" /><br />
+<span id="mod_login_passwordtext"><label for="mod_login_password">Password</label></span><br /><span><input type="password" name="passwd" id="mod_login_password" class="inputbox" size="14" /></span><br />
+<input type="hidden" name="op2" value="login" />
+<input type="hidden" name="lang" value="english" />
+<input type="hidden" name="force_session" value="1" />
+<input type="hidden" name="return" value="B:aHR0cHM6Ly9zZXNhLm9yZy5hdS9kb3dubG9hZHMtdXNlcm1lbnUtMzMvY2F0X3ZpZXcvMTgtc2VzYS1uZXdzbGV0dGVyP2xpbWl0PTE1JmFtcDtsaW1pdHN0YXJ0PTE1JmFtcDtvcmRlcj1kYXRlJmFtcDtkaXI9QVND" />
+<input type="hidden" name="message" value="0" />
+<input type="hidden" name="loginfrom" value="loginmodule" />
+<input type="hidden" name="cbsecuritym3" value="cbm_08a42afe_1e85c0aa_87ce36be24351e119ec2896c350c0786" />
+<input type="checkbox" name="remember" id="mod_login_remember" value="yes" /> <span id="mod_login_remembermetext"><label for="mod_login_remember">Remember me</label></span><br />
+<input type="submit" name="Submit" class="button" value="Login" /></td></tr>
+<tr><td><a href="https://sesa.org.au/component/comprofiler/lostpassword" class="mod_login">Forgot login?</a></td></tr>
+</table></form>		</div>
+	</div>
+                    <div class="leftmodfooter">&nbsp;</div>
+                </div>
+                </td>
+
+				<td>
+				<div id="carea">
+					<div class="top"></div>
+                    <div class="middle">
+						<div class="banner">
+                            
+						</div>
+
+                      	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            	<tr valign="top">
+                                	<td width="50%">
+                                        
+                                    </td>
+                                	<td class="sep"><img src="/templates/js_simplepro_red/images/spacer.png" alt="spacer.png, 0 kB" width="11" /></td>
+              						<td width="50%">
+                                        
+                                    </td>
+                                </tr>
+                            </table>
+                      	
+						<div id="maindivider"></div>
+                      	<script language="javascript" type="text/javascript" src="https://sesa.org.au/components/com_docman/themes/default/js/theme.js"></script>
+<div id="dm_header">
+<div>
+<a href="/downloads-usermenu-33">
+<img src="/components/com_docman/themes/default/images/icons/32x32/home.png" alt="Downloads Home" /><br />
+Downloads Home		</a>
+</div>
+<div>
+<a href="/downloads-usermenu-33/search_form">
+<img src="/components/com_docman/themes/default/images/icons/32x32/search.png" alt="Search Document" /><br />
+Search Document		</a>
+</div>
+</div>
+<div class="clr"></div>
+<div class="dm_cat">
+<img class="dm_thumb-left" src="/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="" /><h1 class="dm_title">SESA Newsletter</h1><div class="clr"></div>
+</div>
+<div id="dm_docs">
+<h2 class="dm_title">Documents</h2>
+<div class="dm_orderby"> Order by :
+<a href="/downloads-usermenu-33/cat_view/18-sesa-newsletter?limit=15&amp;limitstart=15&amp;order=name&amp;dir=ASC">Name</a> | <strong>Date </strong> | <a href="/downloads-usermenu-33/cat_view/18-sesa-newsletter?limit=15&amp;limitstart=15&amp;order=hits&amp;dir=ASC">Hits</a> <a href="/downloads-usermenu-33/cat_view/18-sesa-newsletter?limit=15&amp;limitstart=15&amp;order=date&amp;dir=DESC">[ Descendent ]</a></div>        
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Newsletter #48 July 2009" />
+<a href="/downloads-usermenu-33/doc_download/155-newsletter-48-july-2009" title="Newsletter #48 July 2009">
+Newsletter #48 July 2009				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>09/14/2009</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>09/14/2009</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>1.94 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1095</td>
+</tr>
+</table>
+</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/155-newsletter-48-july-2009" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=155&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Newsletter #49 November 2009" />
+<a href="/downloads-usermenu-33/doc_download/164-newsletter-49-november-2009" title="Newsletter #49 November 2009">
+Newsletter #49 November 2009				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>12/07/2009</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>12/07/2009</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>2.22 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1105</td>
+</tr>
+</table>
+</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/164-newsletter-49-november-2009" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=164&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Newsletter #50 2010 March" />
+<a href="/downloads-usermenu-33/doc_download/165-newsletter-50-2010-march" title="Newsletter #50 2010 March">
+Newsletter #50 2010 March				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>04/14/2010</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>06/21/2010</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>1.52 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>3281</td>
+</tr>
+</table>
+</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/165-newsletter-50-2010-march" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=165&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Newsletter #51 2010 June" />
+<a href="/downloads-usermenu-33/doc_download/166-newsletter-51-2010-june" title="Newsletter #51 2010 June">
+Newsletter #51 2010 June				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>06/20/2010</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>06/20/2010</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>2.8 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1810</td>
+</tr>
+</table>
+</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/166-newsletter-51-2010-june" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=166&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Newsletter #52 2010 Nov" />
+<a href="/downloads-usermenu-33/doc_download/167-newsletter-52-2010-nov" title="Newsletter #52 2010 Nov">
+Newsletter #52 2010 Nov				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>12/02/2010</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>12/19/2011</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>1.6 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>951</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+Edition 52, November 2010.	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/167-newsletter-52-2010-nov" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=167&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Newsletter #54 December 2011" />
+<a href="/downloads-usermenu-33/doc_download/256-newsletter-54-december-2011" title="Newsletter #54 December 2011">
+Newsletter #54 December 2011				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>12/18/2011</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>12/19/2011</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>1.78 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>782</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+Edition 54, December 2011.	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/256-newsletter-54-december-2011" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=256&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Newsletter #55 March 2012" />
+<a href="/downloads-usermenu-33/doc_download/301-newsletter-55-march-2012" title="Newsletter #55 March 2012">
+Newsletter #55 March 2012				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>04/24/2012</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>04/24/2012</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>1.16 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>751</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+Edition 55, March 2012.	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/301-newsletter-55-march-2012" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=301&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Newsletter #56, July 2012" />
+<a href="/downloads-usermenu-33/doc_download/304-newsletter-56-july-2012" title="Newsletter #56, July 2012">
+Newsletter #56, July 2012				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>07/18/2012</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>07/18/2012</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>1.06 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>935</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+Edition 56, July 2012.	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/304-newsletter-56-july-2012" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=304&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Newsletter #57, October 2012" />
+<a href="/downloads-usermenu-33/doc_download/305-newsletter-57-october-2012" title="Newsletter #57, October 2012">
+Newsletter #57, October 2012				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>10/04/2012</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>10/04/2012</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>6.1 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1259</td>
+</tr>
+</table>
+</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/305-newsletter-57-october-2012" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=305&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Newsletter #58, December 2012" />
+<a href="/downloads-usermenu-33/doc_download/306-newsletter-58-december-2012" title="Newsletter #58, December 2012">
+Newsletter #58, December 2012				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>12/20/2012</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>12/20/2012</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>363.64 kB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>804</td>
+</tr>
+</table>
+</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/306-newsletter-58-december-2012" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=306&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Newsletter #59, March 2013" />
+<a href="/downloads-usermenu-33/doc_download/344-newsletter-59-march-2013" title="Newsletter #59, March 2013">
+Newsletter #59, March 2013				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>04/01/2013</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>04/01/2013</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>5.29 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1536</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+SESA Newsletter, March 2013, including SESA Committee Nomination Form.	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/344-newsletter-59-march-2013" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=344&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Newsletter #60, June 2013" />
+<a href="/downloads-usermenu-33/doc_download/348-newsletter-60-june-2013" title="Newsletter #60, June 2013">
+Newsletter #60, June 2013				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>08/15/2013</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>08/15/2013</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>2.51 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1055</td>
+</tr>
+</table>
+</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/348-newsletter-60-june-2013" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=348&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Newsletter #61, September 2013" />
+<a href="/downloads-usermenu-33/doc_download/349-newsletter-61-september-2013" title="Newsletter #61, September 2013">
+Newsletter #61, September 2013				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>10/30/2013</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>10/30/2013</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>3.95 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1426</td>
+</tr>
+</table>
+</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/349-newsletter-61-september-2013" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=349&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Newsletter #62, December 2013" />
+<a href="/downloads-usermenu-33/doc_download/350-newsletter-62-december-2013" title="Newsletter #62, December 2013">
+Newsletter #62, December 2013				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>12/17/2013</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>12/17/2013</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>2.62 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1208</td>
+</tr>
+</table>
+</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/350-newsletter-62-december-2013" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=350&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Newsletter #63 March 2014" />
+<a href="/downloads-usermenu-33/doc_download/400-newsletter-63-march-2014" title="Newsletter #63 March 2014">
+Newsletter #63 March 2014				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>03/28/2014</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>03/28/2014</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>3.02 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1665</td>
+</tr>
+</table>
+</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/400-newsletter-63-march-2014" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=400&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>        </div>
+<div id="dm_nav">
+&lt;&lt; <a title="Start" href="/downloads-usermenu-33/cat_view/18-sesa-newsletter?limit=15&amp;order=date&amp;dir=ASC" class="pagenav">Start</a> &lt; <a title="Prev" href="/downloads-usermenu-33/cat_view/18-sesa-newsletter?limit=15&amp;order=date&amp;dir=ASC" class="pagenav">Prev</a> <a title="1" href="/downloads-usermenu-33/cat_view/18-sesa-newsletter?limit=15&amp;order=date&amp;dir=ASC" class="pagenav">1</a> <span class="pagenav">2</span> <a title="3" href="/downloads-usermenu-33/cat_view/18-sesa-newsletter?limit=15&amp;limitstart=30&amp;order=date&amp;dir=ASC" class="pagenav">3</a> <a title="4" href="/downloads-usermenu-33/cat_view/18-sesa-newsletter?limit=15&amp;limitstart=45&amp;order=date&amp;dir=ASC" class="pagenav">4</a> <a title="Next" href="/downloads-usermenu-33/cat_view/18-sesa-newsletter?limit=15&amp;limitstart=30&amp;order=date&amp;dir=ASC" class="pagenav">Next</a> &gt; <a title="End" href="/downloads-usermenu-33/cat_view/18-sesa-newsletter?limit=15&amp;limitstart=45&amp;order=date&amp;dir=ASC" class="pagenav">End</a> &gt;&gt;	<div>
+Page 2 of 4	</div>
+</div>
+                    </div>
+                    <div class="bottom"></div>
+				</td>
+				</table>
+
+                <td class="shadowright">
+                    <img src="/templates/js_simplepro_red/images/topright.png" alt="" width="11"/>
+                </td>
+			</tr>
+
+            <td colspan="3">
+                <div class="bottomenu"></div>
+            </td>
+</table>
+</div>
+
+
+
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-4538777-1");
+
+pageTracker._initData();
+
+pageTracker._trackPageview();
+
+</script>
+
+</body>
+
+</html>
+

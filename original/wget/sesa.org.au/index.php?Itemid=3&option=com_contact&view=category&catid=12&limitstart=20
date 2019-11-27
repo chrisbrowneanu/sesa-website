@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding=""?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+  <base href="https://sesa.org.au/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="" />
+  <meta name="title" content="SESA Committee - Sesa" />
+  <meta name="description" content="Systems engineering focuses on how the deliverables of complex projects are specified, designed, qualified, deployed and change managed over the entire end to end life cycle of the project." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>SESA Committee - Sesa</title>
+  <link href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12&amp;format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12&amp;format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+
+
+<link href="/templates/js_simplepro_red/css/template_css.css" rel="stylesheet" type="text/css" />
+
+<link rel="shortcut icon" href="/images/favicon.ico" />
+
+</head>
+
+<body id="page_bg">
+
+<a name="up" id="up"></a>
+
+<div class="center" align="center">
+
+  <table cellpadding="0" cellspacing="0" width="1100" id="maintable">
+
+    <tr valign="top">
+
+      <td class="shadowleft"><img src="/templates/js_simplepro_red/images/topleft.png" alt="" width="11"/><br /></td>
+
+      <td class="wrapper">
+	  	<div id="header">
+      		<div id="headeright">
+            	<div id="headerleft">
+                	<a href="/"><img class="sesa_logo" src="/templates/js_simplepro_red/images/sesa_logo.png" /></a>
+                 </div>
+            </div>
+		</div>
+        
+        <div id="mainbody">
+	        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr valign="top">
+	            <td valign="top" class="navbar">
+                <div class="push">
+                    <div class="leftcoltop">&nbsp;</div>
+                    <div class="leftcol">		<div class="moduletable">
+					
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr ><td><a href="/" class="mainlevel" >Home</a></td></tr>
+<tr ><td><a href="/what-is-systems-engineering" class="mainlevel" >What is Systems Eng?</a></td></tr>
+<tr ><td><a href="/about-sesa" class="mainlevel" >About SESA</a></td></tr>
+<tr ><td><a href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12" class="mainlevel" id="active_menu">SESA Committee</a></td></tr>
+<tr ><td><a href="/membership" class="mainlevel" >Membership</a></td></tr>
+<tr ><td><a href="/corporate-members-fy2015-16" class="mainlevel" >Corporate Members</a></td></tr>
+<tr ><td><a href="/system-engineering-resources" class="mainlevel" >Systems Eng Resources</a></td></tr>
+<tr ><td><a href="/sesa-working-groups" class="mainlevel" >SESA Working Groups</a></td></tr>
+<tr ><td><a href="/newlinks" class="mainlevel" >Links</a></td></tr>
+<tr ><td><a href="/case-csep-applications" class="mainlevel" >CASE/CSEP Applications</a></td></tr>
+<tr ><td><a href="/search" class="mainlevel" >Search</a></td></tr>
+<tr ><td><a href="/contact-us" class="mainlevel" >Contact Us</a></td></tr>
+</table>		</div>
+			<div class="moduletable">
+					<h3>Member Login</h3>
+					<form action="https://sesa.org.au/component/comprofiler/login" method="post" id="mod_loginform" style="margin:0px;">
+Available to SESA members only. If you are a SESA member and don't have a login, go to the Contact Us web page and send a request to the Webmaster.
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="mod_login">
+<tr><td><span id="mod_login_usernametext"><label for="mod_login_username">Username</label></span><br />
+<input type="text" name="username" id="mod_login_username" class="inputbox" size="14" /><br />
+<span id="mod_login_passwordtext"><label for="mod_login_password">Password</label></span><br /><span><input type="password" name="passwd" id="mod_login_password" class="inputbox" size="14" /></span><br />
+<input type="hidden" name="op2" value="login" />
+<input type="hidden" name="lang" value="english" />
+<input type="hidden" name="force_session" value="1" />
+<input type="hidden" name="return" value="B:aHR0cHM6Ly9zZXNhLm9yZy5hdS9pbmRleC5waHA/SXRlbWlkPTMmYW1wO29wdGlvbj1jb21fY29udGFjdCZhbXA7dmlldz1jYXRlZ29yeSZhbXA7Y2F0aWQ9MTImYW1wO2xpbWl0c3RhcnQ9MjA=" />
+<input type="hidden" name="message" value="0" />
+<input type="hidden" name="loginfrom" value="loginmodule" />
+<input type="hidden" name="cbsecuritym3" value="cbm_5a0c62ee_716943ee_f6bd2932f2f06fa7f4ed0b81be9319d1" />
+<input type="checkbox" name="remember" id="mod_login_remember" value="yes" /> <span id="mod_login_remembermetext"><label for="mod_login_remember">Remember me</label></span><br />
+<input type="submit" name="Submit" class="button" value="Login" /></td></tr>
+<tr><td><a href="https://sesa.org.au/component/comprofiler/lostpassword" class="mod_login">Forgot login?</a></td></tr>
+</table></form>		</div>
+	</div>
+                    <div class="leftmodfooter">&nbsp;</div>
+                </div>
+                </td>
+
+				<td>
+				<div id="carea">
+					<div class="top"></div>
+                    <div class="middle">
+						<div class="banner">
+                            
+						</div>
+
+                      	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            	<tr valign="top">
+                                	<td width="50%">
+                                        
+                                    </td>
+                                	<td class="sep"><img src="/templates/js_simplepro_red/images/spacer.png" alt="spacer.png, 0 kB" width="11" /></td>
+              						<td width="50%">
+                                        
+                                    </td>
+                                </tr>
+                            </table>
+                      	
+						<div id="maindivider"></div>
+                      	
+<div class="componentheading">
+SESA Committee</div>
+<div class="contentpane">
+<script language="javascript" type="text/javascript">
+	function tableOrdering( order, dir, task ) {
+	var form = document.adminForm;
+
+	form.filter_order.value 	= order;
+	form.filter_order_Dir.value	= dir;
+	document.adminForm.submit( task );
+}
+</script>
+<form action="https://sesa.org.au/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12&amp;limitstart=20" method="post" name="adminForm">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+	<thead>
+		<tr>
+			<td align="right" colspan="6">
+						</td>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td align="center" colspan="6" class="sectiontablefooter">
+				&lt;&lt; <a title="Start" href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12" class="pagenav">Start</a> &lt; <a title="Prev" href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12" class="pagenav">Prev</a> <a title="1" href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12" class="pagenav">1</a> <span class="pagenav">2</span> <span class="pagenav">Next</span> &gt; <span class="pagenav">End</span> &gt;&gt;			</td>
+		</tr>
+		<tr>
+			<td colspan="6" align="right">
+				Page 2 of 2			</td>
+		</tr>
+	</tfoot>
+	<tbody>
+			<tr>
+			<td width="5" align="right" class="sectiontableheader">
+				#			</td>
+			<td height="20" class="sectiontableheader">
+				<a href="javascript:tableOrdering('cd.name','desc','');" title="Click to sort by this column">Name</a>			</td>
+						<td height="20" class="sectiontableheader">
+				<a href="javascript:tableOrdering('cd.con_position','desc','');" title="Click to sort by this column">Position</a>			</td>
+																	</tr>
+		<tr class="sectiontableentry1">
+	<td align="right" width="5">
+		1	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=23%3Akerry-lunney&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			Kerry Lunney</a>
+	</td>
+		<td>
+		SESA Corresponding Member	</td>
+					</tr>
+<tr class="sectiontableentry2">
+	<td align="right" width="5">
+		2	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=7%3Arainer-ignetik&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			Rainer Ignetik</a>
+	</td>
+		<td>
+		SESA Corresponding Member	</td>
+					</tr>
+<tr class="sectiontableentry1">
+	<td align="right" width="5">
+		3	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=25%3Awayne-biden&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			Wayne Biden</a>
+	</td>
+		<td>
+		SESA CASE Lead	</td>
+					</tr>
+<tr class="sectiontableentry2">
+	<td align="right" width="5">
+		4	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=15%3Asesa-general-enquiries&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			SESA General Enquiries</a>
+	</td>
+		<td>
+		SESA Executive Officer	</td>
+					</tr>
+<tr class="sectiontableentry1">
+	<td align="right" width="5">
+		5	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=20%3Amembership-enquiries&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			Membership Enquiries</a>
+	</td>
+		<td>
+		Engineers Australia Technical Societies Administrator	</td>
+					</tr>
+</tbody>
+</table>
+
+<input type="hidden" name="option" value="com_contact" />
+<input type="hidden" name="catid" value="" />
+<input type="hidden" name="filter_order" value="cd.ordering" />
+<input type="hidden" name="filter_order_Dir" value="" />
+<input type="hidden" name="viewcache" value="0" />
+</form>
+</div>
+
+                    </div>
+                    <div class="bottom"></div>
+				</td>
+				</table>
+
+                <td class="shadowright">
+                    <img src="/templates/js_simplepro_red/images/topright.png" alt="" width="11"/>
+                </td>
+			</tr>
+
+            <td colspan="3">
+                <div class="bottomenu"></div>
+            </td>
+</table>
+</div>
+
+
+
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-4538777-1");
+
+pageTracker._initData();
+
+pageTracker._trackPageview();
+
+</script>
+
+</body>
+
+</html>
+

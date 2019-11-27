@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Sesa</title>
+		<description>Systems engineering focuses on how the deliverables of complex projects are specified, designed, qualified, deployed and change managed over the entire end to end life cycle of the project.</description>
+		<link>https://sesa.org.au/links/specification-practices</link>
+		<lastBuildDate>Fri, 15 Nov 2019 21:49:44 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>en-gb</language>
+		<managingEditor>webmaster@sesa.org.au (Sesa)</managingEditor>
+		<item>
+			<title>Volere Requirements Resources</title>
+			<link>https://sesa.org.au/links/volere-requirements-resources</link>
+			<guid>https://sesa.org.au/links/volere-requirements-resources</guid>
+			<description><![CDATA[]]></description>
+			<category>Weblinks</category>
+			<pubDate>Thu, 29 May 2008 22:54:41 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

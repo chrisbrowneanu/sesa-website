@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">SESA Committee - Sesa</title>
+	<subtitle type="text">Systems engineering focuses on how the deliverables of complex projects are specified, designed, qualified, deployed and change managed over the entire end to end life cycle of the project.</subtitle>
+	<link rel="alternate" type="text/html" href="https://sesa.org.au"/>
+	<id>https://sesa.org.au/</id>
+	<updated>2019-11-15T21:49:28Z</updated>
+	<author>
+		<name>Sesa</name>
+		<email>webmaster@sesa.org.au</email>
+	</author>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="https://sesa.org.au/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12&amp;format=feed&amp;type=atom" />
+	<entry>
+		<title>Bill Parkins</title>
+		<link rel="alternate" type="text/html" href="https://sesa.org.au/index.php?option=com_contact&amp;view=contact&amp;id=2%3Abill-parkin&amp;catid=12%3Aexecutive-and-management-committee&amp;Itemid=3"/>
+		<published>2019-11-15T21:49:28Z</published>
+		<updated>2019-11-15T21:49:28Z</updated>
+		<id>https://sesa.org.au/index.php?option=com_contact&amp;view=contact&amp;id=2%3Abill-parkin&amp;catid=12%3Aexecutive-and-management-committee&amp;Itemid=3</id>
+		<summary type="html">SESA President - The National President is an elected position in the SESA committee and is responsible for providing the coordination and leadership of all SESA related activities.  Responsibilities include chairing committee meetings, representing SESA and its interest in Engineering Australia and other like organisations such as INCOSE, providing direction as appropriate and authorising financial actions, strategic and marketing initiatives and other formal documentation as necessary. The National President is supported by strong team including deputy president, treasurer, secretary and industry, government and academia representatives. Regular status on all activities is provided through the website, the newsletters, committee meetings and the Annual General Meeting.</summary>
+		<content type="html">SESA President - The National President is an elected position in the SESA committee and is responsible for providing the coordination and leadership of all SESA related activities.  Responsibilities include chairing committee meetings, representing SESA and its interest in Engineering Australia and other like organisations such as INCOSE, providing direction as appropriate and authorising financial actions, strategic and marketing initiatives and other formal documentation as necessary. The National President is supported by strong team including deputy president, treasurer, secretary and industry, government and academia representatives. Regular status on all activities is provided through the website, the newsletters, committee meetings and the Annual General Meeting.</content>
+	</entry>
+	<entry>
+		<title>Don Lowe</title>
+		<link rel="alternate" type="text/html" href="https://sesa.org.au/index.php?option=com_contact&amp;view=contact&amp;id=13%3Adon-lowe&amp;catid=12%3Aexecutive-and-management-committee&amp;Itemid=3"/>
+		<published>2019-11-15T21:49:28Z</published>
+		<updated>2019-11-15T21:49:28Z</updated>
+		<id>https://sesa.org.au/index.php?option=com_contact&amp;view=contact&amp;id=13%3Adon-lowe&amp;catid=12%3Aexecutive-and-management-committee&amp;Itemid=3</id>
+		<summary type="html">SESA Deputy President - </summary>
+		<content type="html">SESA Deputy President - </content>
+	</entry>
+	<entry>
+		<title>David Peterson</title>
+		<link rel="alternate" type="text/html" href="https://sesa.org.au/index.php?option=com_contact&amp;view=contact&amp;id=6%3Adavid-peterson-treasurer&amp;catid=12%3Aexecutive-and-management-committee&amp;Itemid=3"/>
+		<published>2019-11-15T21:49:28Z</published>
+		<updated>2019-11-15T21:49:28Z</updated>
+		<id>https://sesa.org.au/index.php?option=com_contact&amp;view=contact&amp;id=6%3Adavid-peterson-treasurer&amp;catid=12%3Aexecutive-and-management-committee&amp;Itemid=3</id>
+		<summary type="html">SESA Treasurer - The National Treasurer is responsible for management of SESA funds and bank accounts.  Responsibilities include payment of invoices, deposit moneys received, reconciliations of records with accounts, auditing of accounts and publication of the SESA Financial Management Plan.  Outputs include reports for each National Executive meetings &amp; AGM, provision of data to external Auditors, Publishing external Auditors Report and Publication of a Financial Management Plan.</summary>
+		<content type="html">SESA Treasurer - The National Treasurer is responsible for management of SESA funds and bank accounts.  Responsibilities include payment of invoices, deposit moneys received, reconciliations of records with accounts, auditing of accounts and publication of the SESA Financial Management Plan.  Outputs include reports for each National Executive meetings &amp; AGM, provision of data to external Auditors, Publishing external Auditors Report and Publication of a Financial Management Plan.</content>
+	</entry>
+	<entry>
+		<title>David Peterson</title>
+		<link rel="alternate" type="text/html" href="https://sesa.org.au/index.php?option=com_contact&amp;view=contact&amp;id=5%3Adavid-peterson&amp;catid=12%3Aexecutive-and-management-committee&amp;Itemid=3"/>
+		<published>2019-11-15T21:49:28Z</published>
+		<updated>2019-11-15T21:49:28Z</updated>
+		<id>https://sesa.org.au/index.php?option=com_contact&amp;view=contact&amp;id=5%3Adavid-peterson&amp;catid=12%3Aexecutive-and-management-committee&amp;Itemid=3</id>
+		<summary type="html">SESA Secretary - </summary>
+		<content type="html">SESA Secretary - </content>
+	</entry>
+	<entry>
+		<title>John Nasr</title>
+		<link rel="alternate" type="text/html" href="https://sesa.org.au/index.php?option=com_contact&amp;view=contact&amp;id=1%3Ajohn-nasr&amp;catid=12%3Aexecutive-and-management-committee&amp;Itemid=3"/>
+		<published>2019-11-15T21:49:28Z</published>
+		<updated>2019-11-15T21:49:28Z</updated>
+		<id>https://sesa.org.au/index.php?option=com_contact&amp;view=contact&amp;id=1%3Ajohn-nasr&amp;catid=12%3Aexecutive-and-management-committee&amp;Itemid=3</id>
+		<summary type="html">SESA President Elect - </summary>
+		<content type="html">SESA President Elect - </content>
+	</entry>
+	<entry>
+		<title>Yarlini Aravinthan</title>
+		<link rel="alternate" type="text/html" href="https://sesa.org.au/index.php?option=com_contact&amp;view=contact&amp;id=32%3Ayarlini-aravinthan&amp;catid=12%3Aexecutive-and-management-committee&amp;Itemid=3"/>
+		<published>2019-11-15T21:49:28Z</published>
+		<updated>2019-11-15T21:49:28Z</updated>
+		<id>https://sesa.org.au/index.php?option=com_contact&amp;view=contact&amp;id=32%3Ayarlini-aravinthan&amp;catid=12%3Aexecutive-and-management-committee&amp;Itemid=3</id>
+		<summary type="html">MARCOM - </summary>
+		<content type="html">MARCOM - </content>
+	</entry>
+	<entry>
+		<title>Roger McCowan</title>
+		<link rel="alternate" type="text/html" href="https://sesa.org.au/index.php?option=com_contact&amp;view=contact&amp;id=8%3Aroger-mccowan-editor&amp;catid=12%3Aexecutive-and-management-committee&amp;Itemid=3"/>
+		<published>2019-11-15T21:49:28Z</published>
+		<updated>2019-11-15T21:49:28Z</updated>
+		<id>https://sesa.org.au/index.php?option=com_contact&amp;view=contact&amp;id=8%3Aroger-mccowan-editor&amp;catid=12%3Aexecutive-and-management-committee&amp;Itemid=3</id>
+		<summary type="html">SESA Newsletter Editor - Roger McCowan is responsible for the production and distribution of the SESA Newsletter, which is scheduled for publication in February, June, and October of each year.  While SESA does not publish a regular journal, the SESA Newsletter is used as the medium for publication of a variety of papers relating to Systems Engineering.
+Roger McCowan is a Principal Systems Engineer with MHW Holistic Solutions Pty Ltd, and is a foundation member of SESA.</summary>
+		<content type="html">SESA Newsletter Editor - Roger McCowan is responsible for the production and distribution of the SESA Newsletter, which is scheduled for publication in February, June, and October of each year.  While SESA does not publish a regular journal, the SESA Newsletter is used as the medium for publication of a variety of papers relating to Systems Engineering.
+Roger McCowan is a Principal Systems Engineer with MHW Holistic Solutions Pty Ltd, and is a foundation member of SESA.</content>
+	</entry>
+	<entry>
+		<title>Chris Browne</title>
+		<link rel="alternate" type="text/html" href="https://sesa.org.au/index.php?option=com_contact&amp;view=contact&amp;id=10%3Achris-browne&amp;catid=12%3Aexecutive-and-management-committee&amp;Itemid=3"/>
+		<published>2019-11-15T21:49:28Z</published>
+		<updated>2019-11-15T21:49:28Z</updated>
+		<id>https://sesa.org.au/index.php?option=com_contact&amp;view=contact&amp;id=10%3Achris-browne&amp;catid=12%3Aexecutive-and-management-committee&amp;Itemid=3</id>
+		<summary type="html">Tomorrow Systems Engineering Lead /AIM Chair - </summary>
+		<content type="html">Tomorrow Systems Engineering Lead /AIM Chair - </content>
+	</entry>
+	<entry>
+		<title>David Orr</title>
+		<link rel="alternate" type="text/html" href="https://sesa.org.au/index.php?option=com_contact&amp;view=contact&amp;id=24%3Adavid-orr&amp;catid=12%3Aexecutive-and-management-committee&amp;Itemid=3"/>
+		<published>2019-11-15T21:49:28Z</published>
+		<updated>2019-11-15T21:49:28Z</updated>
+		<id>https://sesa.org.au/index.php?option=com_contact&amp;view=contact&amp;id=24%3Adavid-orr&amp;catid=12%3Aexecutive-and-management-committee&amp;Itemid=3</id>
+		<summary type="html">External Engagement Representative - </summary>
+		<content type="html">External Engagement Representative - </content>
+	</entry>
+	<entry>
+		<title>Jawahar Bhalla</title>
+		<link rel="alternate" type="text/html" href="https://sesa.org.au/index.php?option=com_contact&amp;view=contact&amp;id=27%3Ajawahar-bhalla&amp;catid=12%3Aexecutive-and-management-committee&amp;Itemid=3"/>
+		<published>2019-11-15T21:49:28Z</published>
+		<updated>2019-11-15T21:49:28Z</updated>
+		<id>https://sesa.org.au/index.php?option=com_contact&amp;view=contact&amp;id=27%3Ajawahar-bhalla&amp;catid=12%3Aexecutive-and-management-committee&amp;Itemid=3</id>
+		<summary type="html">Technical Representative - </summary>
+		<content type="html">Technical Representative - </content>
+	</entry>
+</feed>

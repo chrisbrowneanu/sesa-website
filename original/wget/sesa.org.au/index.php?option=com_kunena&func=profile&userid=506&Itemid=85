@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding=""?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+  <base href="https://sesa.org.au/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="" />
+  <meta name="title" content="Forum - Sesa" />
+  <meta name="description" content="Systems engineering focuses on how the deliverables of complex projects are specified, designed, qualified, deployed and change managed over the entire end to end life cycle of the project." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Forum - Sesa</title>
+  <link rel="stylesheet" href="https://sesa.org.au/components/com_kunena/template/example/css/kunena.forum-min.css" type="text/css" />
+  <link rel="stylesheet" href="/media/system/css/calendar-jos.css" type="text/css"  title="green"  media="all" />
+  <style type="text/css">
+    <!--
+#Kunena div.kheader ,
+#Kunena div.kheader {
+	background: #5388B4
+}
+#Kunena div.kannouncement div.kheader {
+	background: #990000
+}
+#Kunena div#kannouncement .kanndesc {
+	background: #FFFFAA
+}
+#Kunena div.kfrontstats div.kheader {
+	background: #000000
+}
+#Kunena div.kwhoisonline div.kheader {
+	background: #3B5323
+}
+#Kunena .kicon-profile {
+	background-image: url("https://sesa.org.au/components/com_kunena/template/default/media/iconsets/profile/default/default.png");
+}
+#Kunena .kicon-button {
+	background-image: url("https://sesa.org.au/components/com_kunena/template/default/media/iconsets/buttons/default/default.png");
+}
+#Kunena #kbbcode-toolbar li a,
+#Kunena #kattachments a {
+	background-image:url("https://sesa.org.au/components/com_kunena/template/default/media/iconsets/editor/default/default.png");
+}
+    -->
+  </style>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="https://sesa.org.au/components/com_kunena/js/slimbox/slimbox-min.js"></script>
+  <script type="text/javascript" src="https://sesa.org.au/components/com_kunena/template/default/js/default-min.js"></script>
+  <script type="text/javascript" src="/media/system/js/calendar.js"></script>
+  <script type="text/javascript" src="/media/system/js/calendar-setup.js"></script>
+  <script type="text/javascript">
+window.addEvent('domready', function(){ $$('dl.tabs').each(function(tabs){ new KunenaTabs(tabs); }); });Calendar._DN = new Array ("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday");Calendar._SDN = new Array ("Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"); Calendar._FD = 0;	Calendar._MN = new Array ("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");	Calendar._SMN = new Array ("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec");Calendar._TT = {};Calendar._TT["INFO"] = "About the Calendar";
+ 		Calendar._TT["ABOUT"] =
+ "DHTML Date/Time Selector\n" +
+ "(c) dynarch.com 2002-2005 / Author: Mihai Bazon\n" +
+"For latest version visit: http://www.dynarch.com/projects/calendar/\n" +
+"Distributed under GNU LGPL.  See http://gnu.org/licenses/lgpl.html for details." +
+"\n\n" +
+"Date selection:\n" +
+"- Use the \xab, \xbb buttons to select year\n" +
+"- Use the " + String.fromCharCode(0x2039) + ", " + String.fromCharCode(0x203a) + " buttons to select month\n" +
+"- Hold mouse button on any of the above buttons for faster selection.";
+Calendar._TT["ABOUT_TIME"] = "\n\n" +
+"Time selection:\n" +
+"- Click on any of the time parts to increase it\n" +
+"- or Shift-click to decrease it\n" +
+"- or click and drag for faster selection.";
+
+		Calendar._TT["PREV_YEAR"] = "Click to move to the previous year. Click and hold for a list of years.";Calendar._TT["PREV_MONTH"] = "Click to move to the previous month. Click and hold for a list of the months.";	Calendar._TT["GO_TODAY"] = "Go to today";Calendar._TT["NEXT_MONTH"] = "Click to move to the next month. Click and hold for a list of the months.";Calendar._TT["NEXT_YEAR"] = "Click to move to the next year. Click and hold for a list of years.";Calendar._TT["SEL_DATE"] = "Select a date";Calendar._TT["DRAG_TO_MOVE"] = "Drag to move";Calendar._TT["PART_TODAY"] = " (Today)";Calendar._TT["DAY_FIRST"] = "Display %s first";Calendar._TT["WEEKEND"] = "0,6";Calendar._TT["CLOSE"] = "Close";Calendar._TT["TODAY"] = "Today";Calendar._TT["TIME_PART"] = "(Shift-)Click or Drag to change the value.";Calendar._TT["DEF_DATE_FORMAT"] = "%Y-%m-%d"; Calendar._TT["TT_DATE_FORMAT"] = "%A, %B %e";Calendar._TT["WK"] = "wk";Calendar._TT["TIME"] = "Time:";		window.addEvent('domready', function(){ var JTooltips = new Tips($$('.hasTip'), { maxTitleChars: 50, fixed: false}); });
+  </script>
+  <link rel="alternate" type="application/rss+xml" title="get the latest posts directly to your desktop" href="/index.php?option=com_kunena&amp;func=rss&amp;Itemid=85" />
+
+
+<link href="/templates/js_simplepro_red/css/template_css.css" rel="stylesheet" type="text/css" />
+
+<link rel="shortcut icon" href="/images/favicon.ico" />
+
+</head>
+
+<body id="page_bg">
+
+<a name="up" id="up"></a>
+
+<div class="center" align="center">
+
+  <table cellpadding="0" cellspacing="0" width="1100" id="maintable">
+
+    <tr valign="top">
+
+      <td class="shadowleft"><img src="/templates/js_simplepro_red/images/topleft.png" alt="" width="11"/><br /></td>
+
+      <td class="wrapper">
+	  	<div id="header">
+      		<div id="headeright">
+            	<div id="headerleft">
+                	<a href="/"><img class="sesa_logo" src="/templates/js_simplepro_red/images/sesa_logo.png" /></a>
+                 </div>
+            </div>
+		</div>
+        
+        <div id="mainbody">
+	        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr valign="top">
+	            <td valign="top" class="navbar">
+                <div class="push">
+                    <div class="leftcoltop">&nbsp;</div>
+                    <div class="leftcol">		<div class="moduletable">
+					
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr ><td><a href="/" class="mainlevel" >Home</a></td></tr>
+<tr ><td><a href="/what-is-systems-engineering" class="mainlevel" >What is Systems Eng?</a></td></tr>
+<tr ><td><a href="/about-sesa" class="mainlevel" >About SESA</a></td></tr>
+<tr ><td><a href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12" class="mainlevel" >SESA Committee</a></td></tr>
+<tr ><td><a href="/membership" class="mainlevel" >Membership</a></td></tr>
+<tr ><td><a href="/corporate-members-fy2015-16" class="mainlevel" >Corporate Members</a></td></tr>
+<tr ><td><a href="/system-engineering-resources" class="mainlevel" >Systems Eng Resources</a></td></tr>
+<tr ><td><a href="/sesa-working-groups" class="mainlevel" >SESA Working Groups</a></td></tr>
+<tr ><td><a href="/newlinks" class="mainlevel" >Links</a></td></tr>
+<tr ><td><a href="/case-csep-applications" class="mainlevel" >CASE/CSEP Applications</a></td></tr>
+<tr ><td><a href="/search" class="mainlevel" >Search</a></td></tr>
+<tr ><td><a href="/contact-us" class="mainlevel" >Contact Us</a></td></tr>
+</table>		</div>
+			<div class="moduletable">
+					<h3>Member Login</h3>
+					<form action="https://sesa.org.au/component/comprofiler/login" method="post" id="mod_loginform" style="margin:0px;">
+Available to SESA members only. If you are a SESA member and don't have a login, go to the Contact Us web page and send a request to the Webmaster.
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="mod_login">
+<tr><td><span id="mod_login_usernametext"><label for="mod_login_username">Username</label></span><br />
+<input type="text" name="username" id="mod_login_username" class="inputbox" size="14" /><br />
+<span id="mod_login_passwordtext"><label for="mod_login_password">Password</label></span><br /><span><input type="password" name="passwd" id="mod_login_password" class="inputbox" size="14" /></span><br />
+<input type="hidden" name="op2" value="login" />
+<input type="hidden" name="lang" value="english" />
+<input type="hidden" name="force_session" value="1" />
+<input type="hidden" name="return" value="B:aHR0cHM6Ly9zZXNhLm9yZy5hdS9pbmRleC5waHA/b3B0aW9uPWNvbV9rdW5lbmEmYW1wO2Z1bmM9cHJvZmlsZSZhbXA7dXNlcmlkPTUwNiZhbXA7SXRlbWlkPTg1" />
+<input type="hidden" name="message" value="0" />
+<input type="hidden" name="loginfrom" value="loginmodule" />
+<input type="hidden" name="cbsecuritym3" value="cbm_33fbb1f4_1e07df42_07deec1e598e86b408560e42b3b77d2f" />
+<input type="checkbox" name="remember" id="mod_login_remember" value="yes" /> <span id="mod_login_remembermetext"><label for="mod_login_remember">Remember me</label></span><br />
+<input type="submit" name="Submit" class="button" value="Login" /></td></tr>
+<tr><td><a href="https://sesa.org.au/component/comprofiler/lostpassword" class="mod_login">Forgot login?</a></td></tr>
+</table></form>		</div>
+	</div>
+                    <div class="leftmodfooter">&nbsp;</div>
+                </div>
+                </td>
+
+				<td>
+				<div id="carea">
+					<div class="top"></div>
+                    <div class="middle">
+						<div class="banner">
+                            
+						</div>
+
+                      	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            	<tr valign="top">
+                                	<td width="50%">
+                                        
+                                    </td>
+                                	<td class="sep"><img src="/templates/js_simplepro_red/images/spacer.png" alt="spacer.png, 0 kB" width="11" /></td>
+              						<td width="50%">
+                                        
+                                    </td>
+                                </tr>
+                            </table>
+                      	
+						<div id="maindivider"></div>
+                      	<!--[if IE 7]>
+<link rel="stylesheet" href="https://sesa.org.au/components/com_kunena/template/default/css/kunena.forum.ie7.css" type="text/css" />
+<![endif]-->
+
+<div id="Kunena"> <!-- Kunena Menu -->
+<div id="ktop">
+			<!-- Kunena Module Position: kunena_menu -->
+		<div id="ktopmenu">
+			<div id="ktab">		<div class="moduletable">
+					<h3>Kunena Menu</h3>
+					<ul class="menu"><li class="item86"><a href="/index.php?Itemid=86&amp;option=com_kunena&amp;view=listcat"><span>Index</span></a></li><li class="item87"><a href="/index.php?Itemid=87&amp;option=com_kunena&amp;view=latest"><span>Recent Topics</span></a></li><li class="item92"><a href="/index.php?Itemid=92&amp;option=com_kunena&amp;view=rules"><span>Rules</span></a></li><li class="item93"><a href="/index.php?Itemid=93&amp;option=com_kunena&amp;view=help"><span>Help</span></a></li><li class="item94"><a href="/index.php?Itemid=94&amp;option=com_kunena&amp;view=search"><span>Search</span></a></li></ul>		</div>
+	</div>
+		</div>
+		<!-- /Kunena Module Position: kunena_menu -->
+		<span class="ktoggler fltrt"><a class="ktoggler close" rel="kprofilebox"></a></span>
+</div>
+<!-- /Kunena Menu --><div class="kblock kpbox">
+	<div class="kcontainer" id="kprofilebox">
+		<div class="kbody">
+<table class="kprofilebox">
+	<tbody>
+		<tr class="krow1">
+			<td valign="top" class="kprofileboxcnt">
+				<div class="k_guest">
+					Welcome,
+					<b>Guest</b>
+				</div>
+								<form action="index.php?option=com_kunena" method="post" name="login">
+					<div class="input">
+						<span>
+							Username							<input type="text" name="username" class="inputbox ks" alt="username" size="18" />
+						</span>
+						<span>
+							Password:							<input type="password" name="passwd" class="inputbox ks" size="18" alt="password" /></span>
+						<span>
+														Remember me							<input type="checkbox" name="remember" alt="" value="yes" />
+														<input type="submit" name="submit" class="kbutton" value="Login" />
+							<input type="hidden" name="option" value="com_user" />
+							<input type="hidden" name="task" value="login" />
+							<input type="hidden" name="return" value="L2luZGV4LnBocD9vcHRpb249Y29tX2t1bmVuYSZmdW5jPXByb2ZpbGUmdXNlcmlkPTUwNiZJdGVtaWQ9ODU=" /> <input type="hidden" name="db02a1f00185e4df7b456864359c76f7" value="1" />						</span>
+					</div>
+					<div class="klink-block">
+						<span class="kprofilebox-link">
+							<a href="/user/reset" title="" rel="nofollow">Forgot your password?</a>						</span>
+						<span class="kprofilebox-link">
+							<a href="/user/remind" title="" rel="nofollow">Forgot your username?</a>						</span>
+											</div>
+				</form>
+							</td>
+						</tr>
+	</tbody>
+</table>
+		</div>
+	</div>
+</div>
+<div class="kblock k-profile">
+	<div class="kheader">
+		<h2><span class="k-name">Profile for Stephen Craig Hughes (shughes)</span>
+		</h2>
+	</div>
+	<div class="kcontainer">
+		<div class="kbody">
+			<table class = "kblocktable" id ="kprofile">
+				<tr>
+					<td class = "kcol-first kcol-left">
+						<div id="kprofile-leftcol">
+														<div class="kavatar-lg"><img class="kavatar" src="https://sesa.org.au/media/kunena/avatars/resized/size200/./nophoto.jpg" alt="" style="max-width: 200px; max-height: 200px" /></div>
+														<div id="kprofile-stats">
+							<ul>
+																<li><span class="kicon-button kbuttononline-no"><span class="online-no"><span>OFFLINE</span></span></span></li>
+																																<li><strong>Register Date:</strong> <span title="9 years ago">19 Oct 2010</span></li>								<li><strong>Last Visit Date:</strong> <span title="6 months, 2 weeks ago">30 Apr 2019</span></li>								<li><strong>Time Zone:</strong> GMT +0:00</li>
+								<li><strong>Local Time:</strong> 21:54</li>
+								<li><strong>Posts:</strong> 7</li>																								<li><strong>Profile Views:</strong> 717</li>
+								<li></li>
+																							</ul>
+							</div>
+						</div>
+					</td>
+					<td class="kcol-mid kcol-right">
+						<div id="kprofile-rightcol">
+							<div id="kprofile-rightcoltop">
+	<div class="kprofile-rightcol2">
+
+<div class="kiconrow">
+	<span class="kicon-profile kicon-profile-twitter-off"></span>	<span class="kicon-profile kicon-profile-facebook-off"></span>	<span class="kicon-profile kicon-profile-myspace-off"></span>	<span class="kicon-profile kicon-profile-linkedin-off"></span>	<span class="kicon-profile kicon-profile-skype-off"></span></div>
+<div class="kiconrow">
+	<span class="kicon-profile kicon-profile-delicious-off"></span>	<span class="kicon-profile kicon-profile-friendfeed-off"></span>	<span class="kicon-profile kicon-profile-digg-off"></span></div>
+<div class="clr"></div>
+<div class="kiconrow">
+	<span class="kicon-profile kicon-profile-yim-off"></span>	<span class="kicon-profile kicon-profile-aim-off"></span>	<span class="kicon-profile kicon-profile-gtalk-off"></span>	<span class="kicon-profile kicon-profile-icq-off"></span>	<span class="kicon-profile kicon-profile-msn-off"></span></div>
+<div class="kiconrow">
+	<span class="kicon-profile kicon-profile-blogspot-off"></span>	<span class="kicon-profile kicon-profile-flickr-off"></span>	<span class="kicon-profile kicon-profile-bebo-off"></span></div>	</div>
+	<div class="kprofile-rightcol1">
+		<ul>
+			<li><span class="kicon-profile kicon-profile-location"></span><strong>Location:</strong> Unknown</li>
+			<!--  The gender determines the suffix on the span class- gender-male & gender-female  -->
+			<li><span class="kicon-profile kicon-profile-gender-unknown"></span><strong>Gender:</strong> Unknown</li>
+			<li class="bd"><span class="kicon-profile kicon-profile-birthdate"></span><strong>Birthdate:</strong> <span title="Unknown">Unknown</span>
+			<!--  <a href="#" title=""><span class="bday-remind"></span></a> -->
+			</li>
+		</ul>
+	</div>
+</div>
+
+<div class="clrline"></div>
+<div id="kprofile-rightcolbot">
+	<div class="kprofile-rightcol2">
+		<ul>
+									<li><a href="http://" target="_blank"></a></li>
+		</ul>
+	</div>
+	<div class="kprofile-rightcol1">
+		<h4>Signature</h4>
+		<div class="kmsgsignature"><div></div></div>
+	</div>
+
+</div>
+
+<div class="clrline"></div>
+
+<div id="kprofile-tabs">
+	<dl class="tabs">
+				<dt class="open">Posts</dt>
+		<dd style="display: none;">
+			<form action="https://sesa.org.au/" method="post" name="kBulkActionForm">
+<div class="kblock">
+	<div class="kheader">
+				<h2><span>Posts</span></h2>
+	</div>
+	<div class="kcontainer">
+		<div class="kbody">
+<table
+	class="">
+				<tr class="krow2">
+			<td class="kcol-first kcol-ktopicicon">
+				<img src="https://sesa.org.au/components/com_kunena/template/default/images/topicicons/icon_unanswered.png" alt="emo" />			</td>
+
+			<td class="kcol-mid ktopictittle">
+			<span class="kicon ktopicattach" title="Attachment"></span>				<div class="ktopic-title-cover">
+					<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=48&amp;Itemid=85" title="Folks,
+
+Please find attached two files.  One is an overview powerpoint presentation of our financial position, the second is a more detailed excel spreadsheet (which I won't address at the AGM unless requested to).  I can also make available a MS Money (2003) file to anyone who desires more detail, although it is 4MBytes
+
+If you have any questions, please reply prior to the meeting.  It will be hard for me to handle anything but general questions at the meeting.
+
+Thanks
+Steve Hughes
+National Treasurer
+
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = 'm&#97;&#105;lt&#111;:';
+ var suffix = '';
+ var attribs = '';
+ var path = 'hr' + 'ef' + '=';
+ var addy79797 = 'tr&#101;&#97;s&#117;r&#101;r' + '&#64;';
+ addy79797 = addy79797 + 's&#101;s&#97;' + '&#46;' + '&#111;rg' + '&#46;' + '&#97;&#117;';
+ document.write( '<a ' + path + '\'' + prefix + addy79797 + suffix + '\'' + attribs + '>' );
+ document.write( addy79797 );
+ document.write( '<\/a>' );
+ //-->
+ </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script>" rel="follow">Treasurer's Report to the AGM May 2011</a>				</div>
+				<div style="display:none">Folks,<br />
+<br />
+Please find attached two files.  One is an overview powerpoint presentation of our financial position, the second is a more detailed excel spreadsheet (which I won't address at the AGM unless requested to).  I can also make available a MS Money (2003) file to anyone who desires more detail, although it is 4MBytes<br />
+<br />
+If you have any questions, please reply prior to the meeting.  It will be hard for me to handle anything but general questions at the meeting.<br />
+<br />
+Thanks<br />
+Steve Hughes<br />
+National Treasurer<br />
+
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = 'm&#97;&#105;lt&#111;:';
+ var suffix = '';
+ var attribs = '';
+ var path = 'hr' + 'ef' + '=';
+ var addy73790 = 'tr&#101;&#97;s&#117;r&#101;r' + '&#64;';
+ addy73790 = addy73790 + 's&#101;s&#97;' + '&#46;' + '&#111;rg' + '&#46;' + '&#97;&#117;';
+ document.write( '<a ' + path + '\'' + prefix + addy73790 + suffix + '\'' + attribs + '>' );
+ document.write( addy73790 );
+ document.write( '<\/a>' );
+ //-->
+ </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></div>
+			</td>
+
+			<td class="kcol-mid ktopictittle">
+				<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=48&amp;Itemid=85" title="Folks,
+
+Please find attached two files.  One is an overview powerpoint presentation of our financial position, the second is a more detailed excel spreadsheet (which I won't address at the AGM unless requested to).  I can also make available a MS Money (2003) file to anyone who desires more detail, although it is 4MBytes
+
+If you have any questions, please reply prior to the meeting.  It will be hard for me to handle anything but general questions at the meeting.
+
+Thanks
+Steve Hughes
+National Treasurer
+
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = 'm&#97;&#105;lt&#111;:';
+ var suffix = '';
+ var attribs = '';
+ var path = 'hr' + 'ef' + '=';
+ var addy93858 = 'tr&#101;&#97;s&#117;r&#101;r' + '&#64;';
+ addy93858 = addy93858 + 's&#101;s&#97;' + '&#46;' + '&#111;rg' + '&#46;' + '&#97;&#117;';
+ document.write( '<a ' + path + '\'' + prefix + addy93858 + suffix + '\'' + attribs + '>' );
+ document.write( addy93858 );
+ document.write( '<\/a>' );
+ //-->
+ </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script>" rel="follow">Treasurer's Report to the AGM May 2011</a>												<div class="ks">
+					<!-- Category -->
+					<span class="ktopic-category">
+						Category: <a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=14&amp;Itemid=85" title="" rel="follow">General Announcements</a>					</span>
+					<!-- /Category -->
+				</div>
+			</td>
+			<td class="kcol-mid kcol-ktopiclastpost">
+				<div class="klatest-post-info">
+					<!--  Sticky   -->
+										<!--  /Sticky   -->
+					<!-- Avatar -->
+										<!-- /Avatar -->
+					<!-- By -->
+					<span class="ktopic-posted-time" title="27 Apr 2011 21:23">
+						Posted 27 Apr 2011 21:23&nbsp;
+					</span>
+
+										<br />
+					<span class="ktopic-by">by <a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=506&amp;Itemid=85" title="" rel="nofollow">Stephen Craig Hughes</a></span>
+										<!-- /By -->
+				</div>
+			</td>
+
+					</tr>
+
+				<tr class="krow1">
+			<td class="kcol-first kcol-ktopicicon">
+				<img src="https://sesa.org.au/components/com_kunena/template/default/images/topicicons/icon_normal.png" alt="emo" />			</td>
+
+			<td class="kcol-mid ktopictittle">
+							<div class="ktopic-title-cover">
+					<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=45&amp;Itemid=85" title="Fallon, my appologies, I was referring to an older version rather than a newer version.  I believe the correct section is section 5.
+WRT legal opinions - we are obliged to seek legal opinion, this has been provided by EA." rel="follow">Re: SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE</a>				</div>
+				<div style="display:none">Fallon, my appologies, I was referring to an older version rather than a newer version.  I believe the correct section is section 5.<br />
+WRT legal opinions - we are obliged to seek legal opinion, this has been provided by EA.</div>
+			</td>
+
+			<td class="kcol-mid ktopictittle">
+				<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=25&amp;Itemid=85" title="This topic has been set up for all SESA members (including INCOSE Australia members) to discuss, ask questions or raise concerns about the proposed motion for the merger of SESA and INCOSE that will be raised during the SESA AGM at the SETE2011 conference on May 3rd (See the attachment - requires login to see this).
+
+Paul Miller
+Webmaster" rel="follow">SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE</a>												<div class="ks">
+					<!-- Category -->
+					<span class="ktopic-category">
+						Category: <a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=14&amp;Itemid=85" title="" rel="follow">General Announcements</a>					</span>
+					<!-- /Category -->
+				</div>
+			</td>
+			<td class="kcol-mid kcol-ktopiclastpost">
+				<div class="klatest-post-info">
+					<!--  Sticky   -->
+										<!--  /Sticky   -->
+					<!-- Avatar -->
+										<!-- /Avatar -->
+					<!-- By -->
+					<span class="ktopic-posted-time" title="21 Apr 2011 08:35">
+						Posted 21 Apr 2011 08:35&nbsp;
+					</span>
+
+										<br />
+					<span class="ktopic-by">by <a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=506&amp;Itemid=85" title="" rel="nofollow">Stephen Craig Hughes</a></span>
+										<!-- /By -->
+				</div>
+			</td>
+
+					</tr>
+
+				<tr class="krow2">
+			<td class="kcol-first kcol-ktopicicon">
+				<img src="https://sesa.org.au/components/com_kunena/template/default/images/topicicons/icon_normal.png" alt="emo" />			</td>
+
+			<td class="kcol-mid ktopictittle">
+							<div class="ktopic-title-cover">
+					<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=39&amp;Itemid=85" title="Dan,
+
+Firstly the IP issue - Section 3.3 of the MOU states that INCOSE will provide SESA rights to reproduce and publish material that INCOSE has the copywrite of, including all papers at all INCOSE conferences.  INCOSE in return are to be granted rights to reproduce any papers published in the SESA newsletter or SETE conference, and any other IP owned by us.
+The SESA website will remain, but we will, I expect, provide links to the INCOSE.
+
+Why stay with Engineers Australia:
+On a very practical level, EA provide our legal existance (although we could always incorporate ourselves), they provide insurance for the management committee in case we screw up, and they provide a financial backstop - should things go badly they will bail us out.  they also provide a level of administrative support, in terms of facilities for meetings, taking of minutes, and general advice on how to run a society.  There are many of these type of things - for instance, if we agree to merge with INCOSE, continuing to generate a 40ish page newsletter will not be required.  We are working with EA's publishing folk on how to generate a two or four page local newsletter in both paper and electronic format.  In short they provide us significant support that we would otherwise have to procure commercially.
+On a more philosophical level, if we want to claim being the peak systems engineering society in Australia and if we want to influence the direction of engineering in this country, then we should be aligned with the peak engineering body, which is clearly EA.
+
+I hope this helps
+Regards
+Stephen Hughes
+National Treasurer" rel="follow">Re: SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE</a>				</div>
+				<div style="display:none">Dan,<br />
+<br />
+Firstly the IP issue - Section 3.3 of the MOU states that INCOSE will provide SESA rights to reproduce and publish material that INCOSE has the copywrite of, including all papers at all INCOSE conferences.  INCOSE in return are to be granted rights to reproduce any papers published in the SESA newsletter or SETE conference, and any other IP owned by us.<br />
+The SESA website will remain, but we will, I expect, provide links to the INCOSE.<br />
+<br />
+Why stay with Engineers Australia:<br />
+On a very practical level, EA provide our legal existance (although we could always incorporate ourselves), they provide insurance for the management committee in case we screw up, and they provide a financial backstop - should things go badly they will bail us out.  they also provide a level of administrative support, in terms of facilities for meetings, taking of minutes, and general advice on how to run a society.  There are many of these type of things - for instance, if we agree to merge with INCOSE, continuing to generate a 40ish page newsletter will not be required.  We are working with EA's publishing folk on how to generate a two or four page local newsletter in both paper and electronic format.  In short they provide us significant support that we would otherwise have to procure commercially.<br />
+On a more philosophical level, if we want to claim being the peak systems engineering society in Australia and if we want to influence the direction of engineering in this country, then we should be aligned with the peak engineering body, which is clearly EA.<br />
+<br />
+I hope this helps<br />
+Regards<br />
+Stephen Hughes<br />
+National Treasurer</div>
+			</td>
+
+			<td class="kcol-mid ktopictittle">
+				<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=25&amp;Itemid=85" title="This topic has been set up for all SESA members (including INCOSE Australia members) to discuss, ask questions or raise concerns about the proposed motion for the merger of SESA and INCOSE that will be raised during the SESA AGM at the SETE2011 conference on May 3rd (See the attachment - requires login to see this).
+
+Paul Miller
+Webmaster" rel="follow">SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE</a>												<div class="ks">
+					<!-- Category -->
+					<span class="ktopic-category">
+						Category: <a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=14&amp;Itemid=85" title="" rel="follow">General Announcements</a>					</span>
+					<!-- /Category -->
+				</div>
+			</td>
+			<td class="kcol-mid kcol-ktopiclastpost">
+				<div class="klatest-post-info">
+					<!--  Sticky   -->
+										<!--  /Sticky   -->
+					<!-- Avatar -->
+										<!-- /Avatar -->
+					<!-- By -->
+					<span class="ktopic-posted-time" title="20 Apr 2011 09:27">
+						Posted 20 Apr 2011 09:27&nbsp;
+					</span>
+
+										<br />
+					<span class="ktopic-by">by <a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=506&amp;Itemid=85" title="" rel="nofollow">Stephen Craig Hughes</a></span>
+										<!-- /By -->
+				</div>
+			</td>
+
+					</tr>
+
+				<tr class="krow1">
+			<td class="kcol-first kcol-ktopicicon">
+				<img src="https://sesa.org.au/components/com_kunena/template/default/images/topicicons/icon_normal.png" alt="emo" />			</td>
+
+			<td class="kcol-mid ktopictittle">
+							<div class="ktopic-title-cover">
+					<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=35&amp;Itemid=85" title="If I may address one element of Herve's notice, the financial modelling.  I have modelled the proposed structure including many variables.  The $US135 paid to INCOSE includes a $30 chapter fee which will come back to SESA, so in effect we pay INCOSE $US105.
+This $30 is sufficient to cover the GST and some exposure to exchange rate variation (down to $A1 = $US0.86) but is insufficient to cover the management costs of SESA.  These costs will need to come from continuing to manage a successful SETE conference each year.  The management committee was satisfied that this was an acceptable situation, rather than further increase the membership fees to fully cover our running cost (as is the case at present).
+
+The model is attached for those who wish to investigate further.
+
+Regards
+Stephen Hughes
+National Treasurer" rel="follow">Re: SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE</a>				</div>
+				<div style="display:none">If I may address one element of Herve's notice, the financial modelling.  I have modelled the proposed structure including many variables.  The $US135 paid to INCOSE includes a $30 chapter fee which will come back to SESA, so in effect we pay INCOSE $US105.<br />
+This $30 is sufficient to cover the GST and some exposure to exchange rate variation (down to $A1 = $US0.86) but is insufficient to cover the management costs of SESA.  These costs will need to come from continuing to manage a successful SETE conference each year.  The management committee was satisfied that this was an acceptable situation, rather than further increase the membership fees to fully cover our running cost (as is the case at present).<br />
+<br />
+The model is attached for those who wish to investigate further.<br />
+<br />
+Regards<br />
+Stephen Hughes<br />
+National Treasurer</div>
+			</td>
+
+			<td class="kcol-mid ktopictittle">
+				<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=25&amp;Itemid=85" title="This topic has been set up for all SESA members (including INCOSE Australia members) to discuss, ask questions or raise concerns about the proposed motion for the merger of SESA and INCOSE that will be raised during the SESA AGM at the SETE2011 conference on May 3rd (See the attachment - requires login to see this).
+
+Paul Miller
+Webmaster" rel="follow">SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE</a>												<div class="ks">
+					<!-- Category -->
+					<span class="ktopic-category">
+						Category: <a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=14&amp;Itemid=85" title="" rel="follow">General Announcements</a>					</span>
+					<!-- /Category -->
+				</div>
+			</td>
+			<td class="kcol-mid kcol-ktopiclastpost">
+				<div class="klatest-post-info">
+					<!--  Sticky   -->
+										<!--  /Sticky   -->
+					<!-- Avatar -->
+										<!-- /Avatar -->
+					<!-- By -->
+					<span class="ktopic-posted-time" title="17 Apr 2011 21:24">
+						Posted 17 Apr 2011 21:24&nbsp;
+					</span>
+
+										<br />
+					<span class="ktopic-by">by <a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=506&amp;Itemid=85" title="" rel="nofollow">Stephen Craig Hughes</a></span>
+										<!-- /By -->
+				</div>
+			</td>
+
+					</tr>
+
+				<tr class="krow2">
+			<td class="kcol-first kcol-ktopicicon">
+				<img src="https://sesa.org.au/components/com_kunena/template/default/images/topicicons/icon_normal.png" alt="emo" />			</td>
+
+			<td class="kcol-mid ktopictittle">
+							<div class="ktopic-title-cover">
+					<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=26&amp;Itemid=85" title="As a committee member, I may be somewhat biased, however, my personal point of view is this has been a long time coming.  This association will add significant value to all our members.
+Steve Hughes
+National Treasurer" rel="follow">Re: SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE</a>				</div>
+				<div style="display:none">As a committee member, I may be somewhat biased, however, my personal point of view is this has been a long time coming.  This association will add significant value to all our members.<br />
+Steve Hughes<br />
+National Treasurer</div>
+			</td>
+
+			<td class="kcol-mid ktopictittle">
+				<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=25&amp;Itemid=85" title="This topic has been set up for all SESA members (including INCOSE Australia members) to discuss, ask questions or raise concerns about the proposed motion for the merger of SESA and INCOSE that will be raised during the SESA AGM at the SETE2011 conference on May 3rd (See the attachment - requires login to see this).
+
+Paul Miller
+Webmaster" rel="follow">SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE</a>												<div class="ks">
+					<!-- Category -->
+					<span class="ktopic-category">
+						Category: <a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=14&amp;Itemid=85" title="" rel="follow">General Announcements</a>					</span>
+					<!-- /Category -->
+				</div>
+			</td>
+			<td class="kcol-mid kcol-ktopiclastpost">
+				<div class="klatest-post-info">
+					<!--  Sticky   -->
+										<!--  /Sticky   -->
+					<!-- Avatar -->
+										<!-- /Avatar -->
+					<!-- By -->
+					<span class="ktopic-posted-time" title="11 Apr 2011 10:47">
+						Posted 11 Apr 2011 10:47&nbsp;
+					</span>
+
+										<br />
+					<span class="ktopic-by">by <a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=506&amp;Itemid=85" title="" rel="nofollow">shughes</a></span>
+										<!-- /By -->
+				</div>
+			</td>
+
+					</tr>
+
+				<tr class="krow1">
+			<td class="kcol-first kcol-ktopicicon">
+				<img src="https://sesa.org.au/components/com_kunena/template/default/images/topicicons/icon_normal.png" alt="emo" />			</td>
+
+			<td class="kcol-mid ktopictittle">
+							<div class="ktopic-title-cover">
+					<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=8&amp;id=23&amp;Itemid=85" title="Roger, I disagree.
+Use Cases are both Design and Requirements (depending on where you sit).  The Use Case is a requirement as it almost the only document on which a user interface is based.  The use case is drawn up by the systems design team, in consultation with the users, and forms the design of the UI, which is then implemented by the coding team, and used by the system design team to determine if the coding team have done what was asked.
+Steve" rel="follow">Re: Are Use Cases Requirements or Design</a>				</div>
+				<div style="display:none">Roger, I disagree.<br />
+Use Cases are both Design and Requirements (depending on where you sit).  The Use Case is a requirement as it almost the only document on which a user interface is based.  The use case is drawn up by the systems design team, in consultation with the users, and forms the design of the UI, which is then implemented by the coding team, and used by the system design team to determine if the coding team have done what was asked.<br />
+Steve</div>
+			</td>
+
+			<td class="kcol-mid ktopictittle">
+				<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=8&amp;id=8&amp;Itemid=85" title="Can Use Cases be considered as being requirements in their own right or are they design artifacts used to help discover and create separate requirement statements? Use Cases don't satisfy the traditional characteristics of what constitutes good quality requirements so do these characteristics need to change or are people heading down the wrong track trying to manage Use Cases like requirements. What are the views of members on this?" rel="follow">Are Use Cases Requirements or Design</a>												<div class="ks">
+					<!-- Category -->
+					<span class="ktopic-category">
+						Category: <a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=8&amp;Itemid=85" title="" rel="follow">Requirements Engineering</a>					</span>
+					<!-- /Category -->
+				</div>
+			</td>
+			<td class="kcol-mid kcol-ktopiclastpost">
+				<div class="klatest-post-info">
+					<!--  Sticky   -->
+										<!--  /Sticky   -->
+					<!-- Avatar -->
+										<!-- /Avatar -->
+					<!-- By -->
+					<span class="ktopic-posted-time" title="20 Dec 2010 09:28">
+						Posted 20 Dec 2010 09:28&nbsp;
+					</span>
+
+										<br />
+					<span class="ktopic-by">by <a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=506&amp;Itemid=85" title="" rel="nofollow">shughes</a></span>
+										<!-- /By -->
+				</div>
+			</td>
+
+					</tr>
+
+				<tr class="krow2">
+			<td class="kcol-first kcol-ktopicicon">
+				<img src="https://sesa.org.au/components/com_kunena/template/default/images/topicicons/icon_normal.png" alt="emo" />			</td>
+
+			<td class="kcol-mid ktopictittle">
+							<div class="ktopic-title-cover">
+					<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=3&amp;id=22&amp;Itemid=85" title="Paul,  I am running my current project in an agile manner - but it does meet almost all your criteria - high user interaction, small project team, T&amp;M budget.  My team is not colocated, and this has had some challenges, and I have four vendors involved, which has also had some challenges.
+From an SE point of view, we have been developing and documenting requirements in parallel with the code development.  At the start I issued a spec which had the general form of what was required, but detailed requriements have evolved with the project.  Testing (which is what we are now up to) is interesting as I don't have a requirements baseline to test against.  Instead we will use user focus groups to determine the operational acceptability of what we have built.  Another issue has been the absence of a separation between acquirer and supplier, so I am in the position of needing to do customer acceptance of a product that I have been closely involved in the specification, design and build of.
+Steve" rel="follow">Re: Agile Methodology - Hype or the future?</a>				</div>
+				<div style="display:none">Paul,  I am running my current project in an agile manner - but it does meet almost all your criteria - high user interaction, small project team, T&amp;M budget.  My team is not colocated, and this has had some challenges, and I have four vendors involved, which has also had some challenges.<br />
+From an SE point of view, we have been developing and documenting requirements in parallel with the code development.  At the start I issued a spec which had the general form of what was required, but detailed requriements have evolved with the project.  Testing (which is what we are now up to) is interesting as I don't have a requirements baseline to test against.  Instead we will use user focus groups to determine the operational acceptability of what we have built.  Another issue has been the absence of a separation between acquirer and supplier, so I am in the position of needing to do customer acceptance of a product that I have been closely involved in the specification, design and build of.<br />
+Steve</div>
+			</td>
+
+			<td class="kcol-mid ktopictittle">
+				<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=3&amp;id=7&amp;Itemid=85" title="I'm interested to know the opinion of members about the suitability of the Agile methodology for Systems Integration type projects. Seems to me that Agile is only suitable for projects that fall into a narrow set of criteria e.g. Software Intensive, solutions that involve a high level of user interaction, co-located small size project team, a customer willing to pay time &amp; materials for each Agile iteration, minimal or no 3rd party vendors etc. &quot;Being Agile&quot; is the new mantra of executives and senior managers as a means to achieve the holy grail of faster, cheaper and working. 
+
+Is it all hype?" rel="follow">Agile Methodology - Hype or the future?</a>												<div class="ks">
+					<!-- Category -->
+					<span class="ktopic-category">
+						Category: <a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=3&amp;Itemid=85" title="" rel="follow">General Systems Engineering Topic</a>					</span>
+					<!-- /Category -->
+				</div>
+			</td>
+			<td class="kcol-mid kcol-ktopiclastpost">
+				<div class="klatest-post-info">
+					<!--  Sticky   -->
+										<!--  /Sticky   -->
+					<!-- Avatar -->
+										<!-- /Avatar -->
+					<!-- By -->
+					<span class="ktopic-posted-time" title="20 Dec 2010 09:23">
+						Posted 20 Dec 2010 09:23&nbsp;
+					</span>
+
+										<br />
+					<span class="ktopic-by">by <a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=506&amp;Itemid=85" title="" rel="nofollow">shughes</a></span>
+										<!-- /By -->
+				</div>
+			</td>
+
+					</tr>
+
+				</table>
+</div>
+</div>
+</div>
+<input type="hidden" name="option" value="com_kunena" />
+<input type="hidden" name="func" value="bulkactions" />
+<input type="hidden" name="db02a1f00185e4df7b456864359c76f7" value="1" /></form>		</dd>
+				<dt class="closed">Thank You</dt>
+		<dd style="display: none;">
+			<form action="https://sesa.org.au/" method="post" name="kBulkActionForm">
+<div class="kblock">
+	<div class="kheader">
+				<h2><span>Received Thank You</span></h2>
+	</div>
+	<div class="kcontainer">
+		<div class="kbody">
+<table
+	class="">
+				<tr class="krow2">
+			<td class="kcol-first kcol-ktopicicon">No Posts</td>
+		</tr>
+				</table>
+</div>
+</div>
+</div>
+<input type="hidden" name="option" value="com_kunena" />
+<input type="hidden" name="func" value="bulkactions" />
+<input type="hidden" name="db02a1f00185e4df7b456864359c76f7" value="1" /></form>			<form action="https://sesa.org.au/" method="post" name="kBulkActionForm">
+<div class="kblock">
+	<div class="kheader">
+				<h2><span>Said Thank You</span></h2>
+	</div>
+	<div class="kcontainer">
+		<div class="kbody">
+<table
+	class="">
+				<tr class="krow2">
+			<td class="kcol-first kcol-ktopicicon">No Posts</td>
+		</tr>
+				</table>
+</div>
+</div>
+</div>
+<input type="hidden" name="option" value="com_kunena" />
+<input type="hidden" name="func" value="bulkactions" />
+<input type="hidden" name="db02a1f00185e4df7b456864359c76f7" value="1" /></form>		</dd>
+											</dl>
+</div>
+						</div>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+</div>
+<div class="krss-block"><a href="/index.php?option=com_kunena&amp;func=rss&amp;Itemid=85" title="" rel="follow" target="_blank"><span class="kicon krss" title="get the latest posts directly to your desktop"></span></a></div><div class="kcredits kms"> <a href="/index.php?option=com_kunena&amp;func=credits&amp;catid=0&amp;Itemid=85" title="" rel="follow">Powered by</a> <a href="http://www.kunena.com" title="Kunena" rel="follow" target="_blank">Kunena</a></div>	<div class="kfooter">
+		<span class="kfooter-time">Time to create page:&nbsp;0.17&nbsp;seconds</span>
+	</div>
+</div>
+<!-- closes Kunena div -->
+
+                    </div>
+                    <div class="bottom"></div>
+				</td>
+				</table>
+
+                <td class="shadowright">
+                    <img src="/templates/js_simplepro_red/images/topright.png" alt="" width="11"/>
+                </td>
+			</tr>
+
+            <td colspan="3">
+                <div class="bottomenu"></div>
+            </td>
+</table>
+</div>
+
+
+
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-4538777-1");
+
+pageTracker._initData();
+
+pageTracker._trackPageview();
+
+</script>
+
+</body>
+
+</html>
+

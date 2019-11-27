@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding=""?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+  <base href="https://sesa.org.au/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="" />
+  <meta name="title" content="Search a Document - Sesa" />
+  <meta name="description" content="Systems engineering focuses on how the deliverables of complex projects are specified, designed, qualified, deployed and change managed over the entire end to end life cycle of the project." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Search a Document - Sesa</title>
+  <link rel="stylesheet" href="https://sesa.org.au/components/com_docman/themes/default/css/theme.css" type="text/css" />
+
+
+<link href="/templates/js_simplepro_red/css/template_css.css" rel="stylesheet" type="text/css" />
+
+<link rel="shortcut icon" href="/images/favicon.ico" />
+
+</head>
+
+<body id="page_bg">
+
+<a name="up" id="up"></a>
+
+<div class="center" align="center">
+
+  <table cellpadding="0" cellspacing="0" width="1100" id="maintable">
+
+    <tr valign="top">
+
+      <td class="shadowleft"><img src="/templates/js_simplepro_red/images/topleft.png" alt="" width="11"/><br /></td>
+
+      <td class="wrapper">
+	  	<div id="header">
+      		<div id="headeright">
+            	<div id="headerleft">
+                	<a href="/"><img class="sesa_logo" src="/templates/js_simplepro_red/images/sesa_logo.png" /></a>
+                 </div>
+            </div>
+		</div>
+        
+        <div id="mainbody">
+	        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr valign="top">
+	            <td valign="top" class="navbar">
+                <div class="push">
+                    <div class="leftcoltop">&nbsp;</div>
+                    <div class="leftcol">		<div class="moduletable">
+					
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr ><td><a href="/" class="mainlevel" >Home</a></td></tr>
+<tr ><td><a href="/what-is-systems-engineering" class="mainlevel" >What is Systems Eng?</a></td></tr>
+<tr ><td><a href="/about-sesa" class="mainlevel" >About SESA</a></td></tr>
+<tr ><td><a href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12" class="mainlevel" >SESA Committee</a></td></tr>
+<tr ><td><a href="/membership" class="mainlevel" >Membership</a></td></tr>
+<tr ><td><a href="/corporate-members-fy2015-16" class="mainlevel" >Corporate Members</a></td></tr>
+<tr ><td><a href="/system-engineering-resources" class="mainlevel" >Systems Eng Resources</a></td></tr>
+<tr ><td><a href="/sesa-working-groups" class="mainlevel" >SESA Working Groups</a></td></tr>
+<tr ><td><a href="/newlinks" class="mainlevel" >Links</a></td></tr>
+<tr ><td><a href="/case-csep-applications" class="mainlevel" >CASE/CSEP Applications</a></td></tr>
+<tr ><td><a href="/search" class="mainlevel" >Search</a></td></tr>
+<tr ><td><a href="/contact-us" class="mainlevel" >Contact Us</a></td></tr>
+</table>		</div>
+			<div class="moduletable">
+					<h3>Member Login</h3>
+					<form action="https://sesa.org.au/component/comprofiler/login" method="post" id="mod_loginform" style="margin:0px;">
+Available to SESA members only. If you are a SESA member and don't have a login, go to the Contact Us web page and send a request to the Webmaster.
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="mod_login">
+<tr><td><span id="mod_login_usernametext"><label for="mod_login_username">Username</label></span><br />
+<input type="text" name="username" id="mod_login_username" class="inputbox" size="14" /><br />
+<span id="mod_login_passwordtext"><label for="mod_login_password">Password</label></span><br /><span><input type="password" name="passwd" id="mod_login_password" class="inputbox" size="14" /></span><br />
+<input type="hidden" name="op2" value="login" />
+<input type="hidden" name="lang" value="english" />
+<input type="hidden" name="force_session" value="1" />
+<input type="hidden" name="return" value="B:aHR0cHM6Ly9zZXNhLm9yZy5hdS9kb3dubG9hZHMtdXNlcm1lbnUtMzMvc2VhcmNoX2Zvcm0=" />
+<input type="hidden" name="message" value="0" />
+<input type="hidden" name="loginfrom" value="loginmodule" />
+<input type="hidden" name="cbsecuritym3" value="cbm_351af2eb_6b11db96_5674d7cb4f9530ea7c98bdb043d65b28" />
+<input type="checkbox" name="remember" id="mod_login_remember" value="yes" /> <span id="mod_login_remembermetext"><label for="mod_login_remember">Remember me</label></span><br />
+<input type="submit" name="Submit" class="button" value="Login" /></td></tr>
+<tr><td><a href="https://sesa.org.au/component/comprofiler/lostpassword" class="mod_login">Forgot login?</a></td></tr>
+</table></form>		</div>
+	</div>
+                    <div class="leftmodfooter">&nbsp;</div>
+                </div>
+                </td>
+
+				<td>
+				<div id="carea">
+					<div class="top"></div>
+                    <div class="middle">
+						<div class="banner">
+                            
+						</div>
+
+                      	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            	<tr valign="top">
+                                	<td width="50%">
+                                        
+                                    </td>
+                                	<td class="sep"><img src="/templates/js_simplepro_red/images/spacer.png" alt="spacer.png, 0 kB" width="11" /></td>
+              						<td width="50%">
+                                        
+                                    </td>
+                                </tr>
+                            </table>
+                      	
+						<div id="maindivider"></div>
+                      	<div id="dm_header">
+<div>
+<a href="/downloads-usermenu-33">
+<img src="/components/com_docman/themes/default/images/icons/32x32/home.png" alt="Downloads Home" /><br />
+Downloads Home		</a>
+</div>
+<div>
+<a href="/downloads-usermenu-33/search_form">
+<img src="/components/com_docman/themes/default/images/icons/32x32/search.png" alt="Search Document" /><br />
+Search Document		</a>
+</div>
+</div>
+<div class="clr"></div>
+<h2 id="dm_title">Search a Document</h2>
+<fieldset class="input">
+<table width="100%" class="contentpaneopen">
+<form action="/downloads-usermenu-33/search_result" method="post" name="adminForm" id="dm_frmsearch" class="dm_searchform">
+<tr height="30px">
+<td nowrap="nowrap" width="150px">
+<label for="search_phrase">Search Keyword</label>:
+</td>
+<td nowrap="nowrap" width="150px">
+<input type="text" class="inputbox" id="search_phrase" name="search_phrase"  value="" />
+</td>
+<td nowrap="nowrap">
+</td>
+</tr>
+<tr height="30px">
+<td nowrap="nowrap">
+<label for="catid">Select Category</label>:
+</td>
+<td nowrap="nowrap">
+<select name="catid" id="catid" id="catid" class="inputbox" size="1" onchange=""><option value="0"  selected="selected">All Categories</option><option value="138" >ASEW 2016</option><option value="137" >Australian SE Workshop 2015 - Sydney</option><option value="125" >MBSE Symposium 2014 - Canberra</option><option value="18" >SESA Newsletter</option></select>                </td>
+<td nowrap="nowrap">
+</td>
+</tr>
+<tr height="30px">
+<td nowrap="nowrap">
+<label for="ordering">Ordering</label>:
+</td>
+<td nowrap="nowrap">
+<select name="ordering" id="ordering" id="ordering" class="inputbox"><option value="newest"  selected="selected">Newest first</option><option value="oldest" >Oldest first</option><option value="popular" >Most popular</option><option value="alpha" >Alphabetical</option><option value="category" >Category</option></select>                </td>
+<td nowrap="nowrap">
+<input type="checkbox" class="inputbox" name="reverse_order" />Reverse                </td>
+</tr>
+<tr height="30px">
+<td nowrap="nowrap">
+<label for="search_mode">Search by</label>:
+</td>
+<td>
+<select name="search_mode" id="search_mode" id="search_mode" class="inputbox"><option value="any"  selected="selected">Any words</option><option value="all" >All words</option><option value="exact" >Exact phrase</option><option value="regex" >Regular Expression</option></select>                </td>
+<td>
+<input type="checkbox" class="inputbox" name="invert_search" />Not                </td>
+</tr>
+<tr height="30px">
+<td nowrap="nowrap">
+<label for="search_where">Search where</label>:
+</td>
+<td>
+<select name="search_where[]" id="search_where" id="search_where" class="inputbox" multiple="multiple" size="2"><option value="search_name"  selected="selected">Name</option><option value="search_description"  selected="selected">Description</option></select>                </td>
+<td nowrap="nowrap">
+</td>
+</tr>
+<tr height="30px">
+<td nowrap="nowrap">
+</td>
+<td>
+<input type="submit" class="button" value="Search" />
+</td>
+<td>
+</td>
+</tr>
+</form>
+</table>
+</fieldset>
+<dl id="dm_docs">
+</dl>
+                    </div>
+                    <div class="bottom"></div>
+				</td>
+				</table>
+
+                <td class="shadowright">
+                    <img src="/templates/js_simplepro_red/images/topright.png" alt="" width="11"/>
+                </td>
+			</tr>
+
+            <td colspan="3">
+                <div class="bottomenu"></div>
+            </td>
+</table>
+</div>
+
+
+
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-4538777-1");
+
+pageTracker._initData();
+
+pageTracker._trackPageview();
+
+</script>
+
+</body>
+
+</html>
+

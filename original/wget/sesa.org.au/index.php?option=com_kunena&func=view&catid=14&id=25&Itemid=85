@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding=""?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+  <base href="https://sesa.org.au/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE, SESA Forums, SESA, Forum, Sesa" />
+  <meta name="title" content="SETE2011 AGM & Proposed Merger of SESA & INCOSE - Sesa" />
+  <meta name="description" content="This topic has been set up for all SESA members (including INCOSE Australia members) to discuss, ask questions or raise concerns about the proposed motion for the merger of SESA and..." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE - Sesa</title>
+  <link rel="stylesheet" href="https://sesa.org.au/components/com_kunena/template/example/css/kunena.forum-min.css" type="text/css" />
+  <style type="text/css">
+    <!--
+#Kunena div.kheader ,
+#Kunena div.kheader {
+	background: #5388B4
+}
+#Kunena div.kannouncement div.kheader {
+	background: #990000
+}
+#Kunena div#kannouncement .kanndesc {
+	background: #FFFFAA
+}
+#Kunena div.kfrontstats div.kheader {
+	background: #000000
+}
+#Kunena div.kwhoisonline div.kheader {
+	background: #3B5323
+}
+#Kunena .kicon-profile {
+	background-image: url("https://sesa.org.au/components/com_kunena/template/default/media/iconsets/profile/default/default.png");
+}
+#Kunena .kicon-button {
+	background-image: url("https://sesa.org.au/components/com_kunena/template/default/media/iconsets/buttons/default/default.png");
+}
+#Kunena #kbbcode-toolbar li a,
+#Kunena #kattachments a {
+	background-image:url("https://sesa.org.au/components/com_kunena/template/default/media/iconsets/editor/default/default.png");
+}
+    -->
+  </style>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="https://sesa.org.au/components/com_kunena/js/slimbox/slimbox-min.js"></script>
+  <script type="text/javascript" src="https://sesa.org.au/components/com_kunena/template/default/js/default-min.js"></script>
+  <link rel="alternate" type="application/rss+xml" title="get the latest posts directly to your desktop" href="/index.php?option=com_kunena&amp;func=rss&amp;catid=14&amp;Itemid=85" />
+
+
+<link href="/templates/js_simplepro_red/css/template_css.css" rel="stylesheet" type="text/css" />
+
+<link rel="shortcut icon" href="/images/favicon.ico" />
+
+</head>
+
+<body id="page_bg">
+
+<a name="up" id="up"></a>
+
+<div class="center" align="center">
+
+  <table cellpadding="0" cellspacing="0" width="1100" id="maintable">
+
+    <tr valign="top">
+
+      <td class="shadowleft"><img src="/templates/js_simplepro_red/images/topleft.png" alt="" width="11"/><br /></td>
+
+      <td class="wrapper">
+	  	<div id="header">
+      		<div id="headeright">
+            	<div id="headerleft">
+                	<a href="/"><img class="sesa_logo" src="/templates/js_simplepro_red/images/sesa_logo.png" /></a>
+                 </div>
+            </div>
+		</div>
+        
+        <div id="mainbody">
+	        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr valign="top">
+	            <td valign="top" class="navbar">
+                <div class="push">
+                    <div class="leftcoltop">&nbsp;</div>
+                    <div class="leftcol">		<div class="moduletable">
+					
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr ><td><a href="/" class="mainlevel" >Home</a></td></tr>
+<tr ><td><a href="/what-is-systems-engineering" class="mainlevel" >What is Systems Eng?</a></td></tr>
+<tr ><td><a href="/about-sesa" class="mainlevel" >About SESA</a></td></tr>
+<tr ><td><a href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12" class="mainlevel" >SESA Committee</a></td></tr>
+<tr ><td><a href="/membership" class="mainlevel" >Membership</a></td></tr>
+<tr ><td><a href="/corporate-members-fy2015-16" class="mainlevel" >Corporate Members</a></td></tr>
+<tr ><td><a href="/system-engineering-resources" class="mainlevel" >Systems Eng Resources</a></td></tr>
+<tr ><td><a href="/sesa-working-groups" class="mainlevel" >SESA Working Groups</a></td></tr>
+<tr ><td><a href="/newlinks" class="mainlevel" >Links</a></td></tr>
+<tr ><td><a href="/case-csep-applications" class="mainlevel" >CASE/CSEP Applications</a></td></tr>
+<tr ><td><a href="/search" class="mainlevel" >Search</a></td></tr>
+<tr ><td><a href="/contact-us" class="mainlevel" >Contact Us</a></td></tr>
+</table>		</div>
+			<div class="moduletable">
+					<h3>Member Login</h3>
+					<form action="https://sesa.org.au/component/comprofiler/login" method="post" id="mod_loginform" style="margin:0px;">
+Available to SESA members only. If you are a SESA member and don't have a login, go to the Contact Us web page and send a request to the Webmaster.
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="mod_login">
+<tr><td><span id="mod_login_usernametext"><label for="mod_login_username">Username</label></span><br />
+<input type="text" name="username" id="mod_login_username" class="inputbox" size="14" /><br />
+<span id="mod_login_passwordtext"><label for="mod_login_password">Password</label></span><br /><span><input type="password" name="passwd" id="mod_login_password" class="inputbox" size="14" /></span><br />
+<input type="hidden" name="op2" value="login" />
+<input type="hidden" name="lang" value="english" />
+<input type="hidden" name="force_session" value="1" />
+<input type="hidden" name="return" value="B:aHR0cHM6Ly9zZXNhLm9yZy5hdS9pbmRleC5waHA/b3B0aW9uPWNvbV9rdW5lbmEmYW1wO2Z1bmM9dmlldyZhbXA7Y2F0aWQ9MTQmYW1wO2lkPTI1JmFtcDtJdGVtaWQ9ODU=" />
+<input type="hidden" name="message" value="0" />
+<input type="hidden" name="loginfrom" value="loginmodule" />
+<input type="hidden" name="cbsecuritym3" value="cbm_7d8e0de0_49291087_ed3be3ff2b3ec773a3f0ca9d01eb3393" />
+<input type="checkbox" name="remember" id="mod_login_remember" value="yes" /> <span id="mod_login_remembermetext"><label for="mod_login_remember">Remember me</label></span><br />
+<input type="submit" name="Submit" class="button" value="Login" /></td></tr>
+<tr><td><a href="https://sesa.org.au/component/comprofiler/lostpassword" class="mod_login">Forgot login?</a></td></tr>
+</table></form>		</div>
+	</div>
+                    <div class="leftmodfooter">&nbsp;</div>
+                </div>
+                </td>
+
+				<td>
+				<div id="carea">
+					<div class="top"></div>
+                    <div class="middle">
+						<div class="banner">
+                            
+						</div>
+
+                      	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            	<tr valign="top">
+                                	<td width="50%">
+                                        
+                                    </td>
+                                	<td class="sep"><img src="/templates/js_simplepro_red/images/spacer.png" alt="spacer.png, 0 kB" width="11" /></td>
+              						<td width="50%">
+                                        
+                                    </td>
+                                </tr>
+                            </table>
+                      	
+						<div id="maindivider"></div>
+                      	<!--[if IE 7]>
+<link rel="stylesheet" href="https://sesa.org.au/components/com_kunena/template/default/css/kunena.forum.ie7.css" type="text/css" />
+<![endif]-->
+
+<div id="Kunena"> <!-- Kunena Menu -->
+<div id="ktop">
+			<!-- Kunena Module Position: kunena_menu -->
+		<div id="ktopmenu">
+			<div id="ktab">		<div class="moduletable">
+					<h3>Kunena Menu</h3>
+					<ul class="menu"><li class="item86"><a href="/index.php?Itemid=86&amp;option=com_kunena&amp;view=listcat"><span>Index</span></a></li><li class="item87"><a href="/index.php?Itemid=87&amp;option=com_kunena&amp;view=latest"><span>Recent Topics</span></a></li><li class="item92"><a href="/index.php?Itemid=92&amp;option=com_kunena&amp;view=rules"><span>Rules</span></a></li><li class="item93"><a href="/index.php?Itemid=93&amp;option=com_kunena&amp;view=help"><span>Help</span></a></li><li class="item94"><a href="/index.php?Itemid=94&amp;option=com_kunena&amp;view=search"><span>Search</span></a></li></ul>		</div>
+	</div>
+		</div>
+		<!-- /Kunena Module Position: kunena_menu -->
+		<span class="ktoggler fltrt"><a class="ktoggler close" rel="kprofilebox"></a></span>
+</div>
+<!-- /Kunena Menu --><div class="kblock kpbox">
+	<div class="kcontainer" id="kprofilebox">
+		<div class="kbody">
+<table class="kprofilebox">
+	<tbody>
+		<tr class="krow1">
+			<td valign="top" class="kprofileboxcnt">
+				<div class="k_guest">
+					Welcome,
+					<b>Guest</b>
+				</div>
+								<form action="index.php?option=com_kunena" method="post" name="login">
+					<div class="input">
+						<span>
+							Username							<input type="text" name="username" class="inputbox ks" alt="username" size="18" />
+						</span>
+						<span>
+							Password:							<input type="password" name="passwd" class="inputbox ks" size="18" alt="password" /></span>
+						<span>
+														Remember me							<input type="checkbox" name="remember" alt="" value="yes" />
+														<input type="submit" name="submit" class="kbutton" value="Login" />
+							<input type="hidden" name="option" value="com_user" />
+							<input type="hidden" name="task" value="login" />
+							<input type="hidden" name="return" value="L2luZGV4LnBocD9vcHRpb249Y29tX2t1bmVuYSZmdW5jPXZpZXcmY2F0aWQ9MTQmaWQ9MjUmSXRlbWlkPTg1" /> <input type="hidden" name="db02a1f00185e4df7b456864359c76f7" value="1" />						</span>
+					</div>
+					<div class="klink-block">
+						<span class="kprofilebox-link">
+							<a href="/user/reset" title="" rel="nofollow">Forgot your password?</a>						</span>
+						<span class="kprofilebox-link">
+							<a href="/user/remind" title="" rel="nofollow">Forgot your username?</a>						</span>
+											</div>
+				</form>
+							</td>
+						</tr>
+	</tbody>
+</table>
+		</div>
+	</div>
+</div><div><!-- Pathway -->
+<div class="kblock kpathway">
+	<div class="kcontainer" id="pathway_tbody">
+		<div class="ksectionbody">
+			<div class = "kforum-pathway">
+			<div class="path-element-first"><a href="/index.php?option=com_kunena&amp;Itemid=85" title="" rel="follow">SESA</a></div><div class="path-element"><a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=1&amp;Itemid=85" title="" rel="follow">SESA Forums</a></div><div class="path-element"><a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=14&amp;Itemid=85" title="" rel="follow">General Announcements</a></div>			</div>
+		</div>
+	</div>
+</div>
+</div>
+
+
+<!-- B: Thread Actions -->
+<table class="klist-actions">
+	<tr>
+		<td class="klist-actions-goto">
+			<a name="forumtop"></a><a class="kbuttongoto" href="/index.php?option=com_kunena&func=view&catid=14&id=25&Itemid=85#forumbottom" title="" rel="nofollow"><span class="kicon kforumbottom" title="Go to bottom"></span></a>		</td>
+		<td class="klist-actions-forum">
+					<div class="kmessage-buttons-row">
+			<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=reply&amp;catid=14&amp;id=25&amp;Itemid=85" title="Reply Topic" rel="nofollow"><span class="reply"><span>Reply Topic</span></span></a>									</div>
+						</td>
+
+		<td class="klist-actions-forum">
+					<div class="kmessage-buttons-row">
+			<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=new&amp;catid=14&amp;Itemid=85" title="New Topic" rel="nofollow"><span class="newtopic"><span>New Topic</span></span></a>			</div>
+								</td>
+
+		<td class="klist-pages-all">
+			<ul class="kpagination"><li class="page">Page:</li><li class="active">1</li><li><a href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=25&amp;limit=10&amp;limitstart=10&amp;Itemid=85" title="" rel="follow">2</a></li><li><a href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=25&amp;limit=10&amp;limitstart=20&amp;Itemid=85" title="" rel="follow">3</a></li></ul>		</td>
+	</tr>
+</table>
+<!-- F: Thread Actions -->
+<div class="kblock">
+	<div class="kheader">
+		<h2><span>TOPIC: SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE</span></h2>
+			</div>
+	<div class="kcontainer">
+		<div class="kbody">
+			
+<div class="kmsg-header kmsg-header-left">
+	<h2>
+		<span class="kmsgdate kmsgdate-left" title="11 Apr 2011 09:51">
+			11 Apr 2011 09:51		</span>
+		<span class="kmsgtitle kmsg-title-left">
+			SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE		</span>
+		<span class="kmsg-id-left">
+			<a name="25"></a>
+			<a href="/index.php?option=com_kunena&func=view&catid=14&id=25&Itemid=85#25" title="" rel="nofollow">#25</a>		</span>
+	</h2>
+</div>
+<table class="kmsg">
+	<tbody>
+		<tr>
+			<td rowspan="2" class="kprofile-left">
+					<ul id="kpost-profile">
+		<li class="kpost-username">
+			<a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=248&amp;Itemid=85" title="" rel="nofollow">prmiller</a>		</li>
+				<li class="kpost-avatar">
+		<a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=248&amp;Itemid=85" title="" rel="nofollow"><span class="kavatar"><img class="kavatar" src="https://sesa.org.au/media/kunena/avatars/resized/size144/./nophoto.jpg" alt="" style="max-width: 144px; max-height: 144px" /></span></a>		</li>
+		
+		<li><span class="kicon-button kbuttononline-no"><span class="online-no"><span>OFFLINE</span></span></span></li>
+
+				
+						<li class="kpost-userposts">Posts: 6</li>
+								
+		<li class="kpost-smallicons">
+			<span class="kicon-profile kicon-profile-gender-unknown" title="Gender: Unknown"></span>																	</li>
+		</ul>			</td>
+			<td class="kmessage-left">
+				
+<div class="kmsgbody">
+	<div class="kmsgtext">
+		This topic has been set up for all SESA members (including INCOSE Australia members) to discuss, ask questions or raise concerns about the proposed motion for the merger of SESA and INCOSE that will be raised during the SESA AGM at the SETE2011 conference on May 3rd (See the attachment - requires login to see this).<br />
+<br />
+Paul Miller<br />
+Webmaster	</div>
+</div>
+<div>
+	<div class="kmsgattach">
+	Attachments:		<ul class="kfile-attach">
+					<li>
+				<a href="https://sesa.org.au/media/kunena/attachments/248/SESA_AGM_Notification_Memo 110408.pdf" title="SESA_AGM_Notification_Memo 110408.pdf" rel="nofollow"><img src="https://sesa.org.au/components/com_kunena/template/example/images/icons/attach_generic.png" alt="Attachment" /></a>				<span>
+					<a href="https://sesa.org.au/media/kunena/attachments/248/SESA_AGM_Notification_Memo 110408.pdf" title="SESA_AGM_Notification_Memo 110408.pdf" rel="nofollow">SESA_AGM_N...0408.pdf</a> (117KB)				</span>
+			</li>
+				</ul>
+	</div>
+</div>
+			</td>
+		</tr>
+		<tr>
+			<td class="kbuttonbar-left">
+				<div>
+	</div>
+<div class="kmessage-editmarkup-cover">
+		<span class="kmessage-editmarkup" title="18 Apr 2011 14:03"">
+		Last Edit: 18 Apr 2011 14:03 By Salsa.			</span>
+			</div>
+<div class="kmessage-buttons-cover">
+	<div class="kmessage-buttons-row">
+					<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=reply&amp;catid=14&amp;id=25&amp;Itemid=85" title="Reply" rel="nofollow"><span class="reply"><span>Reply</span></span></a>		<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=quote&amp;catid=14&amp;id=25&amp;Itemid=85" title="Quote" rel="nofollow"><span class="quote"><span>Quote</span></span></a>																				</div>
+</div>				<div class="kpost-thankyou">
+	</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<!-- Begin: Message Module Position -->
+	<!-- Finish: Message Module Position -->
+<div class="kmsg-header kmsg-header-left">
+	<h2>
+		<span class="kmsgdate kmsgdate-left" title="11 Apr 2011 10:47">
+			11 Apr 2011 10:47		</span>
+		<span class="kmsgtitle kmsg-title-left">
+			Re: SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE		</span>
+		<span class="kmsg-id-left">
+			<a name="26"></a>
+			<a href="/index.php?option=com_kunena&func=view&catid=14&id=25&Itemid=85#26" title="" rel="nofollow">#26</a>		</span>
+	</h2>
+</div>
+<table class="kmsg">
+	<tbody>
+		<tr>
+			<td rowspan="2" class="kprofile-left">
+					<ul id="kpost-profile">
+		<li class="kpost-username">
+			<a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=506&amp;Itemid=85" title="" rel="nofollow">shughes</a>		</li>
+				<li class="kpost-avatar">
+		<a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=506&amp;Itemid=85" title="" rel="nofollow"><span class="kavatar"><img class="kavatar" src="https://sesa.org.au/media/kunena/avatars/resized/size144/./nophoto.jpg" alt="" style="max-width: 144px; max-height: 144px" /></span></a>		</li>
+		
+		<li><span class="kicon-button kbuttononline-no"><span class="online-no"><span>OFFLINE</span></span></span></li>
+
+				
+						<li class="kpost-userposts">Posts: 7</li>
+								
+		<li class="kpost-smallicons">
+			<span class="kicon-profile kicon-profile-gender-unknown" title="Gender: Unknown"></span>																	</li>
+		</ul>			</td>
+			<td class="kmessage-left">
+				
+<div class="kmsgbody">
+	<div class="kmsgtext">
+		As a committee member, I may be somewhat biased, however, my personal point of view is this has been a long time coming.  This association will add significant value to all our members.<br />
+Steve Hughes<br />
+National Treasurer	</div>
+</div>
+			</td>
+		</tr>
+		<tr>
+			<td class="kbuttonbar-left">
+				<div>
+	</div>
+<div class="kmessage-editmarkup-cover">
+			</div>
+<div class="kmessage-buttons-cover">
+	<div class="kmessage-buttons-row">
+					<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=reply&amp;catid=14&amp;id=26&amp;Itemid=85" title="Reply" rel="nofollow"><span class="reply"><span>Reply</span></span></a>		<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=quote&amp;catid=14&amp;id=26&amp;Itemid=85" title="Quote" rel="nofollow"><span class="quote"><span>Quote</span></span></a>																				</div>
+</div>				<div class="kpost-thankyou">
+	</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<!-- Begin: Message Module Position -->
+	<!-- Finish: Message Module Position -->
+<div class="kmsg-header kmsg-header-left">
+	<h2>
+		<span class="kmsgdate kmsgdate-left" title="12 Apr 2011 08:31">
+			12 Apr 2011 08:31		</span>
+		<span class="kmsgtitle kmsg-title-left">
+			Re: SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE		</span>
+		<span class="kmsg-id-left">
+			<a name="27"></a>
+			<a href="/index.php?option=com_kunena&func=view&catid=14&id=25&Itemid=85#27" title="" rel="nofollow">#27</a>		</span>
+	</h2>
+</div>
+<table class="kmsg">
+	<tbody>
+		<tr>
+			<td rowspan="2" class="kprofile-left">
+					<ul id="kpost-profile">
+		<li class="kpost-username">
+			<a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=474&amp;Itemid=85" title="" rel="nofollow">ppoulos</a>		</li>
+				<li class="kpost-avatar">
+		<a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=474&amp;Itemid=85" title="" rel="nofollow"><span class="kavatar"><img class="kavatar" src="https://sesa.org.au/media/kunena/avatars/resized/size144/./nophoto.jpg" alt="" style="max-width: 144px; max-height: 144px" /></span></a>		</li>
+		
+		<li><span class="kicon-button kbuttononline-no"><span class="online-no"><span>OFFLINE</span></span></span></li>
+
+				
+						<li class="kpost-userposts">Posts: 1</li>
+								
+		<li class="kpost-smallicons">
+			<span class="kicon-profile kicon-profile-gender-unknown" title="Gender: Unknown"></span>																	</li>
+		</ul>			</td>
+			<td class="kmessage-left">
+				
+<div class="kmsgbody">
+	<div class="kmsgtext">
+		Hi Folks.<br />
+Two questions on this:<br />
+1. For those of us not attending the meeting, how do we go about voting?<br />
+2. Can you advise on what the expected advantages are?<br />
+Thanks.	</div>
+</div>
+			</td>
+		</tr>
+		<tr>
+			<td class="kbuttonbar-left">
+				<div>
+	</div>
+<div class="kmessage-editmarkup-cover">
+			</div>
+<div class="kmessage-buttons-cover">
+	<div class="kmessage-buttons-row">
+					<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=reply&amp;catid=14&amp;id=27&amp;Itemid=85" title="Reply" rel="nofollow"><span class="reply"><span>Reply</span></span></a>		<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=quote&amp;catid=14&amp;id=27&amp;Itemid=85" title="Quote" rel="nofollow"><span class="quote"><span>Quote</span></span></a>																				</div>
+</div>				<div class="kpost-thankyou">
+	</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<!-- Begin: Message Module Position -->
+	<!-- Finish: Message Module Position -->
+<div class="kmsg-header kmsg-header-left">
+	<h2>
+		<span class="kmsgdate kmsgdate-left" title="13 Apr 2011 10:59">
+			13 Apr 2011 10:59		</span>
+		<span class="kmsgtitle kmsg-title-left">
+			Re: SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE		</span>
+		<span class="kmsg-id-left">
+			<a name="28"></a>
+			<a href="/index.php?option=com_kunena&func=view&catid=14&id=25&Itemid=85#28" title="" rel="nofollow">#28</a>		</span>
+	</h2>
+</div>
+<table class="kmsg">
+	<tbody>
+		<tr>
+			<td rowspan="2" class="kprofile-left">
+					<ul id="kpost-profile">
+		<li class="kpost-username">
+			<a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=363&amp;Itemid=85" title="" rel="nofollow">gstark</a>		</li>
+				<li class="kpost-avatar">
+		<a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=363&amp;Itemid=85" title="" rel="nofollow"><span class="kavatar"><img class="kavatar" src="https://sesa.org.au/media/kunena/avatars/resized/size144/./nophoto.jpg" alt="" style="max-width: 144px; max-height: 144px" /></span></a>		</li>
+		
+		<li><span class="kicon-button kbuttononline-no"><span class="online-no"><span>OFFLINE</span></span></span></li>
+
+				
+						<li class="kpost-userposts">Posts: 1</li>
+								
+		<li class="kpost-smallicons">
+			<span class="kicon-profile kicon-profile-gender-unknown" title="Gender: Unknown"></span>																	</li>
+		</ul>			</td>
+			<td class="kmessage-left">
+				
+<div class="kmsgbody">
+	<div class="kmsgtext">
+		The Herve Rochecouste proposal for all options to be considered by a Working Party of Past Presidents, and then to communicate options and recommendations to members prior to a vote in Oct/Nov 2011, appears reasonable. The lack of communication to this point is a concern. Is there any imperative to voting on 3 May, or can the vote be readily deferred?<br />
+<br />
+Graeme Stark	</div>
+</div>
+			</td>
+		</tr>
+		<tr>
+			<td class="kbuttonbar-left">
+				<div>
+	</div>
+<div class="kmessage-editmarkup-cover">
+			</div>
+<div class="kmessage-buttons-cover">
+	<div class="kmessage-buttons-row">
+					<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=reply&amp;catid=14&amp;id=28&amp;Itemid=85" title="Reply" rel="nofollow"><span class="reply"><span>Reply</span></span></a>		<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=quote&amp;catid=14&amp;id=28&amp;Itemid=85" title="Quote" rel="nofollow"><span class="quote"><span>Quote</span></span></a>																				</div>
+</div>				<div class="kpost-thankyou">
+	</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<!-- Begin: Message Module Position -->
+	<!-- Finish: Message Module Position -->
+<div class="kmsg-header kmsg-header-left">
+	<h2>
+		<span class="kmsgdate kmsgdate-left" title="13 Apr 2011 12:17">
+			13 Apr 2011 12:17		</span>
+		<span class="kmsgtitle kmsg-title-left">
+			Re: SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE		</span>
+		<span class="kmsg-id-left">
+			<a name="29"></a>
+			<a href="/index.php?option=com_kunena&func=view&catid=14&id=25&Itemid=85#29" title="" rel="nofollow">#29</a>		</span>
+	</h2>
+</div>
+<table class="kmsg">
+	<tbody>
+		<tr>
+			<td rowspan="2" class="kprofile-left">
+					<ul id="kpost-profile">
+		<li class="kpost-username">
+			<a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=349&amp;Itemid=85" title="" rel="nofollow">Gordon Bruce Hearn</a>		</li>
+				<li class="kpost-avatar">
+		<a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=349&amp;Itemid=85" title="" rel="nofollow"><span class="kavatar"><img class="kavatar" src="https://sesa.org.au/media/kunena/avatars/resized/size144/./nophoto.jpg" alt="" style="max-width: 144px; max-height: 144px" /></span></a>		</li>
+		
+		<li><span class="kicon-button kbuttononline-no"><span class="online-no"><span>OFFLINE</span></span></span></li>
+
+				
+						<li class="kpost-userposts">Posts: 4</li>
+								
+		<li class="kpost-smallicons">
+			<span class="kicon-profile kicon-profile-gender-unknown" title="Gender: Unknown"></span>																	</li>
+		</ul>			</td>
+			<td class="kmessage-left">
+				
+<div class="kmsgbody">
+	<div class="kmsgtext">
+		The other question arises also - should this be proposed at an AGM, rather than as a plebicite of all members? Irrespective of the potential benefits of the proposal, this is a significant change for SESA and probably warrants membership discussion rather than AGM discussion.	</div>
+</div>
+			</td>
+		</tr>
+		<tr>
+			<td class="kbuttonbar-left">
+				<div>
+	</div>
+<div class="kmessage-editmarkup-cover">
+			</div>
+<div class="kmessage-buttons-cover">
+	<div class="kmessage-buttons-row">
+					<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=reply&amp;catid=14&amp;id=29&amp;Itemid=85" title="Reply" rel="nofollow"><span class="reply"><span>Reply</span></span></a>		<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=quote&amp;catid=14&amp;id=29&amp;Itemid=85" title="Quote" rel="nofollow"><span class="quote"><span>Quote</span></span></a>																				</div>
+</div>				<div class="kpost-thankyou">
+	</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<!-- Begin: Message Module Position -->
+	<!-- Finish: Message Module Position -->
+<div class="kmsg-header kmsg-header-left">
+	<h2>
+		<span class="kmsgdate kmsgdate-left" title="14 Apr 2011 21:05">
+			14 Apr 2011 21:05		</span>
+		<span class="kmsgtitle kmsg-title-left">
+			Re: SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE		</span>
+		<span class="kmsg-id-left">
+			<a name="30"></a>
+			<a href="/index.php?option=com_kunena&func=view&catid=14&id=25&Itemid=85#30" title="" rel="nofollow">#30</a>		</span>
+	</h2>
+</div>
+<table class="kmsg">
+	<tbody>
+		<tr>
+			<td rowspan="2" class="kprofile-left">
+					<ul id="kpost-profile">
+		<li class="kpost-username">
+			<a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=578&amp;Itemid=85" title="" rel="nofollow">Erik Aslaksen</a>		</li>
+				<li class="kpost-avatar">
+		<a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=578&amp;Itemid=85" title="" rel="nofollow"><span class="kavatar"><img class="kavatar" src="https://sesa.org.au/media/kunena/avatars/resized/size144/./nophoto.jpg" alt="" style="max-width: 144px; max-height: 144px" /></span></a>		</li>
+		
+		<li><span class="kicon-button kbuttononline-no"><span class="online-no"><span>OFFLINE</span></span></span></li>
+
+				
+						<li class="kpost-userposts">Posts: 1</li>
+								
+		<li class="kpost-smallicons">
+			<span class="kicon-profile kicon-profile-gender-unknown" title="Gender: Unknown"></span>																	</li>
+		</ul>			</td>
+			<td class="kmessage-left">
+				
+<div class="kmsgbody">
+	<div class="kmsgtext">
+		Herve's intention is no doubt the very best, but in my opinion it is like throwing in a hand-grenade at this time.  The issue of a merger or other amalgamation of SESA and INCOSE has been on the table for the last three years, and I can only applaud the current leadership for having come up with what seems a very workable solution.  SESA's finances are a separate issue, and need not affect the merger.  Also, leaving SESA as a national organisation, affiliated with EA, is the European model, and I think quite appropriate.<br />
+<br />
+All in all, I would hope that this goes forward and is settled at the AGM.<br />
+<br />
+Erik W. Aslaksen	</div>
+</div>
+			</td>
+		</tr>
+		<tr>
+			<td class="kbuttonbar-left">
+				<div>
+	</div>
+<div class="kmessage-editmarkup-cover">
+			</div>
+<div class="kmessage-buttons-cover">
+	<div class="kmessage-buttons-row">
+					<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=reply&amp;catid=14&amp;id=30&amp;Itemid=85" title="Reply" rel="nofollow"><span class="reply"><span>Reply</span></span></a>		<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=quote&amp;catid=14&amp;id=30&amp;Itemid=85" title="Quote" rel="nofollow"><span class="quote"><span>Quote</span></span></a>																				</div>
+</div>				<div class="kpost-thankyou">
+	</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<!-- Begin: Message Module Position -->
+	<!-- Finish: Message Module Position -->
+<div class="kmsg-header kmsg-header-left">
+	<h2>
+		<span class="kmsgdate kmsgdate-left" title="15 Apr 2011 08:49">
+			15 Apr 2011 08:49		</span>
+		<span class="kmsgtitle kmsg-title-left">
+			Re: SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE		</span>
+		<span class="kmsg-id-left">
+			<a name="31"></a>
+			<a href="/index.php?option=com_kunena&func=view&catid=14&id=25&Itemid=85#31" title="" rel="nofollow">#31</a>		</span>
+	</h2>
+</div>
+<table class="kmsg">
+	<tbody>
+		<tr>
+			<td rowspan="2" class="kprofile-left">
+					<ul id="kpost-profile">
+		<li class="kpost-username">
+			<a class="kwho-admin" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=63&amp;Itemid=85" title="" rel="nofollow">Paul Miller (Admin)</a>		</li>
+				<li class="kpost-avatar">
+		<a class="kwho-admin" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=63&amp;Itemid=85" title="" rel="nofollow"><span class="kavatar"><img class="kavatar" src="https://sesa.org.au/media/kunena/avatars/resized/size144/./nophoto.jpg" alt="" style="max-width: 144px; max-height: 144px" /></span></a>		</li>
+		
+		<li><span class="kicon-button kbuttononline-no"><span class="online-no"><span>OFFLINE</span></span></span></li>
+
+				
+						<li class="kpost-userposts">Posts: 4</li>
+								
+		<li class="kpost-smallicons">
+			<span class="kicon-profile kicon-profile-gender-unknown" title="Gender: Unknown"></span>																	</li>
+		</ul>			</td>
+			<td class="kmessage-left">
+				
+<div class="kmsgbody">
+	<div class="kmsgtext">
+		Hi everyone,<br />
+<br />
+I'm adding this post on behalf of Hervé Rochecouste - please look for a follow up response to this from Robert Halligan. Hervé &amp; Robert are past Presidents of SESA.<br />
+<br />
+-----------------------------------------------------------------------<br />
+On 12/04/11 9:22 PM, &quot;Herve Rochecouste&quot; wrote:<br />
+<br />
+Hello everyone again,<br />
+ <br />
+After reading Paul Miller’s advice about commenting on the web site I have decided to send a last message on this forum about the SESA/INCOSE AGM proposal. I have also received a few comments directly send to my email, a few phone calls, and also a few direct comments from colleagues in current projects. After my longer previous comment I will summarise as follows:<br />
+ <br />
+<br />
+1. As Systems Engineers we are trained to address critical issues by the proposal and analysis of several options, trading offs positives v/s negatives etc, then use all that to formulate the best agreement and decision. In this particular case we appear to have by-passed everything and propose a solution directly for adoption in a meeting that around 30% of the membership base attends, and probably in a short time after all the other usual important AGM proceedings are out of the way. This is much too important to be given such a dismissive treatment – we can put out technical knowledge to good use and adopt a more inclusive process.<br />
+<br />
+2. I therefore propose that the best course of action is to request that Paul Logan removes the current motion from the agenda to open options for more complete analyses and deliberations. I suggest that such an important needs to have its own agenda in a later Extraordinary AGM to be held in 6 months time (e.g., Late Oct or Nov 2011). <br />
+<br />
+3. In the mean time I suggest that we form an effective Working Party of all the SESA ex presidents and the current one to work on this, i.e., look at the best options for a way forward, use the Newsletter/Forum to communicate options and eventually promote the best one for consideration via an inclusive postal (or e-postal) referendum. The Extraordinary AGM will then be the ratification vehicle for the option accepted by the majority. <br />
+<br />
+4. We can discuss the process to be adopted (only) and this coming AGM, and if what I am proposing above is agreeable, I volunteer to lead that Working Party of Presidents to deliver something in Oct/Nov 2011. I have successfully led the group that formed SESA in 1993/94, worked in the NCOSE committee as Director when we were establishing INCOSE as an international body, led the first INCOSE International Symposium (as Chair) in Australia in 2001, and also worked with South African &amp; European colleagues to establish INCOSE Chapters in their respective regions. In all those cases we were successful and delivered the best option at the time after careful consideration of several others. I therefore also think that I can lead this initiative to the optimal conclusion, and with consensus. <br />
+<br />
+5. I am not sure whether all the “old timers” are still on this forum list, but I kindly ask Robert Halligan, Professor Stephen Cook, Roger McCowan, Michael Lonsdale, Pat Lockley, Kerry-Jan Lunney (did I forget anyone?) and the current president + committee to support what I am proposing here. <br />
+<br />
+6. In addition, other SESA members on this forum who feel they want to support this alternate course of action should follow Paul Miller’s instruction and provide their views, and hopefully approval on the website on-line forum. <br />
+<br />
+I am sorry if I upset anyone, but my only motivation is to ensure that the membership base gets the best deal possible, and this will surely flow down to continue the improvement of the Systems Engineering practice in Australia. I personally believe that the move to a number of INCOSE chapters in Australia (maybe 3) is timely (not possible when we formed SESA, and too expensive or difficult in the following years), but I think that we should not do this hastily. We have a duty to provide an opportunity for at least 80% of the membership base to participate.<br />
+<br />
+Hervé	</div>
+</div>
+			</td>
+		</tr>
+		<tr>
+			<td class="kbuttonbar-left">
+				<div>
+	</div>
+<div class="kmessage-editmarkup-cover">
+		<span class="kmessage-editmarkup" title="15 Apr 2011 08:53"">
+		Last Edit: 15 Apr 2011 08:53 By SESA ICT Officer (Daniel Spencer).		Reason: Indicate past presidency of Hervé and Robert	</span>
+			</div>
+<div class="kmessage-buttons-cover">
+	<div class="kmessage-buttons-row">
+					<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=reply&amp;catid=14&amp;id=31&amp;Itemid=85" title="Reply" rel="nofollow"><span class="reply"><span>Reply</span></span></a>		<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=quote&amp;catid=14&amp;id=31&amp;Itemid=85" title="Quote" rel="nofollow"><span class="quote"><span>Quote</span></span></a>																				</div>
+</div>				<div class="kpost-thankyou">
+	</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<!-- Begin: Message Module Position -->
+	<!-- Finish: Message Module Position -->
+<div class="kmsg-header kmsg-header-left">
+	<h2>
+		<span class="kmsgdate kmsgdate-left" title="15 Apr 2011 08:52">
+			15 Apr 2011 08:52		</span>
+		<span class="kmsgtitle kmsg-title-left">
+			Re: SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE		</span>
+		<span class="kmsg-id-left">
+			<a name="32"></a>
+			<a href="/index.php?option=com_kunena&func=view&catid=14&id=25&Itemid=85#32" title="" rel="nofollow">#32</a>		</span>
+	</h2>
+</div>
+<table class="kmsg">
+	<tbody>
+		<tr>
+			<td rowspan="2" class="kprofile-left">
+					<ul id="kpost-profile">
+		<li class="kpost-username">
+			<a class="kwho-admin" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=63&amp;Itemid=85" title="" rel="nofollow">Paul Miller (Admin)</a>		</li>
+				<li class="kpost-avatar">
+		<a class="kwho-admin" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=63&amp;Itemid=85" title="" rel="nofollow"><span class="kavatar"><img class="kavatar" src="https://sesa.org.au/media/kunena/avatars/resized/size144/./nophoto.jpg" alt="" style="max-width: 144px; max-height: 144px" /></span></a>		</li>
+		
+		<li><span class="kicon-button kbuttononline-no"><span class="online-no"><span>OFFLINE</span></span></span></li>
+
+				
+						<li class="kpost-userposts">Posts: 4</li>
+								
+		<li class="kpost-smallicons">
+			<span class="kicon-profile kicon-profile-gender-unknown" title="Gender: Unknown"></span>																	</li>
+		</ul>			</td>
+			<td class="kmessage-left">
+				
+<div class="kmsgbody">
+	<div class="kmsgtext">
+		This is a reply to Hervé's post above on behalf of Robert Halligan<br />
+----------------------------------------------------------------------<br />
+<br />
+From: Robert Halligan <br />
+Sent: Wednesday, 13 April 2011 9:17 PM<br />
+<br />
+Hello Hervé<br />
+<br />
+Apologies, I need to respond here for reasons of time and lack of internet access while flying. If time permits, I will repeat my response on the SESA website on-line forum.<br />
+<br />
+I am not sure that the proposal needs a Working Party of SESA ex presidents, but if there is a majority view that it does, I would be happy to contribute. I do, however, agree that the proposal needs to be decided upon in a way which involves substantial member participation. A vote by those attending the impending AGM is a bit marginal in this respect. A postal vote or on-line vote of members might be preferable, with the ballot info presenting a For and Against case (if there is an Against case). <br />
+<br />
+Disposition of SESA funds seems to me to be an entirely separate issue that should be decided upon by the SESA Committee (that is why they are elected).<br />
+<br />
+The only country in which multiple INCOSE chapters seems to work is the United States. It certainly hasn’t worked in Turkey (which has chapters in Istanbul and Ankara). By contrast, nationally based chapters with regional branches is working extremely well in the United Kingdom and South Africa.<br />
+<br />
+We have an elected Committee. I am comfortable that they have decided that two options should be put to the vote (maintain the status quo and become an INCOSE chapter). I will be comfortable with either of the possible results from a vote that has involved substantial member participation in the process.<br />
+<br />
+Cheers<br />
+Robert	</div>
+</div>
+			</td>
+		</tr>
+		<tr>
+			<td class="kbuttonbar-left">
+				<div>
+	</div>
+<div class="kmessage-editmarkup-cover">
+			</div>
+<div class="kmessage-buttons-cover">
+	<div class="kmessage-buttons-row">
+					<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=reply&amp;catid=14&amp;id=32&amp;Itemid=85" title="Reply" rel="nofollow"><span class="reply"><span>Reply</span></span></a>		<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=quote&amp;catid=14&amp;id=32&amp;Itemid=85" title="Quote" rel="nofollow"><span class="quote"><span>Quote</span></span></a>																				</div>
+</div>				<div class="kpost-thankyou">
+	</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<!-- Begin: Message Module Position -->
+	<!-- Finish: Message Module Position -->
+<div class="kmsg-header kmsg-header-left">
+	<h2>
+		<span class="kmsgdate kmsgdate-left" title="16 Apr 2011 17:18">
+			16 Apr 2011 17:18		</span>
+		<span class="kmsgtitle kmsg-title-left">
+			Re: SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE		</span>
+		<span class="kmsg-id-left">
+			<a name="33"></a>
+			<a href="/index.php?option=com_kunena&func=view&catid=14&id=25&Itemid=85#33" title="" rel="nofollow">#33</a>		</span>
+	</h2>
+</div>
+<table class="kmsg">
+	<tbody>
+		<tr>
+			<td rowspan="2" class="kprofile-left">
+					<ul id="kpost-profile">
+		<li class="kpost-username">
+			<a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=429&amp;Itemid=85" title="" rel="nofollow">Michael O'Keefe</a>		</li>
+				<li class="kpost-avatar">
+		<a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=429&amp;Itemid=85" title="" rel="nofollow"><span class="kavatar"><img class="kavatar" src="https://sesa.org.au/media/kunena/avatars/resized/size144/./nophoto.jpg" alt="" style="max-width: 144px; max-height: 144px" /></span></a>		</li>
+		
+		<li><span class="kicon-button kbuttononline-no"><span class="online-no"><span>OFFLINE</span></span></span></li>
+
+				
+						<li class="kpost-userposts">Posts: 2</li>
+								
+		<li class="kpost-smallicons">
+			<span class="kicon-profile kicon-profile-gender-unknown" title="Gender: Unknown"></span>																	</li>
+		</ul>			</td>
+			<td class="kmessage-left">
+				
+<div class="kmsgbody">
+	<div class="kmsgtext">
+		Hi Peter<br />
+<br />
+I have just sent out an EMail to all SESA members, with an attached Proxy Voting form.<br />
+I have included the EMail (with attachments) below :<br />
+<br />
+Dear SESA Member<br />
+<br />
+I have attached a voting form for the AGM motion, and a copy of the AGM motion for your consideration. <br />
+<br />
+If you cannot attend the AGM meeting, then you can still provide your vote on this motion by completing the attached form and sending it to me before the cutoff date of 29th of April.<br />
+<br />
+It would be great to get a response from all of our members on this important motion.<br />
+<br />
+regards<br />
+<br />
+Mike O'Keefe<br />
+SESA National Secretary	</div>
+</div>
+<div>
+	<div class="kmsgattach">
+	Attachments:		<ul class="kfile-attach">
+					<li>
+				<a href="https://sesa.org.au/media/kunena/attachments/63/SESA AGM 2011-05-03.zip" title="SESA AGM 2011-05-03.zip" rel="nofollow"><img src="https://sesa.org.au/components/com_kunena/template/example/images/icons/attach_generic.png" alt="Attachment" /></a>				<span>
+					<a href="https://sesa.org.au/media/kunena/attachments/63/SESA AGM 2011-05-03.zip" title="SESA AGM 2011-05-03.zip" rel="nofollow">SESA AGM 2...5-03.zip</a> (253KB)				</span>
+			</li>
+				</ul>
+	</div>
+</div>
+			</td>
+		</tr>
+		<tr>
+			<td class="kbuttonbar-left">
+				<div>
+	</div>
+<div class="kmessage-editmarkup-cover">
+		<span class="kmessage-editmarkup" title="18 Apr 2011 14:21"">
+		Last Edit: 18 Apr 2011 14:21 By SESA ICT Officer (Daniel Spencer).			</span>
+			</div>
+<div class="kmessage-buttons-cover">
+	<div class="kmessage-buttons-row">
+					<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=reply&amp;catid=14&amp;id=33&amp;Itemid=85" title="Reply" rel="nofollow"><span class="reply"><span>Reply</span></span></a>		<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=quote&amp;catid=14&amp;id=33&amp;Itemid=85" title="Quote" rel="nofollow"><span class="quote"><span>Quote</span></span></a>																				</div>
+</div>				<div class="kpost-thankyou">
+	</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<!-- Begin: Message Module Position -->
+	<!-- Finish: Message Module Position -->
+<div class="kmsg-header kmsg-header-left">
+	<h2>
+		<span class="kmsgdate kmsgdate-left" title="17 Apr 2011 20:22">
+			17 Apr 2011 20:22		</span>
+		<span class="kmsgtitle kmsg-title-left">
+			Re: SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE		</span>
+		<span class="kmsg-id-left">
+			<a name="34"></a>
+			<a href="/index.php?option=com_kunena&func=view&catid=14&id=25&Itemid=85#34" title="" rel="nofollow">#34</a>		</span>
+	</h2>
+</div>
+<table class="kmsg">
+	<tbody>
+		<tr>
+			<td rowspan="2" class="kprofile-left">
+					<ul id="kpost-profile">
+		<li class="kpost-username">
+			<a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=326&amp;Itemid=85" title="" rel="nofollow">David Roger McCowan</a>		</li>
+				<li class="kpost-avatar">
+		<a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=326&amp;Itemid=85" title="" rel="nofollow"><span class="kavatar"><img class="kavatar" src="https://sesa.org.au/media/kunena/avatars/resized/size144/./nophoto.jpg" alt="" style="max-width: 144px; max-height: 144px" /></span></a>		</li>
+		
+		<li><span class="kicon-button kbuttononline-no"><span class="online-no"><span>OFFLINE</span></span></span></li>
+
+				
+						<li class="kpost-userposts">Posts: 2</li>
+								
+		<li class="kpost-smallicons">
+			<span class="kicon-profile kicon-profile-gender-unknown" title="Gender: Unknown"></span>																	</li>
+		</ul>			</td>
+			<td class="kmessage-left">
+				
+<div class="kmsgbody">
+	<div class="kmsgtext">
+		In regard to Herve's proposal, rather than establishing a new &quot;sub-committee&quot;, we should remember that the SESA Management Committee comprises the elected representatives of the members, whose job it is to work towards ensuring that members gain value from their membership of SESA and that we continue to strive to achieve our mission.  Being the elected representatives, their mandate is to work on behalf of the Society, whilst the members who elected them need to: <br />
+<br />
+* trust that the Management Committee members are honouring their commitment; and <br />
+* accept the decisions that the Management Committee makes.<br />
+<br />
+The process that we have followed is very much that of the SE Process; it is not recent and rushed - I personally have liaised with INCOSE since late 2002 with a view to providing better value for Australian Systems Engineers, looking at various alternatives and trading them off as necessary.  All SESA Presidents since then have similarly carried the baton for this cause.  In parallel with this, INCOSE has been reviewing and improving their arrangements with other international organisations representing Systems Engineers, due to pressure from others, such as those in France and Germany, as well as SESA in Australia.  Therefore, the point that we are at now is one which does represent the optimal (but not necessarily optimum) approach for a learned professional society of Systems Engineers in Australia, now and for the foreseeable future.<br />
+<br />
+By withdrawing the motion, or substantially amending it, would only delay the opportunity to provide benefits to SESA members.  Given the [SE] process that has been followed for the past 9 years, the likelihood of arriving at a better solution is very small.	</div>
+</div>
+			</td>
+		</tr>
+		<tr>
+			<td class="kbuttonbar-left">
+				<div>
+	</div>
+<div class="kmessage-editmarkup-cover">
+			</div>
+<div class="kmessage-buttons-cover">
+	<div class="kmessage-buttons-row">
+					<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=reply&amp;catid=14&amp;id=34&amp;Itemid=85" title="Reply" rel="nofollow"><span class="reply"><span>Reply</span></span></a>		<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=quote&amp;catid=14&amp;id=34&amp;Itemid=85" title="Quote" rel="nofollow"><span class="quote"><span>Quote</span></span></a>																				</div>
+</div>				<div class="kpost-thankyou">
+	</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<!-- Begin: Message Module Position -->
+	<!-- Finish: Message Module Position -->		</div>
+	</div>
+</div>
+<!-- B: Thread Actions -->
+<table class="klist-actions">
+	<tr>
+		<td class="klist-actions-goto">
+			<a name="forumbottom"></a><a class="kbuttongoto" href="/index.php?option=com_kunena&func=view&catid=14&id=25&Itemid=85#forumtop" title="" rel="nofollow"><span class="kicon kforumtop" title="Go to top"></span></a>		</td>
+		<td class="klist-actions-forum">
+					<div class="kmessage-buttons-row">
+			<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=reply&amp;catid=14&amp;id=25&amp;Itemid=85" title="Reply Topic" rel="nofollow"><span class="reply"><span>Reply Topic</span></span></a>									</div>
+						</td>
+
+		<td class="klist-actions-forum">
+					<div class="kmessage-buttons-row">
+			<a class="kicon-button kbuttoncomm btn-left" href="/index.php?option=com_kunena&amp;func=post&amp;do=new&amp;catid=14&amp;Itemid=85" title="New Topic" rel="nofollow"><span class="newtopic"><span>New Topic</span></span></a>			</div>
+								</td>
+
+		<td class="klist-pages-all">
+			<ul class="kpagination"><li class="page">Page:</li><li class="active">1</li><li><a href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=25&amp;limit=10&amp;limitstart=10&amp;Itemid=85" title="" rel="follow">2</a></li><li><a href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=25&amp;limit=10&amp;limitstart=20&amp;Itemid=85" title="" rel="follow">3</a></li></ul>		</td>
+	</tr>
+</table>
+<!-- F: Thread Actions -->
+<div class = "kforum-pathway-bottom">
+	<div class="path-element-first"><a href="/index.php?option=com_kunena&amp;Itemid=85" title="" rel="follow">SESA</a></div><div class="path-element"><a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=1&amp;Itemid=85" title="" rel="follow">SESA Forums</a></div><div class="path-element"><a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=14&amp;Itemid=85" title="" rel="follow">General Announcements</a></div></div>
+<!-- B: List Actions Bottom -->
+<div class="kcontainer klist-bottom">
+	<div class="kbody">
+		<div class="kmoderatorslist-jump fltrt">
+				<form id="jumpto" name="jumpto" method="post" target="_self" action="/index.php?option=com_kunena&amp;Itemid=85">
+	<span class="kright">
+		<input type="hidden" name="func" value="showcat" />
+		<select name="catid" id="forumjump" class="inputbox fbs" size="1" onchange = "this.form.submit()"><option value="0" >Board Categories</option><option value="1" >SESA Forums</option><option value="3" >...&nbsp;General Systems Engineering Topic</option><option value="2" >...&nbsp;Systems Engineering Best Practices</option><option value="14"  selected="selected">...&nbsp;General Announcements</option><option value="4" >SESA Special Interest Groups (SIGs)</option><option value="5" >...&nbsp; Systems Engineering Accreditation</option><option value="6" >...&nbsp; Defence &amp; Aerospace Systems Engineering</option><option value="7" >...&nbsp;IT &amp; Telecommunications Systems Engineering</option><option value="12" >...&nbsp;Intelligent Transport Systems</option><option value="16" >...&nbsp;Medical Devices &amp; eHealth</option><option value="8" >...&nbsp;Requirements Engineering</option><option value="15" >...&nbsp;Architecture, Design &amp; Modelling</option><option value="9" >...&nbsp;System Safety</option><option value="13" >...&nbsp;Verification &amp; Validation</option></select>		<input type="submit" name="Go" class="kbutton ks" value="Go" />
+	</span>
+</form>		</div>
+			</div>
+</div>
+<!-- F: List Actions Bottom --><div class="krss-block"><a href="/index.php?option=com_kunena&amp;func=rss&amp;catid=14&amp;Itemid=85" title="" rel="follow" target="_blank"><span class="kicon krss" title="get the latest posts directly to your desktop"></span></a></div><div class="kcredits kms"> <a href="/index.php?option=com_kunena&amp;func=credits&amp;catid=14&amp;Itemid=85" title="" rel="follow">Powered by</a> <a href="http://www.kunena.com" title="Kunena" rel="follow" target="_blank">Kunena</a></div>	<div class="kfooter">
+		<span class="kfooter-time">Time to create page:&nbsp;0.22&nbsp;seconds</span>
+	</div>
+</div>
+<!-- closes Kunena div -->
+
+                    </div>
+                    <div class="bottom"></div>
+				</td>
+				</table>
+
+                <td class="shadowright">
+                    <img src="/templates/js_simplepro_red/images/topright.png" alt="" width="11"/>
+                </td>
+			</tr>
+
+            <td colspan="3">
+                <div class="bottomenu"></div>
+            </td>
+</table>
+</div>
+
+
+
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-4538777-1");
+
+pageTracker._initData();
+
+pageTracker._trackPageview();
+
+</script>
+
+</body>
+
+</html>
+

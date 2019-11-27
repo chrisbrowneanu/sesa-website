@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+	  <base href="https://sesa.org.au/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="keywords" content="" />
+  <meta name="title" content="What is Systems Engineering? - Sesa" />
+  <meta name="author" content="Salsa" />
+  <meta name="description" content="Systems engineering focuses on how the deliverables of complex projects are specified, designed, qualified, deployed and change managed over the entire end to end life cycle of the project." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>What is Systems Engineering? - Sesa</title>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+
+	<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+		<link rel="stylesheet" href="/templates/system/css/template.css" type="text/css" />
+</head>
+<body class="contentpane">
+	
+<dl id="system-message">
+<dt class="message">Message</dt>
+<dd class="message message fade">
+	<ul>
+		<li>You must login and be authorized to access this document.</li>
+	</ul>
+</dd>
+</dl>
+	<table class="contentpaneopen">
+<tr>
+		<td class="contentheading" width="100%">
+					What is Systems Engineering?			</td>
+				<td align="right" width="100%" class="buttonheading">
+		<a href="#" onclick="window.print();return false;"><img src="/images/M_images/printButton.png" alt="Print"  /></a>		</td>
+	</tr>
+</table>
+
+<table class="contentpaneopen">
+
+
+
+<tr>
+<td valign="top">
+
+<p align="left">Systems Engineering is an interdisciplinary approach that provides the means to enable the realisation of successful complex systems. It focuses on:</p>
+
+<ul>
+<li>
+<div align="left">Defining & scoping customer needs and required functionality early in the development cycle.</div>
+
+</li>
+<li>
+<div align="left">The development of an agreed System Specification.</div>
+
+</li>
+<li>
+<div align="left">The application of architectural & design skills to decompose the System Specification into a structured hierarchy of progressively smaller but cohesive sub-systems and well defined interfaces.</div>
+
+</li>
+<li>
+<div align="left">Continuous change, release & configuration management of the System, it's sub systems and interfaces.</div>
+
+</li>
+<li>
+<div align="left">Structured validation, verification and integration of the sub-systems whilst continuously considering the complete system problem.</div>
+
+</li>
+</ul>
+<p align="left">Systems Engineering integrates all the disciplines and specialty groups into a cohesive team effort forming a structured development process that proceeds from concept, to production, to operation to end-of-life. Systems Engineering considers both the business and the technical needs of all customers with the goal of providing a quality product that meets the user needs.</p>
+
+<p align="left">A fundamental tenet of the Systems Engineering practice is to engineer the whole (the system) as a set of integrated cohesive parts. This is opposed to focusing the engineering effort just on the parts that when cobbled together, will most likely exhibit poor cohesion, incompatability, inconsistencies, fragile interfaces and will most likely not meet user needs.</p>
+
+<p align="center"><b><span style="font-size: 12pt; text-decoration: underline;">What exactly is a "system" then?</span></b></p>
+
+<table align="center" border="0">
+<tbody>
+<tr>
+<td scope="row" style="height: 90px; background-color: #ffffcc; width: 700px;" valign="middle" align="center">
+<p align="center"><span style="font-size: 14pt;"><i>An <span style="color: #0000ff;">integrated set of elements</span> that accomplish a </i><span style="color: #ff0000;"><i>defined set of objectives</i><span style="font-size: 12pt; ">**<br /> <span style="font-size: 8pt;">**As Defined by the </span><a href="http://www.incose.org/" target="_blank"><span style="font-size: 8pt; color: #800080; text-decoration: underline;">International Council On Systems Engineering</span></a><span style="font-size: 8pt;"> (INCOSE)</span></span></span></span></p>
+
+</td>
+</tr>
+</tbody>
+</table>
+<p align="center"><span style="font-size: 12pt; color: #0000ff;"></span></p>
+<p align="center"><span style="font-size: 12pt; color: #0000ff;"><b>What does "<i>Integrated set of Elements</i>" mean?</b></span></p>
+<p align="center">Users, sub-systems, components, HW, SW, Support Services, Training, Processes, Information, environment, etc</p>
+
+<p align="center"><span style="font-size: 12pt; color: #ff0000;"><b>What does "<i>Defined set of Objectives</i>" mean?</b></span></p>
+<p align="center">Conformance to <span style="text-decoration: underline;">ALL</span> of the requirements.<br /> 
+    [Technical Specs, Contracts\Statement of Work, Corporate Operating Procedures, Regulatory Standards etc].</p>
+
+<p align="center"><span style="font-size: 12pt; "><b><span style="text-decoration: underline;">Why is Systems Engineering Important to Australia?</span></b></span></p>
+<p align="left">Systems Engineering delivers major benefits to a wide range of industrial sectors where complex projects are undertaken. These advantages include reducing your project risk, improving likelihood of success, and delivery of lower life cycle costs. Industrial Sectors where Systems Engineering practices can provide positive effects in terms of successful project outcomes include: </p>
+
+<ul>
+<li>
+<div align="left">Defence and Aerospace</div>
+
+</li>
+<li>
+<div align="left">Telecommunications</div>
+
+</li>
+<li>
+<div align="left">Information and Communications Technology (ICT)</div>
+
+</li>
+<li>
+<div align="left">Intelligent Transport</div>
+
+</li>
+<li>
+<div align="left">Medical Engineering</div>
+
+</li>
+<li>
+<div align="left">Civil Infrastructure (power stations, offshore mining, energy networks)</div>
+
+</li>
+<li>
+<div align="left">Emergency Services</div>
+
+</li>
+<li>
+<div align="left">National Security</div>
+
+</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+	<td class="modifydate">
+		Last Updated on Tuesday, 18 October 2011 12:11	</td>
+</tr>
+</table>
+<span class="article_separator">&nbsp;</span>
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="Kunena 1.6.0-RC1" -->
+<rss version="2.0">
+	<channel>
+		<title>Sesa - Requirements Engineering</title>
+		<description>Kunena Site Syndication</description>
+		<link>https://sesa.org.au/</link>
+		<lastBuildDate>Sat, 16 Nov 2019 08:54:25 +0100</lastBuildDate>
+        <generator>Kunena 1.6.0-RC1</generator>
+		<image>
+			<url>https://sesa.org.au/components/com_kunena/template/example/images/icons/rss.png</url>
+			<title>Sesa - Requirements Engineering</title>
+			<link>https://sesa.org.au/</link>
+			<description>Kunena Site Syndication</description>
+		</image>
+		<pubDate>Sat, 16 Nov 2019 08:54:25 +0100</pubDate>
+		<item>
+			<title>Subject: Are Use Cases Requirements or Design - by: prmiller</title>
+			<link>https://sesa.org.au/index.php?option=com_kunena&amp;func=view&amp;catid=8&amp;id=8&amp;Itemid=85#8</link>
+			<description>Can Use Cases be considered as being requirements in their own right or are they design artifacts used to help discover and create separate requirement statements? Use Cases don't satisfy the traditional characteristics of what constitutes good quality requirements so do these characteristics need to change or are people heading down the wrong track trying to manage Use Cases like requirements. What are the views of members on this?</description>
+			<author>prmiller</author>
+			<category>Requirements Engineering</category>
+			<pubDate>Mon, 01 Nov 2010 11:18:42 +0100</pubDate>
+			<guid>https://sesa.org.au/index.php?option=com_kunena&amp;func=view&amp;catid=8&amp;id=8&amp;Itemid=85#8</guid>
+		</item>
+	</channel>
+</rss>

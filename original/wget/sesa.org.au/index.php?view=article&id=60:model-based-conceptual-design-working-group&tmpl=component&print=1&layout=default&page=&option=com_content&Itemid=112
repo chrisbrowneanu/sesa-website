@@ -1,0 +1,161 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+	  <base href="https://sesa.org.au/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="keywords" content="" />
+  <meta name="title" content="Model-based Conceptual Design Working Group - Sesa" />
+  <meta name="author" content="Quoc Do" />
+  <meta name="description" content="Systems engineering focuses on how the deliverables of complex projects are specified, designed, qualified, deployed and change managed over the entire end to end life cycle of the project." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Model-based Conceptual Design Working Group - Sesa</title>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+
+	<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+		<link rel="stylesheet" href="/templates/system/css/template.css" type="text/css" />
+</head>
+<body class="contentpane">
+	
+	<table class="contentpaneopen">
+<tr>
+				<td align="right" width="100%" class="buttonheading">
+		<a href="#" onclick="window.print();return false;"><img src="/images/M_images/printButton.png" alt="Print"  /></a>		</td>
+	</tr>
+</table>
+
+<table class="contentpaneopen">
+
+
+
+<tr>
+<td valign="top">
+<p style="text-align: center;"><img width="100" height="38" alt="MBCD_Logo_100x38" src="/images/stories/MBCD_WG/MBCD_Logo_100x38.jpg"></p>
+<p style="text-align: center;"><span style="font-size: 18pt;">Model-based Conceptual Design Working Group (MBCD WG) Charter</span></p>
+<p> </p>
+<h1><span><strong><span style="font-size: 14pt; font-style: normal; font-weight: bold; color: #000000;">Overview</span></strong></span></h1>
+<p style="padding-left: 30px;"><strong><span style="font-size: 12pt;">Purpose</span></strong></p>
+<p style="padding-left: 30px;">The purpose of this working group is to advance the body of knowledge and practice of systems engineering (SE) through the development and application of model-based systems engineering (MBSE) methodologies to the Exploratory Research and Concept stages of systems engineering.</p>
+<p style="padding-left: 30px;"><strong><span style="font-size: 12pt;">Vision</span></strong></p>
+<p style="padding-left: 30px;">Develop best practice for model-based conceptual design</p>
+<p style="padding-left: 30px;"><strong><span style="font-size: 12pt;">Missions</span></strong></p>
+<span> 
+<ul style="line-height: 19px;">
+<li><span style="line-height: 19px;">Enhance the practise of problem definition and identifying capability needs</span></li>
+<li><span style="line-height: 19px;">Develop modelling practise in support of Exploratory Research and Concept Stage</span></li>
+</ul>
+</span><span> 
+<ul style="line-height: 19px;">
+</ul>
+</span>
+<p style="padding-left: 30px;"><strong><span style="font-size: 12pt;">Scope</span></strong></p>
+<p style="padding-left: 30px;">Activities cover current and future model-based conceptual design theory, practice and education. The working group's focus is on the Exploratory Research and Concept Stages of the generic life-cycle defined by INCOSE<span style="font-size: 8pt;"><sup>1</sup></span>. However, the working group will also consider how model-based conceptual design influences and is influenced by other life-cycle stages.</p>
+<p style="padding-left: 30px;"><strong><span style="font-size: 12pt;">Model-based Conceptual Design</span></strong></p>
+<p style="padding-left: 30px;">Model-based Conceptual Design (MBCD) is the application of MBSE to the Exploratory Research and Concept Stages of the generic life?cycle defined by INCOSE and more specifically to the following activities:</p>
+<p style="padding-left: 60px;">i.	Identify stakeholders' needs</p>
+<p style="padding-left: 60px;">ii.	Explore ideas and technologies</p>
+<p style="padding-left: 60px;">iii.	Refine stakeholders' needs</p>
+<p style="padding-left: 60px;">iv.	Explore feasible concepts</p>
+<p style="padding-left: 60px;">v.	Propose viable solutions</p>
+<p style="padding-left: 30px;">The main MBCD outputs, listed below, summarise the generic products from the first two technical processes defined by INCOSE1. These technical processes are also depicted in Figure 1.</p>
+<p style="padding-left: 60px;">i.	Stakeholder needs</p>
+<p style="padding-left: 60px;">ii.	Concept documents, including the concept of operations and support.</p>
+<p style="padding-left: 60px;">iii.	Stakeholder requirements specification</p>
+<p style="padding-left: 60px;">iv.	Measures of effectiveness</p>
+<p style="padding-left: 60px;">v.	System Functions and System Functional Interfaces</p>
+<p style="padding-left: 60px;">vi.	Key performance parameters</p>
+<p style="padding-left: 60px;">vii.	One or more System Conceptual Designs</p>
+<p style="padding-left: 60px;">viii.	System analysis including trade studies to identify preferred concepts</p>
+<p style="padding-left: 60px;">ix.	System requirements specification incorporating measures of performance</p>
+<p style="padding-left: 60px;">x.	Validation and verification Criteria</p>
+<p style="padding-left: 30px; text-align: center;"> </p>
+<p style="padding-left: 30px; text-align: center;"><img width="609" height="384" src="/images/stories/MBCD_WG/MBCD_WG_Figure_1.png" alt="MBCD_WG_Figure_1"></p>
+<p style="padding-left: 30px; text-align: center;"><strong>Figure 1:</strong> INCOSE<sup>1</sup> Systems Engineering ï¿½ Initial Technical Process Steps</p>
+<p style="text-align: justify; padding-left: 30px;">Following a recommendation by INCOSE's Community Advisory Board<sup>2</sup>, the MBCD WG will, into the future, explore the application of the MBCD advances identified in the Exploratory Research and Concept Stages to the Validation Technical Process of the generic life?cycle defined by INCOSE<sup>1</sup>.</p>
+<p style="text-align: justify; padding-left: 30px;"> </p>
+<h1 style="font-size: 14pt; font-weight: bold; color: #000000; text-align: justify;">Structure</h1>
+<p style="padding-left: 30px;"><strong><span style="font-size: 12pt;">Member Skills and Expertise</span></strong></p>
+<p style="padding-left: 30px;">Members should have a sound understanding of systems engineering, and expertise in model?based systems engineering, and a willingness to learn and advance the MBCD body of knowledge and practice. Researchers, practitioners and educators from the following domains, to the competency level of at least practitioner, act as examples of the expertise and skills required:</p>
+<p style="padding-left: 30px;">Systems Engineering Technical Skills</p>
+<p style="padding-left: 60px;">i.	Stakeholder needs and requirements elicitation and definition</p>
+<p style="padding-left: 60px;">ii.	Requirements analysis</p>
+<p style="padding-left: 60px;">iii.	Requirements verification and validation</p>
+<p style="padding-left: 60px;">iv.	Model-based systems engineering</p>
+<p style="padding-left: 30px;">Systems Engineering Project Skills</p>
+<p style="padding-left: 60px;">i.	Project planning</p>
+<p style="padding-left: 60px;">ii.	Project assessment</p>
+<p style="padding-left: 60px;">iii.	Project control</p>
+<p style="padding-left: 30px;">Expertise</p>
+<p style="padding-left: 60px;">i.	Legal and policy</p>
+<p style="padding-left: 60px;">ii.	Business analysis</p>
+<p style="padding-left: 60px;">iii.	Soft systems analysis</p>
+<p style="padding-left: 60px;">iv.	Systems thinking</p>
+<p style="padding-left: 60px;">v.	Holistic lifecycle consideration</p>
+<p><strong><span style="font-size: 12pt;">Membership, roles and responsibilities</span></strong></p>
+<p style="padding-left: 30px;">The working group is structured with a steering group and activity teams.</p>
+<p style="padding-left: 30px;">The steering group consists of:</p>
+<p style="padding-left: 60px;">i.	Chair ï¿½ Provide direction to, and be responsible for, the leadership of the MBCD WG</p>
+<p style="padding-left: 60px;">ii.	Co-chairs ï¿½ Support the chair leading the MBCD WG and serve as chair in absence of the chair</p>
+<p style="padding-left: 60px;">iii.	Members ï¿½ Support the activities of the MBCD WG steering group</p>
+<p style="padding-left: 30px;">Individual teams will be responsible for tackling specific challenges and issues. The teams consist of:</p>
+<p style="padding-left: 60px;">i.	Lead - Provide leadership of team tackling specific challenges and issues</p>
+<p style="padding-left: 60px;">ii.	Members - Support the team</p>
+<p><span style="font-size: 12pt;"><strong>Related working groups</strong></span></p>
+<p style="padding-left: 30px;">It is desirable that the following INCOSE working groups should be engaged:</p>
+<p style="padding-left: 60px;">i.	Requirements working group</p>
+<p style="padding-left: 60px;">ii.	Systems of systems working group</p>
+<p style="padding-left: 60px;">iii.	MBSE Initiative ï¿½ challenge teams and activity teams</p>
+<p style="padding-left: 60px;">iv.	Tools integration and interoperability working group</p>
+<p style="text-align: justify;"> </p>
+<h1 style="font-size: 14pt; font-weight: bold; color: #000000; text-align: justify;">Working Practice</h1>
+<p style="padding-left: 30px;"><span style="font-size: 12pt;"><strong>Deliverables</strong></span></p>
+<p style="padding-left: 30px;">The following are maintained on an ongoing basis by the steering group:</p>
+<p style="padding-left: 60px;">i.	Working Group Charter</p>
+<p style="padding-left: 60px;">ii.	Working Group strategy</p>
+<p style="padding-left: 60px;">iii.	Working Group membership</p>
+<p style="padding-left: 60px;">iv.	MBCD WG promotional material, including website and discussion forum</p>
+<p style="padding-left: 60px;">v.	MBCD WG progress summary</p>
+<p style="padding-left: 30px;">The following are to be delivered by the teams:</p>
+<p style="padding-left: 60px;">i.	Annual participation in the MBSE symposium, focusing on model-based conceptual design</p>
+<p style="padding-left: 60px;">ii.	Description of the challenges and issues the MBCD WG could address, along with proposed selections and approaches</p>
+<p style="padding-left: 60px;">iii.	MBCD WG activities roadmap</p>
+<p style="padding-left: 60px;">iv.	Establishment and maintenance of an MBCD discussion forum</p>
+<p style="padding-left: 60px;">v.	MBCD handbook (future)</p>
+<p style="padding-left: 60px;">vi.	Half-yearly progress reports</p>
+<p style="padding-left: 30px;"><span style="font-size: 12pt;"><strong>Approach</strong></span></p>
+<p style="padding-left: 30px;">The steering group will meet at least quarterly.</p>
+<p style="padding-left: 30px;">The individual teams will meet regularly and report to the steering group half-yearly.</p>
+<p style="padding-left: 30px;">Communicate via electronic media, including website, discussion forums, email and telecom.</p>
+<p style="padding-left: 30px;"><span style="font-size: 12pt;"><strong>Measures of success</strong></span></p>
+<p style="padding-left: 30px;">Measures of success include:</p>
+<p style="padding-left: 60px;">i.	Membership of activity teams</p>
+<p style="padding-left: 60px;">ii.	Deliverables from activity teams</p>
+<p style="padding-left: 60px;">iii.	Contributions to discussion forum</p>
+<p style="padding-left: 60px;">iv.	New and updated MBCD practice products</p>
+<p style="padding-left: 60px;">v.	Conference, symposiums and journal contributions</p>
+<p style="padding-left: 60px;">vi.	MBCD symposiums organised</p>
+<p style="text-align: justify;"> </p>
+<h1 style="font-size: 14pt; font-weight: bold; color: #000000; text-align: justify;">Resources</h1>
+<p style="padding-left: 30px;"><span style="font-size: 12pt;"><strong>Resources required</strong></span></p>
+<p style="padding-left: 30px;">The MBCD WG will submit resources requirements as required. Resources required may include meeting facilities, teleconferencing, and publication costs.</p>
+<p style="padding-left: 30px;"><span style="font-size: 12pt;"><strong>Duration</strong></span></p>
+<p style="padding-left: 30px;">This Charter will remain in effect until rescinded by the duly authorised INCOSE representative.</p>
+<p style="text-align: justify;"> </p>
+<h1 style="font-size: 14pt; color: #000000; font-weight: bold; text-align: justify;">Working Group Contacts</h1>
+<p style="text-align: justify;">If you would like more information or are interested in participating in this working group, please contact <a href="/index.php?option=com_contact&amp;view=contact&amp;catid=12%3Aexecutive-and-management-committee&amp;id=2-quoc-do">Quoc Do</a>.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><strong style="color: #000000;">Footnotes:</strong></p>
+<p style="text-align: justify; padding-left: 30px;"><span style="font-size: 8pt;">1: Systems Engineering Handbook Working Group, INCOSE, Systems Engineering Handbook, INCOSE-TP-2003-002-03.2, January 2010</span></p>
+<p style="text-align: justify; padding-left: 30px;"><span style="font-size: 8pt;">2: INCOSE CAB Meeting, International Workshop 2013</span></p></td>
+</tr>
+
+<tr>
+	<td class="modifydate">
+		Last Updated on Friday, 16 September 2016 19:40	</td>
+</tr>
+</table>
+<span class="article_separator">&nbsp;</span>
+
+</body>
+</html>

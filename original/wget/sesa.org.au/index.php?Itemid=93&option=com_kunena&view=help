@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding=""?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+  <base href="https://sesa.org.au/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="" />
+  <meta name="title" content="Help - SESA - Sesa" />
+  <meta name="description" content="Systems engineering focuses on how the deliverables of complex projects are specified, designed, qualified, deployed and change managed over the entire end to end life cycle of the project." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Help - SESA - Sesa</title>
+  <link rel="stylesheet" href="https://sesa.org.au/components/com_kunena/template/example/css/kunena.forum-min.css" type="text/css" />
+  <style type="text/css">
+    <!--
+#Kunena div.kheader ,
+#Kunena div.kheader {
+	background: #5388B4
+}
+#Kunena div.kannouncement div.kheader {
+	background: #990000
+}
+#Kunena div#kannouncement .kanndesc {
+	background: #FFFFAA
+}
+#Kunena div.kfrontstats div.kheader {
+	background: #000000
+}
+#Kunena div.kwhoisonline div.kheader {
+	background: #3B5323
+}
+#Kunena .kicon-profile {
+	background-image: url("https://sesa.org.au/components/com_kunena/template/default/media/iconsets/profile/default/default.png");
+}
+#Kunena .kicon-button {
+	background-image: url("https://sesa.org.au/components/com_kunena/template/default/media/iconsets/buttons/default/default.png");
+}
+#Kunena #kbbcode-toolbar li a,
+#Kunena #kattachments a {
+	background-image:url("https://sesa.org.au/components/com_kunena/template/default/media/iconsets/editor/default/default.png");
+}
+    -->
+  </style>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="https://sesa.org.au/components/com_kunena/js/slimbox/slimbox-min.js"></script>
+  <script type="text/javascript" src="https://sesa.org.au/components/com_kunena/template/default/js/default-min.js"></script>
+  <link rel="alternate" type="application/rss+xml" title="get the latest posts directly to your desktop" href="/index.php?option=com_kunena&amp;func=rss&amp;Itemid=85" />
+
+
+<link href="/templates/js_simplepro_red/css/template_css.css" rel="stylesheet" type="text/css" />
+
+<link rel="shortcut icon" href="/images/favicon.ico" />
+
+</head>
+
+<body id="page_bg">
+
+<a name="up" id="up"></a>
+
+<div class="center" align="center">
+
+  <table cellpadding="0" cellspacing="0" width="1100" id="maintable">
+
+    <tr valign="top">
+
+      <td class="shadowleft"><img src="/templates/js_simplepro_red/images/topleft.png" alt="" width="11"/><br /></td>
+
+      <td class="wrapper">
+	  	<div id="header">
+      		<div id="headeright">
+            	<div id="headerleft">
+                	<a href="/"><img class="sesa_logo" src="/templates/js_simplepro_red/images/sesa_logo.png" /></a>
+                 </div>
+            </div>
+		</div>
+        
+        <div id="mainbody">
+	        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr valign="top">
+	            <td valign="top" class="navbar">
+                <div class="push">
+                    <div class="leftcoltop">&nbsp;</div>
+                    <div class="leftcol">		<div class="moduletable">
+					
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr ><td><a href="/" class="mainlevel" >Home</a></td></tr>
+<tr ><td><a href="/what-is-systems-engineering" class="mainlevel" >What is Systems Eng?</a></td></tr>
+<tr ><td><a href="/about-sesa" class="mainlevel" >About SESA</a></td></tr>
+<tr ><td><a href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12" class="mainlevel" >SESA Committee</a></td></tr>
+<tr ><td><a href="/membership" class="mainlevel" >Membership</a></td></tr>
+<tr ><td><a href="/corporate-members-fy2015-16" class="mainlevel" >Corporate Members</a></td></tr>
+<tr ><td><a href="/system-engineering-resources" class="mainlevel" >Systems Eng Resources</a></td></tr>
+<tr ><td><a href="/sesa-working-groups" class="mainlevel" >SESA Working Groups</a></td></tr>
+<tr ><td><a href="/newlinks" class="mainlevel" >Links</a></td></tr>
+<tr ><td><a href="/case-csep-applications" class="mainlevel" >CASE/CSEP Applications</a></td></tr>
+<tr ><td><a href="/search" class="mainlevel" >Search</a></td></tr>
+<tr ><td><a href="/contact-us" class="mainlevel" >Contact Us</a></td></tr>
+</table>		</div>
+			<div class="moduletable">
+					<h3>Member Login</h3>
+					<form action="https://sesa.org.au/component/comprofiler/login" method="post" id="mod_loginform" style="margin:0px;">
+Available to SESA members only. If you are a SESA member and don't have a login, go to the Contact Us web page and send a request to the Webmaster.
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="mod_login">
+<tr><td><span id="mod_login_usernametext"><label for="mod_login_username">Username</label></span><br />
+<input type="text" name="username" id="mod_login_username" class="inputbox" size="14" /><br />
+<span id="mod_login_passwordtext"><label for="mod_login_password">Password</label></span><br /><span><input type="password" name="passwd" id="mod_login_password" class="inputbox" size="14" /></span><br />
+<input type="hidden" name="op2" value="login" />
+<input type="hidden" name="lang" value="english" />
+<input type="hidden" name="force_session" value="1" />
+<input type="hidden" name="return" value="B:aHR0cHM6Ly9zZXNhLm9yZy5hdS9pbmRleC5waHA/SXRlbWlkPTkzJmFtcDtvcHRpb249Y29tX2t1bmVuYSZhbXA7dmlldz1oZWxw" />
+<input type="hidden" name="message" value="0" />
+<input type="hidden" name="loginfrom" value="loginmodule" />
+<input type="hidden" name="cbsecuritym3" value="cbm_2d972bd3_0b5b301e_8170a4d886bac54a317dde596f17ccce" />
+<input type="checkbox" name="remember" id="mod_login_remember" value="yes" /> <span id="mod_login_remembermetext"><label for="mod_login_remember">Remember me</label></span><br />
+<input type="submit" name="Submit" class="button" value="Login" /></td></tr>
+<tr><td><a href="https://sesa.org.au/component/comprofiler/lostpassword" class="mod_login">Forgot login?</a></td></tr>
+</table></form>		</div>
+	</div>
+                    <div class="leftmodfooter">&nbsp;</div>
+                </div>
+                </td>
+
+				<td>
+				<div id="carea">
+					<div class="top"></div>
+                    <div class="middle">
+						<div class="banner">
+                            
+						</div>
+
+                      	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            	<tr valign="top">
+                                	<td width="50%">
+                                        
+                                    </td>
+                                	<td class="sep"><img src="/templates/js_simplepro_red/images/spacer.png" alt="spacer.png, 0 kB" width="11" /></td>
+              						<td width="50%">
+                                        
+                                    </td>
+                                </tr>
+                            </table>
+                      	
+						<div id="maindivider"></div>
+                      	<!--[if IE 7]>
+<link rel="stylesheet" href="https://sesa.org.au/components/com_kunena/template/default/css/kunena.forum.ie7.css" type="text/css" />
+<![endif]-->
+
+<div id="Kunena"> <!-- Kunena Menu -->
+<div id="ktop">
+			<!-- Kunena Module Position: kunena_menu -->
+		<div id="ktopmenu">
+			<div id="ktab">		<div class="moduletable">
+					<h3>Kunena Menu</h3>
+					<ul class="menu"><li class="item86"><a href="/index.php?Itemid=86&amp;option=com_kunena&amp;view=listcat"><span>Index</span></a></li><li class="item87"><a href="/index.php?Itemid=87&amp;option=com_kunena&amp;view=latest"><span>Recent Topics</span></a></li><li class="item92"><a href="/index.php?Itemid=92&amp;option=com_kunena&amp;view=rules"><span>Rules</span></a></li><li id="current" class="active item93"><a href="/index.php?Itemid=93&amp;option=com_kunena&amp;view=help"><span>Help</span></a></li><li class="item94"><a href="/index.php?Itemid=94&amp;option=com_kunena&amp;view=search"><span>Search</span></a></li></ul>		</div>
+	</div>
+		</div>
+		<!-- /Kunena Module Position: kunena_menu -->
+		<span class="ktoggler fltrt"><a class="ktoggler close" rel="kprofilebox"></a></span>
+</div>
+<!-- /Kunena Menu --><div class="kblock kpbox">
+	<div class="kcontainer" id="kprofilebox">
+		<div class="kbody">
+<table class="kprofilebox">
+	<tbody>
+		<tr class="krow1">
+			<td valign="top" class="kprofileboxcnt">
+				<div class="k_guest">
+					Welcome,
+					<b>Guest</b>
+				</div>
+								<form action="index.php?option=com_kunena" method="post" name="login">
+					<div class="input">
+						<span>
+							Username							<input type="text" name="username" class="inputbox ks" alt="username" size="18" />
+						</span>
+						<span>
+							Password:							<input type="password" name="passwd" class="inputbox ks" size="18" alt="password" /></span>
+						<span>
+														Remember me							<input type="checkbox" name="remember" alt="" value="yes" />
+														<input type="submit" name="submit" class="kbutton" value="Login" />
+							<input type="hidden" name="option" value="com_user" />
+							<input type="hidden" name="task" value="login" />
+							<input type="hidden" name="return" value="L2luZGV4LnBocD9JdGVtaWQ9OTMmb3B0aW9uPWNvbV9rdW5lbmEmdmlldz1oZWxw" /> <input type="hidden" name="db02a1f00185e4df7b456864359c76f7" value="1" />						</span>
+					</div>
+					<div class="klink-block">
+						<span class="kprofilebox-link">
+							<a href="/user/reset" title="" rel="nofollow">Forgot your password?</a>						</span>
+						<span class="kprofilebox-link">
+							<a href="/user/remind" title="" rel="nofollow">Forgot your username?</a>						</span>
+											</div>
+				</form>
+							</td>
+						</tr>
+	</tbody>
+</table>
+		</div>
+	</div>
+</div><div class="kblock">
+	<div class="kheader">
+		<h2><span>Help</span></h2>
+	</div>
+	<div class="kcontainer">
+		<div class="kbody">
+			<div class="khelprulescontent">
+				<p style="text-align: center;"><strong><span style="font-size: 18pt;">Help Topics</span></strong></p>
+<p style="text-align: center;"><span style="font-size: 14pt;"><a href="/index.php?Itemid=93&amp;option=com_kunena&amp;view=help#sections_categories_topics_posts">Sections, Categories, Topics & Post</a>s</span></p>
+<p style="text-align: center;"><a href="/index.php?Itemid=93&amp;option=com_kunena&amp;view=help#subscribing"><span style="font-size: 14pt;">Subscribing\Unsubscribing to a Category or a Topic</span></a></p>
+<p style="text-align: center;"><a href="/index.php?Itemid=93&amp;option=com_kunena&amp;view=help#reply_to_an_existing_topic"><span style="font-size: 14pt;">Reply to an Existing Post</span></a></p>
+<p style="text-align: center;"><a href="/index.php?Itemid=93&amp;option=com_kunena&amp;view=help#start_a_new_topic"><span style="font-size: 14pt;">Start a new Topic</span></a></p>
+<p> </p>
+<h1><a name="sections_categories_topics_posts"></a><strong><span style="color: #0000ff;">Sections, Categories, Topics & Posts</span></strong></h1>
+<p>The SESA Forum is structured into 4 layers.</p>
+<p><strong>Sections:</strong> This is the highest layer, a forum section is a high level container for categories</p>
+<p><strong>Categories:</strong> A forum category is a container for topics</p>
+<p><strong>Topic:</strong> A forum topic is a container for posts. Members can create new topics to start a new thread of discussion with other members.</p>
+<p><strong>Posts: </strong>A post is a container for a written response\commentary from a member. Posts are usually in reply to other posts within a topic.</p>
+<p> </p>
+<h1><a name="subscribing"></a><span style="color: #0000ff;"><strong>Subscribing\Unsubscribing to a Category or a Topic</strong></span></h1>
+<p>If you want to be notified by email of new topics started within a forum category, or of new posts to topics of interest, select a Category to see the list of current topics for that category and look for the "Subscribe" button at the top and bottom of the list. For topics of interest, select a topic and look for the "Subscribe" button at the top and bottom of the thread of posts for that topic.</p>
+<p>To unsubscribe, repeat the process above but look for the "Unsubscribe" button.</p>
+<p>Alternatively, you can set up an RSS feed to your browser or prefered RSS reader by selecting the RSS feed icon that appears in the bottom right hand corner of each forum page. This will notify you of all posts.</p>
+<p> </p>
+<h1><span style="color: #0000ff;"><strong><a name="reply_to_an_existing_topic"></a>Reply to an Existing Post</strong></span></h1>
+<p>So, you have been lurking around the forum reading posts and you have just read someone's post to a topic and you have decided you are going to reply and contribute some information of your own. Great! This is done by pressing one of the following 'reply' type buttons that appear at the bottom of every post.</p>
+<p><strong>Quick Reply</strong> - this brings up a small text area (without reloading the webpage) where you can quickly type a short reply. Press 'Submit' when you are done typing your response. If you have a change of heart you can press cancel and nothing gets posted regardless if you typed anything or not.</p>
+<p><strong>Reply</strong> - This is the standard method in which you should reply when you want to reply primarily to the most recent post. The reason for this is because the subject line of your reply will autofill with the subject of the post from which you are replying. In case you were wondering, yes, you can change the subject. The editor for composing your response is just a simple text editor - this will be updated to a MSWord like editor in the future. If you want to add one of the emoticons that appear above the message area, hover over the emoticon you would like to use and a pop-up will reveal the text code that you need to add. If you want to change a posting you have made, you have up to 15 minutes from the time of posting to edit your message.</p>
+<p><strong>Quote</strong> - If you wish to quote someone's post whether in whole or in part you simple press the 'Quote' button located beside the 'Reply' button underneath each post. The is very useful if you wish to make light of or expand upon a prior post. Once you press the Quote button you are brought into the same editing environment that you use to edit or create any other post. At this point, you type your response directly to that quote. When you are done replying, press the 'Submit' button.</p>
+<p><strong>Reply Topic</strong> - This button functions the same as the 'Reply' button with the exception that your subject line will autofill with the subject of the original post. This may come in handy if you replying to a long post whose subjects may have changed over time but you want to reply to the original post. When you are done replying, press the 'Submit' button.</p>
+<p> </p>
+<h1><a name="start_a_new_topic"></a><span style="color: #0000ff;"><strong>Start a New Topic</strong></span></h1>
+<p>To start a new topic, select a forum category to see the list of current topics for that category. Look for and select the "New Topic" button, enter a brief headline description in the "Subject" field (max 100 char), then enter the detail in the "Message" field area. The editor for composing your new topic message is just a simple text editor - this will be updated to a MSWord like editor in the future. If you want to add one of the emoticons that appear above the message area, hover over the emoticon you would like to use and a pop-up will reveal the text code that you need to add.</p>			</div>
+		</div>
+	</div>
+</div>
+<!-- Begin: Forum Jump -->
+<div class="kblock">
+	<div class="kheader">
+		<h2><span>Go to Category</span></h2>
+	</div>
+	<div class="kcontainer">
+		<div class="khelprulesjump">
+			<form id="jumpto" name="jumpto" method="post" target="_self" action="/index.php?option=com_kunena&amp;Itemid=85">
+	<span class="kright">
+		<input type="hidden" name="func" value="showcat" />
+		<select name="catid" id="forumjump" class="inputbox fbs" size="1" onchange = "this.form.submit()"><option value="0"  selected="selected">Board Categories</option><option value="1" >SESA Forums</option><option value="3" >...&nbsp;General Systems Engineering Topic</option><option value="2" >...&nbsp;Systems Engineering Best Practices</option><option value="14" >...&nbsp;General Announcements</option><option value="4" >SESA Special Interest Groups (SIGs)</option><option value="5" >...&nbsp; Systems Engineering Accreditation</option><option value="6" >...&nbsp; Defence &amp; Aerospace Systems Engineering</option><option value="7" >...&nbsp;IT &amp; Telecommunications Systems Engineering</option><option value="12" >...&nbsp;Intelligent Transport Systems</option><option value="16" >...&nbsp;Medical Devices &amp; eHealth</option><option value="8" >...&nbsp;Requirements Engineering</option><option value="15" >...&nbsp;Architecture, Design &amp; Modelling</option><option value="9" >...&nbsp;System Safety</option><option value="13" >...&nbsp;Verification &amp; Validation</option></select>		<input type="submit" name="Go" class="kbutton ks" value="Go" />
+	</span>
+</form>		</div>
+	</div>
+</div>
+<!-- Finish: Forum Jump --><div class="krss-block"><a href="/index.php?option=com_kunena&amp;func=rss&amp;Itemid=85" title="" rel="follow" target="_blank"><span class="kicon krss" title="get the latest posts directly to your desktop"></span></a></div><div class="kcredits kms"> <a href="/index.php?option=com_kunena&amp;func=credits&amp;catid=0&amp;Itemid=85" title="" rel="follow">Powered by</a> <a href="http://www.kunena.com" title="Kunena" rel="follow" target="_blank">Kunena</a></div>	<div class="kfooter">
+		<span class="kfooter-time">Time to create page:&nbsp;0.08&nbsp;seconds</span>
+	</div>
+</div>
+<!-- closes Kunena div -->
+
+                    </div>
+                    <div class="bottom"></div>
+				</td>
+				</table>
+
+                <td class="shadowright">
+                    <img src="/templates/js_simplepro_red/images/topright.png" alt="" width="11"/>
+                </td>
+			</tr>
+
+            <td colspan="3">
+                <div class="bottomenu"></div>
+            </td>
+</table>
+</div>
+
+
+
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-4538777-1");
+
+pageTracker._initData();
+
+pageTracker._trackPageview();
+
+</script>
+
+</body>
+
+</html>
+

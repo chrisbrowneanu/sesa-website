@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding=""?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+  <base href="https://sesa.org.au/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="" />
+  <meta name="title" content="Downloads | Australian SE Workshop 2015 - Sydney - Sesa" />
+  <meta name="description" content="Systems engineering focuses on how the deliverables of complex projects are specified, designed, qualified, deployed and change managed over the entire end to end life cycle of the project." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Downloads | Australian SE Workshop 2015 - Sydney - Sesa</title>
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="https://sesa.org.au/components/com_docman/themes/default/css/theme.css" type="text/css" />
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/modal.js"></script>
+  <script type="text/javascript">
+
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+
+			$$('a.modal').each(function(el) {
+				el.addEvent('click', function(e) {
+					new Event(e).stop();
+					SqueezeBox.fromElement(el);
+				});
+			});
+		});
+  </script>
+
+
+<link href="/templates/js_simplepro_red/css/template_css.css" rel="stylesheet" type="text/css" />
+
+<link rel="shortcut icon" href="/images/favicon.ico" />
+
+</head>
+
+<body id="page_bg">
+
+<a name="up" id="up"></a>
+
+<div class="center" align="center">
+
+  <table cellpadding="0" cellspacing="0" width="1100" id="maintable">
+
+    <tr valign="top">
+
+      <td class="shadowleft"><img src="/templates/js_simplepro_red/images/topleft.png" alt="" width="11"/><br /></td>
+
+      <td class="wrapper">
+	  	<div id="header">
+      		<div id="headeright">
+            	<div id="headerleft">
+                	<a href="/"><img class="sesa_logo" src="/templates/js_simplepro_red/images/sesa_logo.png" /></a>
+                 </div>
+            </div>
+		</div>
+        
+        <div id="mainbody">
+	        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr valign="top">
+	            <td valign="top" class="navbar">
+                <div class="push">
+                    <div class="leftcoltop">&nbsp;</div>
+                    <div class="leftcol">		<div class="moduletable">
+					
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr ><td><a href="/" class="mainlevel" >Home</a></td></tr>
+<tr ><td><a href="/what-is-systems-engineering" class="mainlevel" >What is Systems Eng?</a></td></tr>
+<tr ><td><a href="/about-sesa" class="mainlevel" >About SESA</a></td></tr>
+<tr ><td><a href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12" class="mainlevel" >SESA Committee</a></td></tr>
+<tr ><td><a href="/membership" class="mainlevel" >Membership</a></td></tr>
+<tr ><td><a href="/corporate-members-fy2015-16" class="mainlevel" >Corporate Members</a></td></tr>
+<tr ><td><a href="/system-engineering-resources" class="mainlevel" >Systems Eng Resources</a></td></tr>
+<tr ><td><a href="/sesa-working-groups" class="mainlevel" >SESA Working Groups</a></td></tr>
+<tr ><td><a href="/newlinks" class="mainlevel" >Links</a></td></tr>
+<tr ><td><a href="/case-csep-applications" class="mainlevel" >CASE/CSEP Applications</a></td></tr>
+<tr ><td><a href="/search" class="mainlevel" >Search</a></td></tr>
+<tr ><td><a href="/contact-us" class="mainlevel" >Contact Us</a></td></tr>
+</table>		</div>
+			<div class="moduletable">
+					<h3>Member Login</h3>
+					<form action="https://sesa.org.au/component/comprofiler/login" method="post" id="mod_loginform" style="margin:0px;">
+Available to SESA members only. If you are a SESA member and don't have a login, go to the Contact Us web page and send a request to the Webmaster.
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="mod_login">
+<tr><td><span id="mod_login_usernametext"><label for="mod_login_username">Username</label></span><br />
+<input type="text" name="username" id="mod_login_username" class="inputbox" size="14" /><br />
+<span id="mod_login_passwordtext"><label for="mod_login_password">Password</label></span><br /><span><input type="password" name="passwd" id="mod_login_password" class="inputbox" size="14" /></span><br />
+<input type="hidden" name="op2" value="login" />
+<input type="hidden" name="lang" value="english" />
+<input type="hidden" name="force_session" value="1" />
+<input type="hidden" name="return" value="B:aHR0cHM6Ly9zZXNhLm9yZy5hdS9kb3dubG9hZHMtdXNlcm1lbnUtMzMvY2F0X3ZpZXcvMTM3LWF1c3RyYWxpYW4tc2Utd29ya3Nob3AtMjAxNS1zeWRuZXk=" />
+<input type="hidden" name="message" value="0" />
+<input type="hidden" name="loginfrom" value="loginmodule" />
+<input type="hidden" name="cbsecuritym3" value="cbm_5dcb81ac_198bc29f_222d503fba9b65d1f6fc5e2915e3bd17" />
+<input type="checkbox" name="remember" id="mod_login_remember" value="yes" /> <span id="mod_login_remembermetext"><label for="mod_login_remember">Remember me</label></span><br />
+<input type="submit" name="Submit" class="button" value="Login" /></td></tr>
+<tr><td><a href="https://sesa.org.au/component/comprofiler/lostpassword" class="mod_login">Forgot login?</a></td></tr>
+</table></form>		</div>
+	</div>
+                    <div class="leftmodfooter">&nbsp;</div>
+                </div>
+                </td>
+
+				<td>
+				<div id="carea">
+					<div class="top"></div>
+                    <div class="middle">
+						<div class="banner">
+                            
+						</div>
+
+                      	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            	<tr valign="top">
+                                	<td width="50%">
+                                        
+                                    </td>
+                                	<td class="sep"><img src="/templates/js_simplepro_red/images/spacer.png" alt="spacer.png, 0 kB" width="11" /></td>
+              						<td width="50%">
+                                        
+                                    </td>
+                                </tr>
+                            </table>
+                      	
+						<div id="maindivider"></div>
+                      	<script language="javascript" type="text/javascript" src="https://sesa.org.au/components/com_docman/themes/default/js/theme.js"></script>
+<div id="dm_header">
+<div>
+<a href="/downloads-usermenu-33">
+<img src="/components/com_docman/themes/default/images/icons/32x32/home.png" alt="Downloads Home" /><br />
+Downloads Home		</a>
+</div>
+<div>
+<a href="/downloads-usermenu-33/search_form">
+<img src="/components/com_docman/themes/default/images/icons/32x32/search.png" alt="Search Document" /><br />
+Search Document		</a>
+</div>
+</div>
+<div class="clr"></div>
+<div class="dm_cat">
+<img class="dm_thumb-left" src="/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="" /><h1 class="dm_title">Australian SE Workshop 2015 - Sydney</h1><div class="clr"></div>
+</div>
+<div id="dm_docs">
+<h2 class="dm_title">Documents</h2>
+<div class="dm_orderby"> Order by :
+<strong>Name </strong> | <a href="/downloads-usermenu-33/cat_view/137-australian-se-workshop-2015-sydney?limit=15&amp;limitstart=0&amp;order=date&amp;dir=DESC">Date</a> | <a href="/downloads-usermenu-33/cat_view/137-australian-se-workshop-2015-sydney?limit=15&amp;limitstart=0&amp;order=hits&amp;dir=DESC">Hits</a> <a href="/downloads-usermenu-33/cat_view/137-australian-se-workshop-2015-sydney?limit=15&amp;limitstart=0&amp;order=name&amp;dir=ASC">[ Ascendant ]</a></div>        
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Workshop Handbook - ASEW 2015" />
+<a href="/downloads-usermenu-33/doc_download/495-workshop-handbook-asew-2015" title="Workshop Handbook - ASEW 2015">
+Workshop Handbook - ASEW 2015				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>2.41 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>2884</td>
+</tr>
+</table>
+</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/495-workshop-handbook-asew-2015" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=495&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="IS2 - Long - Presentation" />
+<a href="/downloads-usermenu-33/doc_download/497-is2-long-presentation" title="IS2 - Long - Presentation">
+IS2 - Long - Presentation				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>5.01 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>2681</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+Beyond MBSE: Looking towards the Next Evolution in Systems Engineering	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/497-is2-long-presentation" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=497&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="IS1 - Hause - Presentation" />
+<a href="/downloads-usermenu-33/doc_download/496-is1-hause-presentation" title="IS1 - Hause - Presentation">
+IS1 - Hause - Presentation				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>1.78 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1686</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+Using Product Line Engineering as a Decision Framework for MBSE	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/496-is1-hause-presentation" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=496&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="11 - Morris - Presentation" />
+<a href="/downloads-usermenu-33/doc_download/494-11-morris-presentation" title="11 - Morris - Presentation">
+11 - Morris - Presentation				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>1.64 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1306</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+Issues in Conceptual Design and MBSE Successes - Insights from the Model-Based Conceptual Design Surveys	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/494-11-morris-presentation" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=494&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="10 - Hellestrand - Presentation" />
+<a href="/downloads-usermenu-33/doc_download/493-10-hellestrand-presentation" title="10 - Hellestrand - Presentation">
+10 - Hellestrand - Presentation				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>14.11 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1703</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+Modelling &amp; Simulation Based Engineering of Systems of Mobile Systems	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/493-10-hellestrand-presentation" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=493&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="10 - Hellestrand - Paper" />
+<a href="/downloads-usermenu-33/doc_download/492-10-hellestrand-paper" title="10 - Hellestrand - Paper">
+10 - Hellestrand - Paper				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>593.01 kB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1160</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+Model-Based Systems Engineering ofMobile Systems of Systems	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/492-10-hellestrand-paper" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=492&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="09 - Davy & Harris - Presentation" />
+<a href="/downloads-usermenu-33/doc_download/491-09-davy-a-harris-presentation" title="09 - Davy & Harris - Presentation">
+09 - Davy & Harris - Presentation				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>3.25 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1491</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+From Storyboards to S*Patterns: the Journey so Far	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/491-09-davy-a-harris-presentation" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=491&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="08 - Hentzschel - Presentation" />
+<a href="/downloads-usermenu-33/doc_download/490-08-hentzschel-presentation" title="08 - Hentzschel - Presentation">
+08 - Hentzschel - Presentation				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>969.08 kB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1820</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+Modeling life cycle process standards	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/490-08-hentzschel-presentation" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=490&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="07 - Cook & Wilson - Presentation" />
+<a href="/downloads-usermenu-33/doc_download/489-07-cook-a-wilson-presentation" title="07 - Cook & Wilson - Presentation">
+07 - Cook & Wilson - Presentation				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>2.39 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1895</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+Determining Return on Investment for MBSE, SE &amp; SoSE	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/489-07-cook-a-wilson-presentation" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=489&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="06 - Scott et al - Presentation" />
+<a href="/downloads-usermenu-33/doc_download/488-06-scott-et-al-presentation" title="06 - Scott et al - Presentation">
+06 - Scott et al - Presentation				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>1.09 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1157</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+Case Study: Custom Enhancement of MBSE Tools for Easier and More Accurate Use of the Transport Network Architecture	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/488-06-scott-et-al-presentation" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=488&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="05 - Scott et al - Presentation" />
+<a href="/downloads-usermenu-33/doc_download/487-05-scott-et-al-presentation" title="05 - Scott et al - Presentation">
+05 - Scott et al - Presentation				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>1.87 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1718</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+Case Study: A Model Based Systems Engineering (MBSE) Framework for Characterising Transportation Systems Over the Full Life Cycle	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/487-05-scott-et-al-presentation" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=487&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="04 - Wylie et al - Presentation" />
+<a href="/downloads-usermenu-33/doc_download/486-04-wylie-et-al-presentation" title="04 - Wylie et al - Presentation">
+04 - Wylie et al - Presentation				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>1.83 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1191</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+<p>Model-Based Conceptual Design through to system implementation -&nbsp;Lessons from a structured yet agile approach</p>	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/486-04-wylie-et-al-presentation" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=486&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="03 - Tavener & Franco - Presentation" />
+<a href="/downloads-usermenu-33/doc_download/485-03-tavener-a-franco-presentation" title="03 - Tavener & Franco - Presentation">
+03 - Tavener & Franco - Presentation				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>1.82 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1534</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+Patrol boat manning studies	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/485-03-tavener-a-franco-presentation" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=485&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="02 - Readman et al - Presentation" />
+<a href="/downloads-usermenu-33/doc_download/498-02-readman-et-al-presentation" title="02 - Readman et al - Presentation">
+02 - Readman et al - Presentation				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>11/26/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>11/26/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>757.44 kB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>995</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+Lessons in Model Reuse	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/498-02-readman-et-al-presentation" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=498&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="01 - Kanyok - Presentation" />
+<a href="/downloads-usermenu-33/doc_download/484-01-kanyok-presentation" title="01 - Kanyok - Presentation">
+01 - Kanyok - Presentation				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>11/20/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>1.91 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1363</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+Modern Architecture Definition and Assessment Techniques through Modeling	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/484-01-kanyok-presentation" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=484&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>        </div>
+<div id="dm_nav">
+&lt;&lt; <span class="pagenav">Start</span> &lt; <span class="pagenav">Prev</span> <span class="pagenav">1</span> <a title="2" href="/downloads-usermenu-33/cat_view/137-australian-se-workshop-2015-sydney?limitstart=15" class="pagenav">2</a> <a title="Next" href="/downloads-usermenu-33/cat_view/137-australian-se-workshop-2015-sydney?limitstart=15" class="pagenav">Next</a> &gt; <a title="End" href="/downloads-usermenu-33/cat_view/137-australian-se-workshop-2015-sydney?limitstart=15" class="pagenav">End</a> &gt;&gt;	<div>
+Page 1 of 2	</div>
+</div>
+                    </div>
+                    <div class="bottom"></div>
+				</td>
+				</table>
+
+                <td class="shadowright">
+                    <img src="/templates/js_simplepro_red/images/topright.png" alt="" width="11"/>
+                </td>
+			</tr>
+
+            <td colspan="3">
+                <div class="bottomenu"></div>
+            </td>
+</table>
+</div>
+
+
+
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-4538777-1");
+
+pageTracker._initData();
+
+pageTracker._trackPageview();
+
+</script>
+
+</body>
+
+</html>
+

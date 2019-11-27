@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding=""?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+  <base href="https://sesa.org.au/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="" />
+  <meta name="title" content="SESA Committee - Sesa" />
+  <meta name="description" content="Systems engineering focuses on how the deliverables of complex projects are specified, designed, qualified, deployed and change managed over the entire end to end life cycle of the project." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>SESA Committee - Sesa</title>
+  <link href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12&amp;format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12&amp;format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+
+
+<link href="/templates/js_simplepro_red/css/template_css.css" rel="stylesheet" type="text/css" />
+
+<link rel="shortcut icon" href="/images/favicon.ico" />
+
+</head>
+
+<body id="page_bg">
+
+<a name="up" id="up"></a>
+
+<div class="center" align="center">
+
+  <table cellpadding="0" cellspacing="0" width="1100" id="maintable">
+
+    <tr valign="top">
+
+      <td class="shadowleft"><img src="/templates/js_simplepro_red/images/topleft.png" alt="" width="11"/><br /></td>
+
+      <td class="wrapper">
+	  	<div id="header">
+      		<div id="headeright">
+            	<div id="headerleft">
+                	<a href="/"><img class="sesa_logo" src="/templates/js_simplepro_red/images/sesa_logo.png" /></a>
+                 </div>
+            </div>
+		</div>
+        
+        <div id="mainbody">
+	        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr valign="top">
+	            <td valign="top" class="navbar">
+                <div class="push">
+                    <div class="leftcoltop">&nbsp;</div>
+                    <div class="leftcol">		<div class="moduletable">
+					
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr ><td><a href="/" class="mainlevel" >Home</a></td></tr>
+<tr ><td><a href="/what-is-systems-engineering" class="mainlevel" >What is Systems Eng?</a></td></tr>
+<tr ><td><a href="/about-sesa" class="mainlevel" >About SESA</a></td></tr>
+<tr ><td><a href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12" class="mainlevel" id="active_menu">SESA Committee</a></td></tr>
+<tr ><td><a href="/membership" class="mainlevel" >Membership</a></td></tr>
+<tr ><td><a href="/corporate-members-fy2015-16" class="mainlevel" >Corporate Members</a></td></tr>
+<tr ><td><a href="/system-engineering-resources" class="mainlevel" >Systems Eng Resources</a></td></tr>
+<tr ><td><a href="/sesa-working-groups" class="mainlevel" >SESA Working Groups</a></td></tr>
+<tr ><td><a href="/newlinks" class="mainlevel" >Links</a></td></tr>
+<tr ><td><a href="/case-csep-applications" class="mainlevel" >CASE/CSEP Applications</a></td></tr>
+<tr ><td><a href="/search" class="mainlevel" >Search</a></td></tr>
+<tr ><td><a href="/contact-us" class="mainlevel" >Contact Us</a></td></tr>
+</table>		</div>
+			<div class="moduletable">
+					<h3>Member Login</h3>
+					<form action="https://sesa.org.au/component/comprofiler/login" method="post" id="mod_loginform" style="margin:0px;">
+Available to SESA members only. If you are a SESA member and don't have a login, go to the Contact Us web page and send a request to the Webmaster.
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="mod_login">
+<tr><td><span id="mod_login_usernametext"><label for="mod_login_username">Username</label></span><br />
+<input type="text" name="username" id="mod_login_username" class="inputbox" size="14" /><br />
+<span id="mod_login_passwordtext"><label for="mod_login_password">Password</label></span><br /><span><input type="password" name="passwd" id="mod_login_password" class="inputbox" size="14" /></span><br />
+<input type="hidden" name="op2" value="login" />
+<input type="hidden" name="lang" value="english" />
+<input type="hidden" name="force_session" value="1" />
+<input type="hidden" name="return" value="B:aHR0cHM6Ly9zZXNhLm9yZy5hdS9pbmRleC5waHA/SXRlbWlkPTMmYW1wO29wdGlvbj1jb21fY29udGFjdCZhbXA7dmlldz1jYXRlZ29yeSZhbXA7Y2F0aWQ9MTI=" />
+<input type="hidden" name="message" value="0" />
+<input type="hidden" name="loginfrom" value="loginmodule" />
+<input type="hidden" name="cbsecuritym3" value="cbm_095759fe_2ad3e786_0b56ef78c721c02462f0bb1069de7334" />
+<input type="checkbox" name="remember" id="mod_login_remember" value="yes" /> <span id="mod_login_remembermetext"><label for="mod_login_remember">Remember me</label></span><br />
+<input type="submit" name="Submit" class="button" value="Login" /></td></tr>
+<tr><td><a href="https://sesa.org.au/component/comprofiler/lostpassword" class="mod_login">Forgot login?</a></td></tr>
+</table></form>		</div>
+	</div>
+                    <div class="leftmodfooter">&nbsp;</div>
+                </div>
+                </td>
+
+				<td>
+				<div id="carea">
+					<div class="top"></div>
+                    <div class="middle">
+						<div class="banner">
+                            
+						</div>
+
+                      	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            	<tr valign="top">
+                                	<td width="50%">
+                                        
+                                    </td>
+                                	<td class="sep"><img src="/templates/js_simplepro_red/images/spacer.png" alt="spacer.png, 0 kB" width="11" /></td>
+              						<td width="50%">
+                                        
+                                    </td>
+                                </tr>
+                            </table>
+                      	
+						<div id="maindivider"></div>
+                      	
+<div class="componentheading">
+SESA Committee</div>
+<div class="contentpane">
+	<div class="contentdescription">
+		<p align="center">
+&nbsp;
+</p>
+<p align="center">
+<span style="font-size: 12pt; color: #000000"><span style="font-family: verdana,geneva"><span><span><span>Click on a committee members name to get more details and to send them an email.</span></span></span></span></span>
+</p>
+<p align="center">
+<span style="font-size: 12pt; font-family: verdana,geneva"><span><span style="color: #0000ff"><span><span style="color: #000000">Please</span> <a href="/index.php?option=com_contact&amp;task=view&amp;contact_id=15&amp;Itemid=" target="_self">click here</a> <span style="color: #000000">for all general enquiries.</span>&nbsp;&nbsp;</span><span>&nbsp;</span></span></span></span> 
+</p>
+	</div>
+<script language="javascript" type="text/javascript">
+	function tableOrdering( order, dir, task ) {
+	var form = document.adminForm;
+
+	form.filter_order.value 	= order;
+	form.filter_order_Dir.value	= dir;
+	document.adminForm.submit( task );
+}
+</script>
+<form action="https://sesa.org.au/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12" method="post" name="adminForm">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+	<thead>
+		<tr>
+			<td align="right" colspan="6">
+						</td>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td align="center" colspan="6" class="sectiontablefooter">
+				&lt;&lt; <span class="pagenav">Start</span> &lt; <span class="pagenav">Prev</span> <span class="pagenav">1</span> <a title="2" href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12&amp;limitstart=20" class="pagenav">2</a> <a title="Next" href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12&amp;limitstart=20" class="pagenav">Next</a> &gt; <a title="End" href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12&amp;limitstart=20" class="pagenav">End</a> &gt;&gt;			</td>
+		</tr>
+		<tr>
+			<td colspan="6" align="right">
+				Page 1 of 2			</td>
+		</tr>
+	</tfoot>
+	<tbody>
+			<tr>
+			<td width="5" align="right" class="sectiontableheader">
+				#			</td>
+			<td height="20" class="sectiontableheader">
+				<a href="javascript:tableOrdering('cd.name','desc','');" title="Click to sort by this column">Name</a>			</td>
+						<td height="20" class="sectiontableheader">
+				<a href="javascript:tableOrdering('cd.con_position','desc','');" title="Click to sort by this column">Position</a>			</td>
+																	</tr>
+		<tr class="sectiontableentry1">
+	<td align="right" width="5">
+		1	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=2%3Abill-parkin&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			Bill Parkins</a>
+	</td>
+		<td>
+		SESA President	</td>
+					</tr>
+<tr class="sectiontableentry2">
+	<td align="right" width="5">
+		2	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=13%3Adon-lowe&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			Don Lowe</a>
+	</td>
+		<td>
+		SESA Deputy President	</td>
+					</tr>
+<tr class="sectiontableentry1">
+	<td align="right" width="5">
+		3	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=6%3Adavid-peterson-treasurer&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			David Peterson</a>
+	</td>
+		<td>
+		SESA Treasurer	</td>
+					</tr>
+<tr class="sectiontableentry2">
+	<td align="right" width="5">
+		4	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=5%3Adavid-peterson&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			David Peterson</a>
+	</td>
+		<td>
+		SESA Secretary	</td>
+					</tr>
+<tr class="sectiontableentry1">
+	<td align="right" width="5">
+		5	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=1%3Ajohn-nasr&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			John Nasr</a>
+	</td>
+		<td>
+		SESA President Elect	</td>
+					</tr>
+<tr class="sectiontableentry2">
+	<td align="right" width="5">
+		6	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=32%3Ayarlini-aravinthan&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			Yarlini Aravinthan</a>
+	</td>
+		<td>
+		MARCOM	</td>
+					</tr>
+<tr class="sectiontableentry1">
+	<td align="right" width="5">
+		7	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=8%3Aroger-mccowan-editor&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			Roger McCowan</a>
+	</td>
+		<td>
+		SESA Newsletter Editor	</td>
+					</tr>
+<tr class="sectiontableentry2">
+	<td align="right" width="5">
+		8	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=10%3Achris-browne&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			Chris Browne</a>
+	</td>
+		<td>
+		Tomorrow Systems Engineering Lead /AIM Chair	</td>
+					</tr>
+<tr class="sectiontableentry1">
+	<td align="right" width="5">
+		9	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=24%3Adavid-orr&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			David Orr</a>
+	</td>
+		<td>
+		External Engagement Representative	</td>
+					</tr>
+<tr class="sectiontableentry2">
+	<td align="right" width="5">
+		10	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=27%3Ajawahar-bhalla&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			Jawahar Bhalla</a>
+	</td>
+		<td>
+		Technical Representative	</td>
+					</tr>
+<tr class="sectiontableentry1">
+	<td align="right" width="5">
+		11	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=35%3Amikaela-stewart&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			Mikaela Stewart</a>
+	</td>
+		<td>
+		Early Systems Engineers Representative	</td>
+					</tr>
+<tr class="sectiontableentry2">
+	<td align="right" width="5">
+		12	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=33%3Amahmoud-efatmaneshnik&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			Mahmoud Efatmaneshnik</a>
+	</td>
+		<td>
+		Events Manager	</td>
+					</tr>
+<tr class="sectiontableentry1">
+	<td align="right" width="5">
+		13	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=21%3Aliqiao&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			Li Qiao</a>
+	</td>
+		<td>
+		SESA ACT Local Chapter Representative	</td>
+					</tr>
+<tr class="sectiontableentry2">
+	<td align="right" width="5">
+		14	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=28%3Ahelen-williams&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			Helen Williams</a>
+	</td>
+		<td>
+		SESA NSW Representative	</td>
+					</tr>
+<tr class="sectiontableentry1">
+	<td align="right" width="5">
+		15	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=9%3Aemma-rose-tildesley&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			Emma-Rose Tildesley</a>
+	</td>
+		<td>
+		SESA VIC Chapter Representative	</td>
+					</tr>
+<tr class="sectiontableentry2">
+	<td align="right" width="5">
+		16	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=29%3Aricky-clayton&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			Ricky Clayton</a>
+	</td>
+		<td>
+		SESA QLD Representative	</td>
+					</tr>
+<tr class="sectiontableentry1">
+	<td align="right" width="5">
+		17	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=31%3Amartin-shadbolt-&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			Martin Shadbolt </a>
+	</td>
+		<td>
+		SESA WA Representative	</td>
+					</tr>
+<tr class="sectiontableentry2">
+	<td align="right" width="5">
+		18	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=30%3Abrad-spencer&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			Brad Spencer</a>
+	</td>
+		<td>
+		SESA SA Representative	</td>
+					</tr>
+<tr class="sectiontableentry1">
+	<td align="right" width="5">
+		19	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=34%3Adavid-liu&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			David Liu</a>
+	</td>
+		<td>
+		SESA NT Representative 	</td>
+					</tr>
+<tr class="sectiontableentry2">
+	<td align="right" width="5">
+		20	</td>
+	<td height="20">
+		<a href="/index.php?option=com_contact&view=contact&id=4%3Adan-spencer&catid=12%3Aexecutive-and-management-committee&Itemid=3" class="category">
+			William Scott</a>
+	</td>
+		<td>
+		SESA ICT Officer	</td>
+					</tr>
+</tbody>
+</table>
+
+<input type="hidden" name="option" value="com_contact" />
+<input type="hidden" name="catid" value="12" />
+<input type="hidden" name="filter_order" value="cd.ordering" />
+<input type="hidden" name="filter_order_Dir" value="" />
+<input type="hidden" name="viewcache" value="0" />
+</form>
+</div>
+
+                    </div>
+                    <div class="bottom"></div>
+				</td>
+				</table>
+
+                <td class="shadowright">
+                    <img src="/templates/js_simplepro_red/images/topright.png" alt="" width="11"/>
+                </td>
+			</tr>
+
+            <td colspan="3">
+                <div class="bottomenu"></div>
+            </td>
+</table>
+</div>
+
+
+
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-4538777-1");
+
+pageTracker._initData();
+
+pageTracker._trackPageview();
+
+</script>
+
+</body>
+
+</html>
+

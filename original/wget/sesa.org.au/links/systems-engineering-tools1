@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Sesa</title>
+		<description>Systems engineering focuses on how the deliverables of complex projects are specified, designed, qualified, deployed and change managed over the entire end to end life cycle of the project.</description>
+		<link>https://sesa.org.au/links/systems-engineering-tools</link>
+		<lastBuildDate>Fri, 15 Nov 2019 21:50:06 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>en-gb</language>
+		<managingEditor>webmaster@sesa.org.au (Sesa)</managingEditor>
+	</channel>
+</rss>

@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding=""?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+  <base href="https://sesa.org.au/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="" />
+  <meta name="title" content="Forum - Sesa" />
+  <meta name="description" content="Systems engineering focuses on how the deliverables of complex projects are specified, designed, qualified, deployed and change managed over the entire end to end life cycle of the project." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Forum - Sesa</title>
+  <link rel="stylesheet" href="https://sesa.org.au/components/com_kunena/template/example/css/kunena.forum-min.css" type="text/css" />
+  <link rel="stylesheet" href="/media/system/css/calendar-jos.css" type="text/css"  title="green"  media="all" />
+  <style type="text/css">
+    <!--
+#Kunena div.kheader ,
+#Kunena div.kheader {
+	background: #5388B4
+}
+#Kunena div.kannouncement div.kheader {
+	background: #990000
+}
+#Kunena div#kannouncement .kanndesc {
+	background: #FFFFAA
+}
+#Kunena div.kfrontstats div.kheader {
+	background: #000000
+}
+#Kunena div.kwhoisonline div.kheader {
+	background: #3B5323
+}
+#Kunena .kicon-profile {
+	background-image: url("https://sesa.org.au/components/com_kunena/template/default/media/iconsets/profile/default/default.png");
+}
+#Kunena .kicon-button {
+	background-image: url("https://sesa.org.au/components/com_kunena/template/default/media/iconsets/buttons/default/default.png");
+}
+#Kunena #kbbcode-toolbar li a,
+#Kunena #kattachments a {
+	background-image:url("https://sesa.org.au/components/com_kunena/template/default/media/iconsets/editor/default/default.png");
+}
+    -->
+  </style>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="https://sesa.org.au/components/com_kunena/js/slimbox/slimbox-min.js"></script>
+  <script type="text/javascript" src="https://sesa.org.au/components/com_kunena/template/default/js/default-min.js"></script>
+  <script type="text/javascript" src="/media/system/js/calendar.js"></script>
+  <script type="text/javascript" src="/media/system/js/calendar-setup.js"></script>
+  <script type="text/javascript">
+window.addEvent('domready', function(){ $$('dl.tabs').each(function(tabs){ new KunenaTabs(tabs); }); });Calendar._DN = new Array ("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday");Calendar._SDN = new Array ("Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"); Calendar._FD = 0;	Calendar._MN = new Array ("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");	Calendar._SMN = new Array ("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec");Calendar._TT = {};Calendar._TT["INFO"] = "About the Calendar";
+ 		Calendar._TT["ABOUT"] =
+ "DHTML Date/Time Selector\n" +
+ "(c) dynarch.com 2002-2005 / Author: Mihai Bazon\n" +
+"For latest version visit: http://www.dynarch.com/projects/calendar/\n" +
+"Distributed under GNU LGPL.  See http://gnu.org/licenses/lgpl.html for details." +
+"\n\n" +
+"Date selection:\n" +
+"- Use the \xab, \xbb buttons to select year\n" +
+"- Use the " + String.fromCharCode(0x2039) + ", " + String.fromCharCode(0x203a) + " buttons to select month\n" +
+"- Hold mouse button on any of the above buttons for faster selection.";
+Calendar._TT["ABOUT_TIME"] = "\n\n" +
+"Time selection:\n" +
+"- Click on any of the time parts to increase it\n" +
+"- or Shift-click to decrease it\n" +
+"- or click and drag for faster selection.";
+
+		Calendar._TT["PREV_YEAR"] = "Click to move to the previous year. Click and hold for a list of years.";Calendar._TT["PREV_MONTH"] = "Click to move to the previous month. Click and hold for a list of the months.";	Calendar._TT["GO_TODAY"] = "Go to today";Calendar._TT["NEXT_MONTH"] = "Click to move to the next month. Click and hold for a list of the months.";Calendar._TT["NEXT_YEAR"] = "Click to move to the next year. Click and hold for a list of years.";Calendar._TT["SEL_DATE"] = "Select a date";Calendar._TT["DRAG_TO_MOVE"] = "Drag to move";Calendar._TT["PART_TODAY"] = " (Today)";Calendar._TT["DAY_FIRST"] = "Display %s first";Calendar._TT["WEEKEND"] = "0,6";Calendar._TT["CLOSE"] = "Close";Calendar._TT["TODAY"] = "Today";Calendar._TT["TIME_PART"] = "(Shift-)Click or Drag to change the value.";Calendar._TT["DEF_DATE_FORMAT"] = "%Y-%m-%d"; Calendar._TT["TT_DATE_FORMAT"] = "%A, %B %e";Calendar._TT["WK"] = "wk";Calendar._TT["TIME"] = "Time:";		window.addEvent('domready', function(){ var JTooltips = new Tips($$('.hasTip'), { maxTitleChars: 50, fixed: false}); });
+  </script>
+  <link rel="alternate" type="application/rss+xml" title="get the latest posts directly to your desktop" href="/index.php?option=com_kunena&amp;func=rss&amp;Itemid=85" />
+
+
+<link href="/templates/js_simplepro_red/css/template_css.css" rel="stylesheet" type="text/css" />
+
+<link rel="shortcut icon" href="/images/favicon.ico" />
+
+</head>
+
+<body id="page_bg">
+
+<a name="up" id="up"></a>
+
+<div class="center" align="center">
+
+  <table cellpadding="0" cellspacing="0" width="1100" id="maintable">
+
+    <tr valign="top">
+
+      <td class="shadowleft"><img src="/templates/js_simplepro_red/images/topleft.png" alt="" width="11"/><br /></td>
+
+      <td class="wrapper">
+	  	<div id="header">
+      		<div id="headeright">
+            	<div id="headerleft">
+                	<a href="/"><img class="sesa_logo" src="/templates/js_simplepro_red/images/sesa_logo.png" /></a>
+                 </div>
+            </div>
+		</div>
+        
+        <div id="mainbody">
+	        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr valign="top">
+	            <td valign="top" class="navbar">
+                <div class="push">
+                    <div class="leftcoltop">&nbsp;</div>
+                    <div class="leftcol">		<div class="moduletable">
+					
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr ><td><a href="/" class="mainlevel" >Home</a></td></tr>
+<tr ><td><a href="/what-is-systems-engineering" class="mainlevel" >What is Systems Eng?</a></td></tr>
+<tr ><td><a href="/about-sesa" class="mainlevel" >About SESA</a></td></tr>
+<tr ><td><a href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12" class="mainlevel" >SESA Committee</a></td></tr>
+<tr ><td><a href="/membership" class="mainlevel" >Membership</a></td></tr>
+<tr ><td><a href="/corporate-members-fy2015-16" class="mainlevel" >Corporate Members</a></td></tr>
+<tr ><td><a href="/system-engineering-resources" class="mainlevel" >Systems Eng Resources</a></td></tr>
+<tr ><td><a href="/sesa-working-groups" class="mainlevel" >SESA Working Groups</a></td></tr>
+<tr ><td><a href="/newlinks" class="mainlevel" >Links</a></td></tr>
+<tr ><td><a href="/case-csep-applications" class="mainlevel" >CASE/CSEP Applications</a></td></tr>
+<tr ><td><a href="/search" class="mainlevel" >Search</a></td></tr>
+<tr ><td><a href="/contact-us" class="mainlevel" >Contact Us</a></td></tr>
+</table>		</div>
+			<div class="moduletable">
+					<h3>Member Login</h3>
+					<form action="https://sesa.org.au/component/comprofiler/login" method="post" id="mod_loginform" style="margin:0px;">
+Available to SESA members only. If you are a SESA member and don't have a login, go to the Contact Us web page and send a request to the Webmaster.
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="mod_login">
+<tr><td><span id="mod_login_usernametext"><label for="mod_login_username">Username</label></span><br />
+<input type="text" name="username" id="mod_login_username" class="inputbox" size="14" /><br />
+<span id="mod_login_passwordtext"><label for="mod_login_password">Password</label></span><br /><span><input type="password" name="passwd" id="mod_login_password" class="inputbox" size="14" /></span><br />
+<input type="hidden" name="op2" value="login" />
+<input type="hidden" name="lang" value="english" />
+<input type="hidden" name="force_session" value="1" />
+<input type="hidden" name="return" value="B:aHR0cHM6Ly9zZXNhLm9yZy5hdS9pbmRleC5waHA/b3B0aW9uPWNvbV9rdW5lbmEmYW1wO2Z1bmM9cHJvZmlsZSZhbXA7dXNlcmlkPTMxOSZhbXA7SXRlbWlkPTg1" />
+<input type="hidden" name="message" value="0" />
+<input type="hidden" name="loginfrom" value="loginmodule" />
+<input type="hidden" name="cbsecuritym3" value="cbm_0b06ec82_02da47c8_7469095e4f4e7d07aa5862e3eaf6b353" />
+<input type="checkbox" name="remember" id="mod_login_remember" value="yes" /> <span id="mod_login_remembermetext"><label for="mod_login_remember">Remember me</label></span><br />
+<input type="submit" name="Submit" class="button" value="Login" /></td></tr>
+<tr><td><a href="https://sesa.org.au/component/comprofiler/lostpassword" class="mod_login">Forgot login?</a></td></tr>
+</table></form>		</div>
+	</div>
+                    <div class="leftmodfooter">&nbsp;</div>
+                </div>
+                </td>
+
+				<td>
+				<div id="carea">
+					<div class="top"></div>
+                    <div class="middle">
+						<div class="banner">
+                            
+						</div>
+
+                      	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            	<tr valign="top">
+                                	<td width="50%">
+                                        
+                                    </td>
+                                	<td class="sep"><img src="/templates/js_simplepro_red/images/spacer.png" alt="spacer.png, 0 kB" width="11" /></td>
+              						<td width="50%">
+                                        
+                                    </td>
+                                </tr>
+                            </table>
+                      	
+						<div id="maindivider"></div>
+                      	<!--[if IE 7]>
+<link rel="stylesheet" href="https://sesa.org.au/components/com_kunena/template/default/css/kunena.forum.ie7.css" type="text/css" />
+<![endif]-->
+
+<div id="Kunena"> <!-- Kunena Menu -->
+<div id="ktop">
+			<!-- Kunena Module Position: kunena_menu -->
+		<div id="ktopmenu">
+			<div id="ktab">		<div class="moduletable">
+					<h3>Kunena Menu</h3>
+					<ul class="menu"><li class="item86"><a href="/index.php?Itemid=86&amp;option=com_kunena&amp;view=listcat"><span>Index</span></a></li><li class="item87"><a href="/index.php?Itemid=87&amp;option=com_kunena&amp;view=latest"><span>Recent Topics</span></a></li><li class="item92"><a href="/index.php?Itemid=92&amp;option=com_kunena&amp;view=rules"><span>Rules</span></a></li><li class="item93"><a href="/index.php?Itemid=93&amp;option=com_kunena&amp;view=help"><span>Help</span></a></li><li class="item94"><a href="/index.php?Itemid=94&amp;option=com_kunena&amp;view=search"><span>Search</span></a></li></ul>		</div>
+	</div>
+		</div>
+		<!-- /Kunena Module Position: kunena_menu -->
+		<span class="ktoggler fltrt"><a class="ktoggler close" rel="kprofilebox"></a></span>
+</div>
+<!-- /Kunena Menu --><div class="kblock kpbox">
+	<div class="kcontainer" id="kprofilebox">
+		<div class="kbody">
+<table class="kprofilebox">
+	<tbody>
+		<tr class="krow1">
+			<td valign="top" class="kprofileboxcnt">
+				<div class="k_guest">
+					Welcome,
+					<b>Guest</b>
+				</div>
+								<form action="index.php?option=com_kunena" method="post" name="login">
+					<div class="input">
+						<span>
+							Username							<input type="text" name="username" class="inputbox ks" alt="username" size="18" />
+						</span>
+						<span>
+							Password:							<input type="password" name="passwd" class="inputbox ks" size="18" alt="password" /></span>
+						<span>
+														Remember me							<input type="checkbox" name="remember" alt="" value="yes" />
+														<input type="submit" name="submit" class="kbutton" value="Login" />
+							<input type="hidden" name="option" value="com_user" />
+							<input type="hidden" name="task" value="login" />
+							<input type="hidden" name="return" value="L2luZGV4LnBocD9vcHRpb249Y29tX2t1bmVuYSZmdW5jPXByb2ZpbGUmdXNlcmlkPTMxOSZJdGVtaWQ9ODU=" /> <input type="hidden" name="db02a1f00185e4df7b456864359c76f7" value="1" />						</span>
+					</div>
+					<div class="klink-block">
+						<span class="kprofilebox-link">
+							<a href="/user/reset" title="" rel="nofollow">Forgot your password?</a>						</span>
+						<span class="kprofilebox-link">
+							<a href="/user/remind" title="" rel="nofollow">Forgot your username?</a>						</span>
+											</div>
+				</form>
+							</td>
+						</tr>
+	</tbody>
+</table>
+		</div>
+	</div>
+</div>
+<div class="kblock k-profile">
+	<div class="kheader">
+		<h2><span class="k-name">Profile for David Harley Gapp (dgapp)</span>
+		</h2>
+	</div>
+	<div class="kcontainer">
+		<div class="kbody">
+			<table class = "kblocktable" id ="kprofile">
+				<tr>
+					<td class = "kcol-first kcol-left">
+						<div id="kprofile-leftcol">
+														<div class="kavatar-lg"><img class="kavatar" src="https://sesa.org.au/media/kunena/avatars/resized/size200/./nophoto.jpg" alt="" style="max-width: 200px; max-height: 200px" /></div>
+														<div id="kprofile-stats">
+							<ul>
+																<li><span class="kicon-button kbuttononline-no"><span class="online-no"><span>OFFLINE</span></span></span></li>
+																																<li><strong>Register Date:</strong> <span title="9 years ago">19 Oct 2010</span></li>								<li><strong>Last Visit Date:</strong> <span title="1 year, 6 months ago">18 May 2018</span></li>								<li><strong>Time Zone:</strong> GMT +0:00</li>
+								<li><strong>Local Time:</strong> 21:54</li>
+								<li><strong>Posts:</strong> 2</li>																								<li><strong>Profile Views:</strong> 822</li>
+								<li></li>
+																							</ul>
+							</div>
+						</div>
+					</td>
+					<td class="kcol-mid kcol-right">
+						<div id="kprofile-rightcol">
+							<div id="kprofile-rightcoltop">
+	<div class="kprofile-rightcol2">
+
+<div class="kiconrow">
+	<span class="kicon-profile kicon-profile-twitter-off"></span>	<span class="kicon-profile kicon-profile-facebook-off"></span>	<span class="kicon-profile kicon-profile-myspace-off"></span>	<span class="kicon-profile kicon-profile-linkedin-off"></span>	<span class="kicon-profile kicon-profile-skype-off"></span></div>
+<div class="kiconrow">
+	<span class="kicon-profile kicon-profile-delicious-off"></span>	<span class="kicon-profile kicon-profile-friendfeed-off"></span>	<span class="kicon-profile kicon-profile-digg-off"></span></div>
+<div class="clr"></div>
+<div class="kiconrow">
+	<span class="kicon-profile kicon-profile-yim-off"></span>	<span class="kicon-profile kicon-profile-aim-off"></span>	<span class="kicon-profile kicon-profile-gtalk-off"></span>	<span class="kicon-profile kicon-profile-icq-off"></span>	<span class="kicon-profile kicon-profile-msn-off"></span></div>
+<div class="kiconrow">
+	<span class="kicon-profile kicon-profile-blogspot-off"></span>	<span class="kicon-profile kicon-profile-flickr-off"></span>	<span class="kicon-profile kicon-profile-bebo-off"></span></div>	</div>
+	<div class="kprofile-rightcol1">
+		<ul>
+			<li><span class="kicon-profile kicon-profile-location"></span><strong>Location:</strong> Unknown</li>
+			<!--  The gender determines the suffix on the span class- gender-male & gender-female  -->
+			<li><span class="kicon-profile kicon-profile-gender-unknown"></span><strong>Gender:</strong> Unknown</li>
+			<li class="bd"><span class="kicon-profile kicon-profile-birthdate"></span><strong>Birthdate:</strong> <span title="Unknown">Unknown</span>
+			<!--  <a href="#" title=""><span class="bday-remind"></span></a> -->
+			</li>
+		</ul>
+	</div>
+</div>
+
+<div class="clrline"></div>
+<div id="kprofile-rightcolbot">
+	<div class="kprofile-rightcol2">
+		<ul>
+									<li><a href="http://" target="_blank"></a></li>
+		</ul>
+	</div>
+	<div class="kprofile-rightcol1">
+		<h4>Signature</h4>
+		<div class="kmsgsignature"><div></div></div>
+	</div>
+
+</div>
+
+<div class="clrline"></div>
+
+<div id="kprofile-tabs">
+	<dl class="tabs">
+				<dt class="open">Posts</dt>
+		<dd style="display: none;">
+			<form action="https://sesa.org.au/" method="post" name="kBulkActionForm">
+<div class="kblock">
+	<div class="kheader">
+				<h2><span>Posts</span></h2>
+	</div>
+	<div class="kcontainer">
+		<div class="kbody">
+<table
+	class="">
+				<tr class="krow2">
+			<td class="kcol-first kcol-ktopicicon">
+				<img src="https://sesa.org.au/components/com_kunena/template/default/images/topicicons/icon_normal.png" alt="emo" />			</td>
+
+			<td class="kcol-mid ktopictittle">
+			<span class="kicon ktopicattach" title="Attachment"></span>				<div class="ktopic-title-cover">
+					<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=3&amp;id=61&amp;Itemid=85" title="Mahmoud, I found that paper re modularity (attached) I mentioned at the beer-based se meeting 
+cheers
+dave" rel="follow">Re: What is a Module</a>				</div>
+				<div style="display:none">Mahmoud, I found that paper re modularity (attached) I mentioned at the beer-based se meeting <br />
+cheers<br />
+dave</div>
+			</td>
+
+			<td class="kcol-mid ktopictittle">
+				<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=3&amp;id=59&amp;Itemid=85" title="Hi All
+
+I appreciate your input on this:
+
+What do you define as a &quot;module&quot; in your domain?
+
+Thanks
+
+M" rel="follow">What is a Module</a>												<div class="ks">
+					<!-- Category -->
+					<span class="ktopic-category">
+						Category: <a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=3&amp;Itemid=85" title="" rel="follow">General Systems Engineering Topic</a>					</span>
+					<!-- /Category -->
+				</div>
+			</td>
+			<td class="kcol-mid kcol-ktopiclastpost">
+				<div class="klatest-post-info">
+					<!--  Sticky   -->
+										<!--  /Sticky   -->
+					<!-- Avatar -->
+										<!-- /Avatar -->
+					<!-- By -->
+					<span class="ktopic-posted-time" title="23 Jun 2016 21:34">
+						Posted 23 Jun 2016 21:34&nbsp;
+					</span>
+
+										<br />
+					<span class="ktopic-by">by <a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=319&amp;Itemid=85" title="" rel="nofollow">David Harley Gapp</a></span>
+										<!-- /By -->
+				</div>
+			</td>
+
+					</tr>
+
+				<tr class="krow1">
+			<td class="kcol-first kcol-ktopicicon">
+				<img src="https://sesa.org.au/components/com_kunena/template/default/images/topicicons/icon_normal.png" alt="emo" />			</td>
+
+			<td class="kcol-mid ktopictittle">
+							<div class="ktopic-title-cover">
+					<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=3&amp;id=12&amp;Itemid=85" title="The refinery platform was from Petrobras as per the attached file.
+In March 2001, a series of explosions sank Petrobras Platform 36.
+Proximate Cause:
+• Leakage of volatile fluids burst a shut down emergency drain tank and set off a violent chain of events
+Underlying Issues:
+• A corporate focus on cost-cutting over safety 
+• Poor design of individual parts with regards to a system safety context
+• Component failure without sufficient backups
+• Lack of training and communication
+
+excerpt from NASA, System Failure Case Studies at http://pbma.nasa.gov (I tried to attach the pdf but didn't seem to work)
+
+cheers
+dave" rel="follow">Re: Case study material on failed projects</a>				</div>
+				<div style="display:none">The refinery platform was from Petrobras as per the attached file.<br />
+In March 2001, a series of explosions sank Petrobras Platform 36.<br />
+Proximate Cause:<br />
+• Leakage of volatile fluids burst a shut down emergency drain tank and set off a violent chain of events<br />
+Underlying Issues:<br />
+• A corporate focus on cost-cutting over safety <br />
+• Poor design of individual parts with regards to a system safety context<br />
+• Component failure without sufficient backups<br />
+• Lack of training and communication<br />
+<br />
+excerpt from NASA, System Failure Case Studies at <a href="http://pbma.nasa.gov" target="_blank" rel="nofollow">pbma.nasa.gov</a> (I tried to attach the pdf but didn't seem to work)<br />
+<br />
+cheers<br />
+dave</div>
+			</td>
+
+			<td class="kcol-mid ktopictittle">
+				<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=3&amp;id=9&amp;Itemid=85" title="Does anyone know of some publicly available papers or websites that have case studies on failed projects and cover why they failed. There is one case study in particular covering a failed project to build an oil refinery platform using &quot;new streamlined engineering techniques&quot; but it sank during deployment, but I can't remember the name of the project." rel="follow">Case study material on failed projects</a>												<div class="ks">
+					<!-- Category -->
+					<span class="ktopic-category">
+						Category: <a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=3&amp;Itemid=85" title="" rel="follow">General Systems Engineering Topic</a>					</span>
+					<!-- /Category -->
+				</div>
+			</td>
+			<td class="kcol-mid kcol-ktopiclastpost">
+				<div class="klatest-post-info">
+					<!--  Sticky   -->
+										<!--  /Sticky   -->
+					<!-- Avatar -->
+										<!-- /Avatar -->
+					<!-- By -->
+					<span class="ktopic-posted-time" title="02 Nov 2010 22:02">
+						Posted 02 Nov 2010 22:02&nbsp;
+					</span>
+
+										<br />
+					<span class="ktopic-by">by <a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=319&amp;Itemid=85" title="" rel="nofollow">dgapp</a></span>
+										<!-- /By -->
+				</div>
+			</td>
+
+					</tr>
+
+				</table>
+</div>
+</div>
+</div>
+<input type="hidden" name="option" value="com_kunena" />
+<input type="hidden" name="func" value="bulkactions" />
+<input type="hidden" name="db02a1f00185e4df7b456864359c76f7" value="1" /></form>		</dd>
+				<dt class="closed">Thank You</dt>
+		<dd style="display: none;">
+			<form action="https://sesa.org.au/" method="post" name="kBulkActionForm">
+<div class="kblock">
+	<div class="kheader">
+				<h2><span>Received Thank You</span></h2>
+	</div>
+	<div class="kcontainer">
+		<div class="kbody">
+<table
+	class="">
+				<tr class="krow2">
+			<td class="kcol-first kcol-ktopicicon">No Posts</td>
+		</tr>
+				</table>
+</div>
+</div>
+</div>
+<input type="hidden" name="option" value="com_kunena" />
+<input type="hidden" name="func" value="bulkactions" />
+<input type="hidden" name="db02a1f00185e4df7b456864359c76f7" value="1" /></form>			<form action="https://sesa.org.au/" method="post" name="kBulkActionForm">
+<div class="kblock">
+	<div class="kheader">
+				<h2><span>Said Thank You</span></h2>
+	</div>
+	<div class="kcontainer">
+		<div class="kbody">
+<table
+	class="">
+				<tr class="krow2">
+			<td class="kcol-first kcol-ktopicicon">No Posts</td>
+		</tr>
+				</table>
+</div>
+</div>
+</div>
+<input type="hidden" name="option" value="com_kunena" />
+<input type="hidden" name="func" value="bulkactions" />
+<input type="hidden" name="db02a1f00185e4df7b456864359c76f7" value="1" /></form>		</dd>
+											</dl>
+</div>
+						</div>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+</div>
+<div class="krss-block"><a href="/index.php?option=com_kunena&amp;func=rss&amp;Itemid=85" title="" rel="follow" target="_blank"><span class="kicon krss" title="get the latest posts directly to your desktop"></span></a></div><div class="kcredits kms"> <a href="/index.php?option=com_kunena&amp;func=credits&amp;catid=0&amp;Itemid=85" title="" rel="follow">Powered by</a> <a href="http://www.kunena.com" title="Kunena" rel="follow" target="_blank">Kunena</a></div>	<div class="kfooter">
+		<span class="kfooter-time">Time to create page:&nbsp;0.13&nbsp;seconds</span>
+	</div>
+</div>
+<!-- closes Kunena div -->
+
+                    </div>
+                    <div class="bottom"></div>
+				</td>
+				</table>
+
+                <td class="shadowright">
+                    <img src="/templates/js_simplepro_red/images/topright.png" alt="" width="11"/>
+                </td>
+			</tr>
+
+            <td colspan="3">
+                <div class="bottomenu"></div>
+            </td>
+</table>
+</div>
+
+
+
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-4538777-1");
+
+pageTracker._initData();
+
+pageTracker._trackPageview();
+
+</script>
+
+</body>
+
+</html>
+

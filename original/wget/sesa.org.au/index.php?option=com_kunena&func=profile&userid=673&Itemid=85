@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding=""?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+  <base href="https://sesa.org.au/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="" />
+  <meta name="title" content="Forum - Sesa" />
+  <meta name="description" content="Systems engineering focuses on how the deliverables of complex projects are specified, designed, qualified, deployed and change managed over the entire end to end life cycle of the project." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Forum - Sesa</title>
+  <link rel="stylesheet" href="https://sesa.org.au/components/com_kunena/template/example/css/kunena.forum-min.css" type="text/css" />
+  <link rel="stylesheet" href="/media/system/css/calendar-jos.css" type="text/css"  title="green"  media="all" />
+  <style type="text/css">
+    <!--
+#Kunena div.kheader ,
+#Kunena div.kheader {
+	background: #5388B4
+}
+#Kunena div.kannouncement div.kheader {
+	background: #990000
+}
+#Kunena div#kannouncement .kanndesc {
+	background: #FFFFAA
+}
+#Kunena div.kfrontstats div.kheader {
+	background: #000000
+}
+#Kunena div.kwhoisonline div.kheader {
+	background: #3B5323
+}
+#Kunena .kicon-profile {
+	background-image: url("https://sesa.org.au/components/com_kunena/template/default/media/iconsets/profile/default/default.png");
+}
+#Kunena .kicon-button {
+	background-image: url("https://sesa.org.au/components/com_kunena/template/default/media/iconsets/buttons/default/default.png");
+}
+#Kunena #kbbcode-toolbar li a,
+#Kunena #kattachments a {
+	background-image:url("https://sesa.org.au/components/com_kunena/template/default/media/iconsets/editor/default/default.png");
+}
+    -->
+  </style>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="https://sesa.org.au/components/com_kunena/js/slimbox/slimbox-min.js"></script>
+  <script type="text/javascript" src="https://sesa.org.au/components/com_kunena/template/default/js/default-min.js"></script>
+  <script type="text/javascript" src="/media/system/js/calendar.js"></script>
+  <script type="text/javascript" src="/media/system/js/calendar-setup.js"></script>
+  <script type="text/javascript">
+window.addEvent('domready', function(){ $$('dl.tabs').each(function(tabs){ new KunenaTabs(tabs); }); });Calendar._DN = new Array ("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday");Calendar._SDN = new Array ("Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"); Calendar._FD = 0;	Calendar._MN = new Array ("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");	Calendar._SMN = new Array ("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec");Calendar._TT = {};Calendar._TT["INFO"] = "About the Calendar";
+ 		Calendar._TT["ABOUT"] =
+ "DHTML Date/Time Selector\n" +
+ "(c) dynarch.com 2002-2005 / Author: Mihai Bazon\n" +
+"For latest version visit: http://www.dynarch.com/projects/calendar/\n" +
+"Distributed under GNU LGPL.  See http://gnu.org/licenses/lgpl.html for details." +
+"\n\n" +
+"Date selection:\n" +
+"- Use the \xab, \xbb buttons to select year\n" +
+"- Use the " + String.fromCharCode(0x2039) + ", " + String.fromCharCode(0x203a) + " buttons to select month\n" +
+"- Hold mouse button on any of the above buttons for faster selection.";
+Calendar._TT["ABOUT_TIME"] = "\n\n" +
+"Time selection:\n" +
+"- Click on any of the time parts to increase it\n" +
+"- or Shift-click to decrease it\n" +
+"- or click and drag for faster selection.";
+
+		Calendar._TT["PREV_YEAR"] = "Click to move to the previous year. Click and hold for a list of years.";Calendar._TT["PREV_MONTH"] = "Click to move to the previous month. Click and hold for a list of the months.";	Calendar._TT["GO_TODAY"] = "Go to today";Calendar._TT["NEXT_MONTH"] = "Click to move to the next month. Click and hold for a list of the months.";Calendar._TT["NEXT_YEAR"] = "Click to move to the next year. Click and hold for a list of years.";Calendar._TT["SEL_DATE"] = "Select a date";Calendar._TT["DRAG_TO_MOVE"] = "Drag to move";Calendar._TT["PART_TODAY"] = " (Today)";Calendar._TT["DAY_FIRST"] = "Display %s first";Calendar._TT["WEEKEND"] = "0,6";Calendar._TT["CLOSE"] = "Close";Calendar._TT["TODAY"] = "Today";Calendar._TT["TIME_PART"] = "(Shift-)Click or Drag to change the value.";Calendar._TT["DEF_DATE_FORMAT"] = "%Y-%m-%d"; Calendar._TT["TT_DATE_FORMAT"] = "%A, %B %e";Calendar._TT["WK"] = "wk";Calendar._TT["TIME"] = "Time:";		window.addEvent('domready', function(){ var JTooltips = new Tips($$('.hasTip'), { maxTitleChars: 50, fixed: false}); });
+  </script>
+  <link rel="alternate" type="application/rss+xml" title="get the latest posts directly to your desktop" href="/index.php?option=com_kunena&amp;func=rss&amp;Itemid=85" />
+
+
+<link href="/templates/js_simplepro_red/css/template_css.css" rel="stylesheet" type="text/css" />
+
+<link rel="shortcut icon" href="/images/favicon.ico" />
+
+</head>
+
+<body id="page_bg">
+
+<a name="up" id="up"></a>
+
+<div class="center" align="center">
+
+  <table cellpadding="0" cellspacing="0" width="1100" id="maintable">
+
+    <tr valign="top">
+
+      <td class="shadowleft"><img src="/templates/js_simplepro_red/images/topleft.png" alt="" width="11"/><br /></td>
+
+      <td class="wrapper">
+	  	<div id="header">
+      		<div id="headeright">
+            	<div id="headerleft">
+                	<a href="/"><img class="sesa_logo" src="/templates/js_simplepro_red/images/sesa_logo.png" /></a>
+                 </div>
+            </div>
+		</div>
+        
+        <div id="mainbody">
+	        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr valign="top">
+	            <td valign="top" class="navbar">
+                <div class="push">
+                    <div class="leftcoltop">&nbsp;</div>
+                    <div class="leftcol">		<div class="moduletable">
+					
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr ><td><a href="/" class="mainlevel" >Home</a></td></tr>
+<tr ><td><a href="/what-is-systems-engineering" class="mainlevel" >What is Systems Eng?</a></td></tr>
+<tr ><td><a href="/about-sesa" class="mainlevel" >About SESA</a></td></tr>
+<tr ><td><a href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12" class="mainlevel" >SESA Committee</a></td></tr>
+<tr ><td><a href="/membership" class="mainlevel" >Membership</a></td></tr>
+<tr ><td><a href="/corporate-members-fy2015-16" class="mainlevel" >Corporate Members</a></td></tr>
+<tr ><td><a href="/system-engineering-resources" class="mainlevel" >Systems Eng Resources</a></td></tr>
+<tr ><td><a href="/sesa-working-groups" class="mainlevel" >SESA Working Groups</a></td></tr>
+<tr ><td><a href="/newlinks" class="mainlevel" >Links</a></td></tr>
+<tr ><td><a href="/case-csep-applications" class="mainlevel" >CASE/CSEP Applications</a></td></tr>
+<tr ><td><a href="/search" class="mainlevel" >Search</a></td></tr>
+<tr ><td><a href="/contact-us" class="mainlevel" >Contact Us</a></td></tr>
+</table>		</div>
+			<div class="moduletable">
+					<h3>Member Login</h3>
+					<form action="https://sesa.org.au/component/comprofiler/login" method="post" id="mod_loginform" style="margin:0px;">
+Available to SESA members only. If you are a SESA member and don't have a login, go to the Contact Us web page and send a request to the Webmaster.
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="mod_login">
+<tr><td><span id="mod_login_usernametext"><label for="mod_login_username">Username</label></span><br />
+<input type="text" name="username" id="mod_login_username" class="inputbox" size="14" /><br />
+<span id="mod_login_passwordtext"><label for="mod_login_password">Password</label></span><br /><span><input type="password" name="passwd" id="mod_login_password" class="inputbox" size="14" /></span><br />
+<input type="hidden" name="op2" value="login" />
+<input type="hidden" name="lang" value="english" />
+<input type="hidden" name="force_session" value="1" />
+<input type="hidden" name="return" value="B:aHR0cHM6Ly9zZXNhLm9yZy5hdS9pbmRleC5waHA/b3B0aW9uPWNvbV9rdW5lbmEmYW1wO2Z1bmM9cHJvZmlsZSZhbXA7dXNlcmlkPTY3MyZhbXA7SXRlbWlkPTg1" />
+<input type="hidden" name="message" value="0" />
+<input type="hidden" name="loginfrom" value="loginmodule" />
+<input type="hidden" name="cbsecuritym3" value="cbm_04a53530_745de957_9f81be2f940b3109ba586ab9077906b3" />
+<input type="checkbox" name="remember" id="mod_login_remember" value="yes" /> <span id="mod_login_remembermetext"><label for="mod_login_remember">Remember me</label></span><br />
+<input type="submit" name="Submit" class="button" value="Login" /></td></tr>
+<tr><td><a href="https://sesa.org.au/component/comprofiler/lostpassword" class="mod_login">Forgot login?</a></td></tr>
+</table></form>		</div>
+	</div>
+                    <div class="leftmodfooter">&nbsp;</div>
+                </div>
+                </td>
+
+				<td>
+				<div id="carea">
+					<div class="top"></div>
+                    <div class="middle">
+						<div class="banner">
+                            
+						</div>
+
+                      	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            	<tr valign="top">
+                                	<td width="50%">
+                                        
+                                    </td>
+                                	<td class="sep"><img src="/templates/js_simplepro_red/images/spacer.png" alt="spacer.png, 0 kB" width="11" /></td>
+              						<td width="50%">
+                                        
+                                    </td>
+                                </tr>
+                            </table>
+                      	
+						<div id="maindivider"></div>
+                      	<!--[if IE 7]>
+<link rel="stylesheet" href="https://sesa.org.au/components/com_kunena/template/default/css/kunena.forum.ie7.css" type="text/css" />
+<![endif]-->
+
+<div id="Kunena"> <!-- Kunena Menu -->
+<div id="ktop">
+			<!-- Kunena Module Position: kunena_menu -->
+		<div id="ktopmenu">
+			<div id="ktab">		<div class="moduletable">
+					<h3>Kunena Menu</h3>
+					<ul class="menu"><li class="item86"><a href="/index.php?Itemid=86&amp;option=com_kunena&amp;view=listcat"><span>Index</span></a></li><li class="item87"><a href="/index.php?Itemid=87&amp;option=com_kunena&amp;view=latest"><span>Recent Topics</span></a></li><li class="item92"><a href="/index.php?Itemid=92&amp;option=com_kunena&amp;view=rules"><span>Rules</span></a></li><li class="item93"><a href="/index.php?Itemid=93&amp;option=com_kunena&amp;view=help"><span>Help</span></a></li><li class="item94"><a href="/index.php?Itemid=94&amp;option=com_kunena&amp;view=search"><span>Search</span></a></li></ul>		</div>
+	</div>
+		</div>
+		<!-- /Kunena Module Position: kunena_menu -->
+		<span class="ktoggler fltrt"><a class="ktoggler close" rel="kprofilebox"></a></span>
+</div>
+<!-- /Kunena Menu --><div class="kblock kpbox">
+	<div class="kcontainer" id="kprofilebox">
+		<div class="kbody">
+<table class="kprofilebox">
+	<tbody>
+		<tr class="krow1">
+			<td valign="top" class="kprofileboxcnt">
+				<div class="k_guest">
+					Welcome,
+					<b>Guest</b>
+				</div>
+								<form action="index.php?option=com_kunena" method="post" name="login">
+					<div class="input">
+						<span>
+							Username							<input type="text" name="username" class="inputbox ks" alt="username" size="18" />
+						</span>
+						<span>
+							Password:							<input type="password" name="passwd" class="inputbox ks" size="18" alt="password" /></span>
+						<span>
+														Remember me							<input type="checkbox" name="remember" alt="" value="yes" />
+														<input type="submit" name="submit" class="kbutton" value="Login" />
+							<input type="hidden" name="option" value="com_user" />
+							<input type="hidden" name="task" value="login" />
+							<input type="hidden" name="return" value="L2luZGV4LnBocD9vcHRpb249Y29tX2t1bmVuYSZmdW5jPXByb2ZpbGUmdXNlcmlkPTY3MyZJdGVtaWQ9ODU=" /> <input type="hidden" name="db02a1f00185e4df7b456864359c76f7" value="1" />						</span>
+					</div>
+					<div class="klink-block">
+						<span class="kprofilebox-link">
+							<a href="/user/reset" title="" rel="nofollow">Forgot your password?</a>						</span>
+						<span class="kprofilebox-link">
+							<a href="/user/remind" title="" rel="nofollow">Forgot your username?</a>						</span>
+											</div>
+				</form>
+							</td>
+						</tr>
+	</tbody>
+</table>
+		</div>
+	</div>
+</div>
+<div class="kblock k-profile">
+	<div class="kheader">
+		<h2><span class="k-name">Profile for Paul Logan (plogan)</span>
+		</h2>
+	</div>
+	<div class="kcontainer">
+		<div class="kbody">
+			<table class = "kblocktable" id ="kprofile">
+				<tr>
+					<td class = "kcol-first kcol-left">
+						<div id="kprofile-leftcol">
+														<div class="kavatar-lg"><img class="kavatar" src="https://sesa.org.au/media/kunena/avatars/resized/size200/./nophoto.jpg" alt="" style="max-width: 200px; max-height: 200px" /></div>
+														<div id="kprofile-stats">
+							<ul>
+																<li><span class="kicon-button kbuttononline-no"><span class="online-no"><span>OFFLINE</span></span></span></li>
+																																<li><strong>Register Date:</strong> <span title="9 years ago">04 Nov 2010</span></li>								<li><strong>Last Visit Date:</strong> <span title="6 years ago">10 Nov 2013</span></li>								<li><strong>Time Zone:</strong> GMT +0:00</li>
+								<li><strong>Local Time:</strong> 21:54</li>
+								<li><strong>Posts:</strong> 4</li>																								<li><strong>Profile Views:</strong> 928</li>
+								<li></li>
+																							</ul>
+							</div>
+						</div>
+					</td>
+					<td class="kcol-mid kcol-right">
+						<div id="kprofile-rightcol">
+							<div id="kprofile-rightcoltop">
+	<div class="kprofile-rightcol2">
+
+<div class="kiconrow">
+	<span class="kicon-profile kicon-profile-twitter-off"></span>	<span class="kicon-profile kicon-profile-facebook-off"></span>	<span class="kicon-profile kicon-profile-myspace-off"></span>	<span class="kicon-profile kicon-profile-linkedin-off"></span>	<span class="kicon-profile kicon-profile-skype-off"></span></div>
+<div class="kiconrow">
+	<span class="kicon-profile kicon-profile-delicious-off"></span>	<span class="kicon-profile kicon-profile-friendfeed-off"></span>	<span class="kicon-profile kicon-profile-digg-off"></span></div>
+<div class="clr"></div>
+<div class="kiconrow">
+	<span class="kicon-profile kicon-profile-yim-off"></span>	<span class="kicon-profile kicon-profile-aim-off"></span>	<span class="kicon-profile kicon-profile-gtalk-off"></span>	<span class="kicon-profile kicon-profile-icq-off"></span>	<span class="kicon-profile kicon-profile-msn-off"></span></div>
+<div class="kiconrow">
+	<span class="kicon-profile kicon-profile-blogspot-off"></span>	<span class="kicon-profile kicon-profile-flickr-off"></span>	<span class="kicon-profile kicon-profile-bebo-off"></span></div>	</div>
+	<div class="kprofile-rightcol1">
+		<ul>
+			<li><span class="kicon-profile kicon-profile-location"></span><strong>Location:</strong> Unknown</li>
+			<!--  The gender determines the suffix on the span class- gender-male & gender-female  -->
+			<li><span class="kicon-profile kicon-profile-gender-unknown"></span><strong>Gender:</strong> Unknown</li>
+			<li class="bd"><span class="kicon-profile kicon-profile-birthdate"></span><strong>Birthdate:</strong> <span title="Unknown">Unknown</span>
+			<!--  <a href="#" title=""><span class="bday-remind"></span></a> -->
+			</li>
+		</ul>
+	</div>
+</div>
+
+<div class="clrline"></div>
+<div id="kprofile-rightcolbot">
+	<div class="kprofile-rightcol2">
+		<ul>
+									<li><a href="http://" target="_blank"></a></li>
+		</ul>
+	</div>
+	<div class="kprofile-rightcol1">
+		<h4>Signature</h4>
+		<div class="kmsgsignature"><div></div></div>
+	</div>
+
+</div>
+
+<div class="clrline"></div>
+
+<div id="kprofile-tabs">
+	<dl class="tabs">
+				<dt class="open">Posts</dt>
+		<dd style="display: none;">
+			<form action="https://sesa.org.au/" method="post" name="kBulkActionForm">
+<div class="kblock">
+	<div class="kheader">
+				<h2><span>Posts</span></h2>
+	</div>
+	<div class="kcontainer">
+		<div class="kbody">
+<table
+	class="">
+				<tr class="krow2">
+			<td class="kcol-first kcol-ktopicicon">
+				<img src="https://sesa.org.au/components/com_kunena/template/default/images/topicicons/icon_normal.png" alt="emo" />			</td>
+
+			<td class="kcol-mid ktopictittle">
+							<div class="ktopic-title-cover">
+					<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=52&amp;Itemid=85" title="Gordon
+I will discuss this with people who were involved at the time.
+Cheers
+PWL" rel="follow">Re: SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE</a>				</div>
+				<div style="display:none">Gordon<br />
+I will discuss this with people who were involved at the time.<br />
+Cheers<br />
+PWL</div>
+			</td>
+
+			<td class="kcol-mid ktopictittle">
+				<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=25&amp;Itemid=85" title="This topic has been set up for all SESA members (including INCOSE Australia members) to discuss, ask questions or raise concerns about the proposed motion for the merger of SESA and INCOSE that will be raised during the SESA AGM at the SETE2011 conference on May 3rd (See the attachment - requires login to see this).
+
+Paul Miller
+Webmaster" rel="follow">SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE</a>												<div class="ks">
+					<!-- Category -->
+					<span class="ktopic-category">
+						Category: <a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=14&amp;Itemid=85" title="" rel="follow">General Announcements</a>					</span>
+					<!-- /Category -->
+				</div>
+			</td>
+			<td class="kcol-mid kcol-ktopiclastpost">
+				<div class="klatest-post-info">
+					<!--  Sticky   -->
+										<!--  /Sticky   -->
+					<!-- Avatar -->
+										<!-- /Avatar -->
+					<!-- By -->
+					<span class="ktopic-posted-time" title="22 May 2011 22:51">
+						Posted 22 May 2011 22:51&nbsp;
+					</span>
+
+										<br />
+					<span class="ktopic-by">by <a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=673&amp;Itemid=85" title="" rel="nofollow">Paul Logan</a></span>
+										<!-- /By -->
+				</div>
+			</td>
+
+					</tr>
+
+				<tr class="krow1">
+			<td class="kcol-first kcol-ktopicicon">
+				<img src="https://sesa.org.au/components/com_kunena/template/default/images/topicicons/icon_normal.png" alt="emo" />			</td>
+
+			<td class="kcol-mid ktopictittle">
+							<div class="ktopic-title-cover">
+					<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=50&amp;Itemid=85" title="The minutes of the AGM will be available on the SESA website soon.  The draft of the minutes was with me for review by the weekend following the AGM, but an emergency trip to hospital and consequent stay during which surgery was required, delayed finalisation of the minutes.  (I am now at home convalescing and full recovery expected.) 
+ 
+With respect to conduct of the AGM, there were no breaches of the SESA Constitution, Engineers Australia Technical Societies Guidelines and Regulations, nor of general governance or ethical behaviour.
+ 
+Constitution.
+During 2006, version 2.0 of the SESA Constitution was voted upon and accepted by the majority of members, the ballot being conducted in accordance with the extant version (1.0) of the SESA Constitution.
+
+During 2005 and 2006, the SESA Management Committee set about updating its Constitution.  Changes were needed in respect of three matters: 
+•	Updates to the Engineers Australia Technical Society Guidelines and Regulations over the intervening years since our Constitution was first drafted in 1995 needed to be reflected; 
+•	The structure and terms of office for the National Management Committee members needed revision; and 
+•	The original Constitution required that the ballot for alterations to the Constitution could be either &quot;in person&quot; or by postal vote - that is, no electronic forms of lodgement (fax, e-mail, etc.) could be used. 
+
+The draft revision of the Constitution was made available to all members through the SESA Newsletter #39 of March 2006, and the ballot, with assistance from Engineers Australia staff, was conducted during the lead-up to the AGM held in Melbourne in September that year.  The requisite percentage of &quot;yes&quot; votes was achieved, and therefore Version 2 of the SESA Constitution is indeed valid.
+
+Annual General Meeting.
+The Constitution states, in part:
+7.5 ANNUAL GENERAL MEETING (AGM) AND SPECIAL GENERAL MEETING (SGM)
+7.5.1 	The AGM shall be conducted to:
+a. 	Confirm the minutes of previous AGMs, if any;
+b. 	Receive the Annual Report and audited financial statements of account for the previous year;
+c. 	To elect an auditor for the ensuing year;
+d. 	To elect the office-bearers of the Society;
+e. 	To elect members to the Management Committee positions; and
+f. 	To address any foreshadowed and other business.
+7.5.2 	A SGM …
+7.5.3 	Notification for the AGM and SGM shall be in writing, provided 14 days prior to an SGM, and 30 days prior to an AGM.
+
+Notice of the AGM was contained in the SETE program, which was distributed on 4th April 2011.  Specific notice of the AGM together with detail of “foreshadowed” motion on notice was emailed to members on 11th April 2011.
+
+The constitutional notice period was satisfied but members at the meeting were requested to show by a vote of hands that they had adequate notice of the meeting and motion and that they wished to proceed with the meeting.
+
+Membership Rights 
+The Memorandum of Understanding agreed on 9th November 2004 between SESA and the Australian Chapter of INCOSE (INCOSE Australia) provides full SESA membership to INCOSE Australia members.  The INCOSE members are regarded as financial members of SESA because SESA receives the chapter component of the fee paid by the member to INCOSE.   Consequently current INCOSE Australia members are entitled to vote at the AGM and to hold office in SESA.
+
+Engineers Australia Oversight
+Rupert Grayston, acting-CEO and Stephen Finlay, acting-Director of Engineering Practice in Engineers Australia, having been made aware (not long before, by both sides) of the issues surrounding the motion on notice, attended the AGM as observers.
+Rupert was requested to address the meeting, not to speak for against, but mainly to make the members aware of his presence.  The request was without notice so he was circumspect in what he said.  In addition to what is reported elsewhere, he also said that he and EA supported in principle what the committee was seeking to do (i.e. fully engage with an international representative body) but that the details had to be resolved.
+
+And now the Committee will work through those details to achieve the objective endorsed by the AGM.
+
+Paul Logan
+President 
+SESA" rel="follow">Re: SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE</a>				</div>
+				<div style="display:none">The minutes of the AGM will be available on the SESA website soon.  The draft of the minutes was with me for review by the weekend following the AGM, but an emergency trip to hospital and consequent stay during which surgery was required, delayed finalisation of the minutes.  (I am now at home convalescing and full recovery expected.) <br />
+ <br />
+With respect to conduct of the AGM, there were no breaches of the SESA Constitution, Engineers Australia Technical Societies Guidelines and Regulations, nor of general governance or ethical behaviour.<br />
+ <br />
+Constitution.<br />
+During 2006, version 2.0 of the SESA Constitution was voted upon and accepted by the majority of members, the ballot being conducted in accordance with the extant version (1.0) of the SESA Constitution.<br />
+<br />
+During 2005 and 2006, the SESA Management Committee set about updating its Constitution.  Changes were needed in respect of three matters: <br />
+•	Updates to the Engineers Australia Technical Society Guidelines and Regulations over the intervening years since our Constitution was first drafted in 1995 needed to be reflected; <br />
+•	The structure and terms of office for the National Management Committee members needed revision; and <br />
+•	The original Constitution required that the ballot for alterations to the Constitution could be either &quot;in person&quot; or by postal vote - that is, no electronic forms of lodgement (fax, e-mail, etc.) could be used. <br />
+<br />
+The draft revision of the Constitution was made available to all members through the SESA Newsletter #39 of March 2006, and the ballot, with assistance from Engineers Australia staff, was conducted during the lead-up to the AGM held in Melbourne in September that year.  The requisite percentage of &quot;yes&quot; votes was achieved, and therefore Version 2 of the SESA Constitution is indeed valid.<br />
+<br />
+Annual General Meeting.<br />
+The Constitution states, in part:<br />
+7.5 ANNUAL GENERAL MEETING (AGM) AND SPECIAL GENERAL MEETING (SGM)<br />
+7.5.1 	The AGM shall be conducted to:<br />
+a. 	Confirm the minutes of previous AGMs, if any;<br />
+b. 	Receive the Annual Report and audited financial statements of account for the previous year;<br />
+c. 	To elect an auditor for the ensuing year;<br />
+d. 	To elect the office-bearers of the Society;<br />
+e. 	To elect members to the Management Committee positions; and<br />
+f. 	To address any foreshadowed and other business.<br />
+7.5.2 	A SGM …<br />
+7.5.3 	Notification for the AGM and SGM shall be in writing, provided 14 days prior to an SGM, and 30 days prior to an AGM.<br />
+<br />
+Notice of the AGM was contained in the SETE program, which was distributed on 4th April 2011.  Specific notice of the AGM together with detail of “foreshadowed” motion on notice was emailed to members on 11th April 2011.<br />
+<br />
+The constitutional notice period was satisfied but members at the meeting were requested to show by a vote of hands that they had adequate notice of the meeting and motion and that they wished to proceed with the meeting.<br />
+<br />
+Membership Rights <br />
+The Memorandum of Understanding agreed on 9th November 2004 between SESA and the Australian Chapter of INCOSE (INCOSE Australia) provides full SESA membership to INCOSE Australia members.  The INCOSE members are regarded as financial members of SESA because SESA receives the chapter component of the fee paid by the member to INCOSE.   Consequently current INCOSE Australia members are entitled to vote at the AGM and to hold office in SESA.<br />
+<br />
+Engineers Australia Oversight<br />
+Rupert Grayston, acting-CEO and Stephen Finlay, acting-Director of Engineering Practice in Engineers Australia, having been made aware (not long before, by both sides) of the issues surrounding the motion on notice, attended the AGM as observers.<br />
+Rupert was requested to address the meeting, not to speak for against, but mainly to make the members aware of his presence.  The request was without notice so he was circumspect in what he said.  In addition to what is reported elsewhere, he also said that he and EA supported in principle what the committee was seeking to do (i.e. fully engage with an international representative body) but that the details had to be resolved.<br />
+<br />
+And now the Committee will work through those details to achieve the objective endorsed by the AGM.<br />
+<br />
+Paul Logan<br />
+President <br />
+SESA</div>
+			</td>
+
+			<td class="kcol-mid ktopictittle">
+				<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=25&amp;Itemid=85" title="This topic has been set up for all SESA members (including INCOSE Australia members) to discuss, ask questions or raise concerns about the proposed motion for the merger of SESA and INCOSE that will be raised during the SESA AGM at the SETE2011 conference on May 3rd (See the attachment - requires login to see this).
+
+Paul Miller
+Webmaster" rel="follow">SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE</a>												<div class="ks">
+					<!-- Category -->
+					<span class="ktopic-category">
+						Category: <a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=14&amp;Itemid=85" title="" rel="follow">General Announcements</a>					</span>
+					<!-- /Category -->
+				</div>
+			</td>
+			<td class="kcol-mid kcol-ktopiclastpost">
+				<div class="klatest-post-info">
+					<!--  Sticky   -->
+										<!--  /Sticky   -->
+					<!-- Avatar -->
+										<!-- /Avatar -->
+					<!-- By -->
+					<span class="ktopic-posted-time" title="20 May 2011 10:12">
+						Posted 20 May 2011 10:12&nbsp;
+					</span>
+
+										<br />
+					<span class="ktopic-by">by <a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=673&amp;Itemid=85" title="" rel="nofollow">Paul Logan</a></span>
+										<!-- /By -->
+				</div>
+			</td>
+
+					</tr>
+
+				<tr class="krow2">
+			<td class="kcol-first kcol-ktopicicon">
+				<img src="https://sesa.org.au/components/com_kunena/template/default/images/topicicons/icon_normal.png" alt="emo" />			</td>
+
+			<td class="kcol-mid ktopictittle">
+							<div class="ktopic-title-cover">
+					<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=46&amp;Itemid=85" title="The membership and rate of contact numbers being quoted are incorrect.
+
+In the SESA Forum mailing list we have 430 contacts: 394 EA-listed members, both SESA and SESA-INCOSE, plus 36 additional SESA-INCOSE members.  We have a further 83 SESA-INCOSE members not yet included in either the EA member database or SESA Forum.  We thus have a total of 513 member contact details.  SESA National Secretary has advised and maintains communication with the members not on the SESA Forum list.  (SESA-INCOSE members can not be added to EA’s database until their Date of Birth is obtained – an ongoing process.)
+
+There are a total of 513 member contact details.  Some email addresses are suspect but best endeavours have been made to notify the members of the AGM.  Our Webmaster informs me that of the 430 addresses on SESA Forum, we get approx 65 bounces - a figure that can vary because of vagaries of email communication systems.  The SESA-INCOSE contacts we assume are good addresses.  The delivery rate [(513 – 65)/513] is approx 87%.
+ 
+Postal notification may have reached a few more members, but the difference in ultimate outcome is not likely to be material.  Voting is not compulsory and given the behaviour of voluntary organisations, their members and people in general, the expected participation rate (in person or by proxy) is around 10%.  This level of participation is statistically a reasonably representative sample of the membership at large.  The result remains statistically representative if a contact rate of two-thirds is assumed – a level we are confident has been exceeded. 
+
+The Motion will be put to the AGM, without amendment because of prior proxy voting and adequate discussion/argument via SESA Forum posts and emails.  The motion will be decided by a majority of votes cast.  
+
+Paul Logan
+President
+Systems Engineering Society of Australia" rel="follow">Re: SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE</a>				</div>
+				<div style="display:none">The membership and rate of contact numbers being quoted are incorrect.<br />
+<br />
+In the SESA Forum mailing list we have 430 contacts: 394 EA-listed members, both SESA and SESA-INCOSE, plus 36 additional SESA-INCOSE members.  We have a further 83 SESA-INCOSE members not yet included in either the EA member database or SESA Forum.  We thus have a total of 513 member contact details.  SESA National Secretary has advised and maintains communication with the members not on the SESA Forum list.  (SESA-INCOSE members can not be added to EA’s database until their Date of Birth is obtained – an ongoing process.)<br />
+<br />
+There are a total of 513 member contact details.  Some email addresses are suspect but best endeavours have been made to notify the members of the AGM.  Our Webmaster informs me that of the 430 addresses on SESA Forum, we get approx 65 bounces - a figure that can vary because of vagaries of email communication systems.  The SESA-INCOSE contacts we assume are good addresses.  The delivery rate [(513 – 65)/513] is approx 87%.<br />
+ <br />
+Postal notification may have reached a few more members, but the difference in ultimate outcome is not likely to be material.  Voting is not compulsory and given the behaviour of voluntary organisations, their members and people in general, the expected participation rate (in person or by proxy) is around 10%.  This level of participation is statistically a reasonably representative sample of the membership at large.  The result remains statistically representative if a contact rate of two-thirds is assumed – a level we are confident has been exceeded. <br />
+<br />
+The Motion will be put to the AGM, without amendment because of prior proxy voting and adequate discussion/argument via SESA Forum posts and emails.  The motion will be decided by a majority of votes cast.  <br />
+<br />
+Paul Logan<br />
+President<br />
+Systems Engineering Society of Australia</div>
+			</td>
+
+			<td class="kcol-mid ktopictittle">
+				<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=25&amp;Itemid=85" title="This topic has been set up for all SESA members (including INCOSE Australia members) to discuss, ask questions or raise concerns about the proposed motion for the merger of SESA and INCOSE that will be raised during the SESA AGM at the SETE2011 conference on May 3rd (See the attachment - requires login to see this).
+
+Paul Miller
+Webmaster" rel="follow">SETE2011 AGM &amp; Proposed Merger of SESA &amp; INCOSE</a>												<div class="ks">
+					<!-- Category -->
+					<span class="ktopic-category">
+						Category: <a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=14&amp;Itemid=85" title="" rel="follow">General Announcements</a>					</span>
+					<!-- /Category -->
+				</div>
+			</td>
+			<td class="kcol-mid kcol-ktopiclastpost">
+				<div class="klatest-post-info">
+					<!--  Sticky   -->
+										<!--  /Sticky   -->
+					<!-- Avatar -->
+										<!-- /Avatar -->
+					<!-- By -->
+					<span class="ktopic-posted-time" title="21 Apr 2011 12:10">
+						Posted 21 Apr 2011 12:10&nbsp;
+					</span>
+
+										<br />
+					<span class="ktopic-by">by <a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=673&amp;Itemid=85" title="" rel="nofollow">Paul Logan</a></span>
+										<!-- /By -->
+				</div>
+			</td>
+
+					</tr>
+
+				<tr class="krow1">
+			<td class="kcol-first kcol-ktopicicon">
+				<img src="https://sesa.org.au/components/com_kunena/template/default/images/topicicons/icon_unanswered.png" alt="emo" />			</td>
+
+			<td class="kcol-mid ktopictittle">
+							<div class="ktopic-title-cover">
+					<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=36&amp;Itemid=85" title="Notes in clarification of the AGM motion (and some of the President’s Report at the AGM):
+
+The change proposed is significant but not drastic, and has long been foreshadowed.  It does not require a change to the SESA constitution.  The constitution places such a change within the scope of Management Committee responsibility and authority:
+
+7.1.2     The classes of membership, entry fees and annual fees shall be determined by the National Management Committee in line with the Engineers Australia Technical Society Guidelines and Regulations.  Notification of any changes to the membership and fee structure shall be provided to members not less than 30 days before such changes come into effect.
+
+The Engineers Australia Technical Society Guidelines and Regulations provide:
+
+8.04      The officer bearers of the Technical Society shall have primary responsibility to obligate funds and assets of the Technical Society to promote the Technical Society's activities and do so with due diligence, and in accordance with the Engineers Australia Code of Ethics, Privacy Policy and the Technical Society Constitution.
+
+Nonetheless, because it is a significant change the Committee considers it appropriate to put the motion at AGM for vote by the membership at large.  As advised previously action has been taken to enable proxy voting so that all members can participate.
+
+It is normal practice (e.g. public company administration and government postal voting) to call for and close proxy voting prior to the vote on the day at an AGM.  The Secretary has requested proxy votes to be provided by 29th April 11.
+
+The proposed change does not change the organisational structure of SESA.  SESA remains a Technical Society of Engineers Australia; and remains unchanged as the Australian national learned society representing systems engineers and systems engineering.  What is being changed is the benefits provided to members, and the necessary fee change to make the change financially sustainable.
+
+The incorporation of INCOSE Australia into SESA formalises and builds on the arrangement put in place in 2006 by a Memorandum of Understanding between SESA and INCOSE Australia.
+
+INCOSE Australia members are recognised as SESA members with full membership rights.  INCOSE Australia is a distinct chapter by charter of INCOSE, and is required to have a President, Secretary and Treasurer to meet INCOSE Central chapter requirements.  However SESA administers INCOSE Australia in that INCOSE Central provides the Australian chapter funds rebate of the INCOSE membership fee (currently $US30 per member) to SESA which then provides local benefits i.e. SESA membership and activities.  INCOSE Australia members and financial management are fully integrated with SESA - SESA is the de facto Australian chapter of INCOSE.
+
+SESA’s mission is to share, promote and advance the best of Systems Engineering for the benefit of Australian organizations and community.  This includes providing benefits to and enhancing the professional standing of members of the organisation.  Management committees of the day and members at large have long considered that the best way to do this is to have SESA formally recognised as the Australian Chapter of INCOSE while remaining a Technical Society of Engineering Australia and being the sole national organisation representing Systems Engineers and systems engineering in Australia.
+
+The National Committee considers that the benefit of INCOSE membership that will in future be part of SESA membership significantly contributes to the SESA mission of promoting systems engineering in Australia, and enhances not only the professional knowledge and standing of individual systems engineering but also the collective standing of Australian systems engineers within the international systems engineering community.  Consequently the Committee considers that the increase in membership fee is warranted (noting that in the past the fees have been decreased for want for membership benefit.)
+
+Previously the affiliation in the manner proposed and agreed in principle with INCOSE could not be achieved due to previous INCOSE Boards of Directors’ stance on membership and chapter structure.  In recent years due to the global expansion and true internationalisation of INCOSE the proposed change can now be achieved through an MOU between EA, SESA and INCOSE.
+
+The proposed change will place SESA’s relationship with INCOSE on an equal basis with that of other national organisations in Europe (e.g. France, Germany, United Kingdom, Netherlands) and Asia (e.g. Korea).  And because that basis is equal the terms of agreement with INCOSE are not likely to change with further negotiation.
+
+To clarify the proposed fee structure:  the statement of motion should; read:
+The SESA fee includes GST, and the payment (in US dollars) of the INCOSE membership fee (less chapter rebate), the associated foreign exchange fee and any exchange rate variation.
+
+The current INCOSE fee for individual full membership is USD135 which includes USD30 rebated to the individual’s nominated chapter.  The proposed SESA fee is ASD135.  (The respective fees happen to be numerically identical due the near parity levels of the respective currencies.)  INCOSE multi-year membership has been introduced this year and any advantage to be gained for SESA members will be pursued with INCOSE, subject to agreement with Engineers Australia who administer the SESA membership database, as is done for all Technical Societies.
+
+The SESA fee is charged in Australia for an Australian service, being SESA membership, and therefore includes GST ($12.27).  USD105 will be paid on an annual basis to INCOSE as consideration for recognition of the SESA member as a full member of INCOSE.  Any exchange rate variation will be met by SESA funds - subject to review by the Management Committee.  Any surplus in membership fees contributes to the administration of the organisation.  As financially modelled by the Treasurer, these funds are not sufficient to cover SESA’s organisational costs – the reminder is derived from surpluses derived form running a successful annual conference.
+
+It is true that SESA does have significant consolidated funds accumulated from past conference surpluses.  The current Management Committee, fully aware of this situation, has worked this past year to identify and plan SESA development and system engineering promotion activities and programs that provide additional benefits to members and promote systems engineering across a broad community. 
+ 
+Elements of this program include student awards, prizes and possibly scholarships; subsidised professional development (i.e. systems engineering related training and education) for SESA members; participation in overseas conferences, meetings and other fora; development of Australian specific systems engineering body of knowledge and practice items and artefacts (that build on the breadth and depth of information available to membership at the INCOSE website) etc.
+
+One of the development activities undertaken by the Committee is improvement in communication with members at large.  The Committee sees the SESA website as a primary tool to achieve this communication.  Consequently significant effort has been and will continue to be made to ensure that membership lists and email addresses are current.  This is necessary as we move more to online delivery of newsletters and other member benefits.  Simplification of management of membership data is a not insignificant benefit which will flow from SESA being the singular INCOSE membership point of contact in Australia. 
+
+The member benefit and systems engineering promotion activities and programs are being developed in a prudent (and even perhaps a robust systems engineering) manner.  The Management Committee after investigation and analysis of alternatives considers that these programs and activities are a better and more equitable use of consolidated funds than large scale subsidy of INCOSE membership.  Details and direction of some of these activities will be announced during the SETE conference and at the AGM – and made known to membership via the SESA website!
+
+I encourage all to participate in the AGM either directly or by proxy.  Needless to say I also encourage you to support the motion.  
+
+I also encourage members to provide suggestions and support for the development activities being considered nu the Management Committee. 
+
+Further, I wish to see as many of you as possible at the forthcoming conference.
+
+Best regards
+
+Paul W Logan 
+President
+Systems Engineering Society of Australia" rel="follow">Notes in clarification of the AGM motion</a>				</div>
+				<div style="display:none">Notes in clarification of the AGM motion (and some of the President’s Report at the AGM):<br />
+<br />
+The change proposed is significant but not drastic, and has long been foreshadowed.  It does not require a change to the SESA constitution.  The constitution places such a change within the scope of Management Committee responsibility and authority:<br />
+<br />
+7.1.2     The classes of membership, entry fees and annual fees shall be determined by the National Management Committee in line with the Engineers Australia Technical Society Guidelines and Regulations.  Notification of any changes to the membership and fee structure shall be provided to members not less than 30 days before such changes come into effect.<br />
+<br />
+The Engineers Australia Technical Society Guidelines and Regulations provide:<br />
+<br />
+8.04      The officer bearers of the Technical Society shall have primary responsibility to obligate funds and assets of the Technical Society to promote the Technical Society's activities and do so with due diligence, and in accordance with the Engineers Australia Code of Ethics, Privacy Policy and the Technical Society Constitution.<br />
+<br />
+Nonetheless, because it is a significant change the Committee considers it appropriate to put the motion at AGM for vote by the membership at large.  As advised previously action has been taken to enable proxy voting so that all members can participate.<br />
+<br />
+It is normal practice (e.g. public company administration and government postal voting) to call for and close proxy voting prior to the vote on the day at an AGM.  The Secretary has requested proxy votes to be provided by 29th April 11.<br />
+<br />
+The proposed change does not change the organisational structure of SESA.  SESA remains a Technical Society of Engineers Australia; and remains unchanged as the Australian national learned society representing systems engineers and systems engineering.  What is being changed is the benefits provided to members, and the necessary fee change to make the change financially sustainable.<br />
+<br />
+The incorporation of INCOSE Australia into SESA formalises and builds on the arrangement put in place in 2006 by a Memorandum of Understanding between SESA and INCOSE Australia.<br />
+<br />
+INCOSE Australia members are recognised as SESA members with full membership rights.  INCOSE Australia is a distinct chapter by charter of INCOSE, and is required to have a President, Secretary and Treasurer to meet INCOSE Central chapter requirements.  However SESA administers INCOSE Australia in that INCOSE Central provides the Australian chapter funds rebate of the INCOSE membership fee (currently $US30 per member) to SESA which then provides local benefits i.e. SESA membership and activities.  INCOSE Australia members and financial management are fully integrated with SESA - SESA is the de facto Australian chapter of INCOSE.<br />
+<br />
+SESA’s mission is to share, promote and advance the best of Systems Engineering for the benefit of Australian organizations and community.  This includes providing benefits to and enhancing the professional standing of members of the organisation.  Management committees of the day and members at large have long considered that the best way to do this is to have SESA formally recognised as the Australian Chapter of INCOSE while remaining a Technical Society of Engineering Australia and being the sole national organisation representing Systems Engineers and systems engineering in Australia.<br />
+<br />
+The National Committee considers that the benefit of INCOSE membership that will in future be part of SESA membership significantly contributes to the SESA mission of promoting systems engineering in Australia, and enhances not only the professional knowledge and standing of individual systems engineering but also the collective standing of Australian systems engineers within the international systems engineering community.  Consequently the Committee considers that the increase in membership fee is warranted (noting that in the past the fees have been decreased for want for membership benefit.)<br />
+<br />
+Previously the affiliation in the manner proposed and agreed in principle with INCOSE could not be achieved due to previous INCOSE Boards of Directors’ stance on membership and chapter structure.  In recent years due to the global expansion and true internationalisation of INCOSE the proposed change can now be achieved through an MOU between EA, SESA and INCOSE.<br />
+<br />
+The proposed change will place SESA’s relationship with INCOSE on an equal basis with that of other national organisations in Europe (e.g. France, Germany, United Kingdom, Netherlands) and Asia (e.g. Korea).  And because that basis is equal the terms of agreement with INCOSE are not likely to change with further negotiation.<br />
+<br />
+To clarify the proposed fee structure:  the statement of motion should; read:<br />
+The SESA fee includes GST, and the payment (in US dollars) of the INCOSE membership fee (less chapter rebate), the associated foreign exchange fee and any exchange rate variation.<br />
+<br />
+The current INCOSE fee for individual full membership is USD135 which includes USD30 rebated to the individual’s nominated chapter.  The proposed SESA fee is ASD135.  (The respective fees happen to be numerically identical due the near parity levels of the respective currencies.)  INCOSE multi-year membership has been introduced this year and any advantage to be gained for SESA members will be pursued with INCOSE, subject to agreement with Engineers Australia who administer the SESA membership database, as is done for all Technical Societies.<br />
+<br />
+The SESA fee is charged in Australia for an Australian service, being SESA membership, and therefore includes GST ($12.27).  USD105 will be paid on an annual basis to INCOSE as consideration for recognition of the SESA member as a full member of INCOSE.  Any exchange rate variation will be met by SESA funds - subject to review by the Management Committee.  Any surplus in membership fees contributes to the administration of the organisation.  As financially modelled by the Treasurer, these funds are not sufficient to cover SESA’s organisational costs – the reminder is derived from surpluses derived form running a successful annual conference.<br />
+<br />
+It is true that SESA does have significant consolidated funds accumulated from past conference surpluses.  The current Management Committee, fully aware of this situation, has worked this past year to identify and plan SESA development and system engineering promotion activities and programs that provide additional benefits to members and promote systems engineering across a broad community. <br />
+ <br />
+Elements of this program include student awards, prizes and possibly scholarships; subsidised professional development (i.e. systems engineering related training and education) for SESA members; participation in overseas conferences, meetings and other fora; development of Australian specific systems engineering body of knowledge and practice items and artefacts (that build on the breadth and depth of information available to membership at the INCOSE website) etc.<br />
+<br />
+One of the development activities undertaken by the Committee is improvement in communication with members at large.  The Committee sees the SESA website as a primary tool to achieve this communication.  Consequently significant effort has been and will continue to be made to ensure that membership lists and email addresses are current.  This is necessary as we move more to online delivery of newsletters and other member benefits.  Simplification of management of membership data is a not insignificant benefit which will flow from SESA being the singular INCOSE membership point of contact in Australia. <br />
+<br />
+The member benefit and systems engineering promotion activities and programs are being developed in a prudent (and even perhaps a robust systems engineering) manner.  The Management Committee after investigation and analysis of alternatives considers that these programs and activities are a better and more equitable use of consolidated funds than large scale subsidy of INCOSE membership.  Details and direction of some of these activities will be announced during the SETE conference and at the AGM – and made known to membership via the SESA website!<br />
+<br />
+I encourage all to participate in the AGM either directly or by proxy.  Needless to say I also encourage you to support the motion.  <br />
+<br />
+I also encourage members to provide suggestions and support for the development activities being considered nu the Management Committee. <br />
+<br />
+Further, I wish to see as many of you as possible at the forthcoming conference.<br />
+<br />
+Best regards<br />
+<br />
+Paul W Logan <br />
+President<br />
+Systems Engineering Society of Australia</div>
+			</td>
+
+			<td class="kcol-mid ktopictittle">
+				<a class="ktopic-title km" href="/index.php?option=com_kunena&amp;func=view&amp;catid=14&amp;id=36&amp;Itemid=85" title="Notes in clarification of the AGM motion (and some of the President’s Report at the AGM):
+
+The change proposed is significant but not drastic, and has long been foreshadowed.  It does not require a change to the SESA constitution.  The constitution places such a change within the scope of Management Committee responsibility and authority:
+
+7.1.2     The classes of membership, entry fees and annual fees shall be determined by the National Management Committee in line with the Engineers Australia Technical Society Guidelines and Regulations.  Notification of any changes to the membership and fee structure shall be provided to members not less than 30 days before such changes come into effect.
+
+The Engineers Australia Technical Society Guidelines and Regulations provide:
+
+8.04      The officer bearers of the Technical Society shall have primary responsibility to obligate funds and assets of the Technical Society to promote the Technical Society's activities and do so with due diligence, and in accordance with the Engineers Australia Code of Ethics, Privacy Policy and the Technical Society Constitution.
+
+Nonetheless, because it is a significant change the Committee considers it appropriate to put the motion at AGM for vote by the membership at large.  As advised previously action has been taken to enable proxy voting so that all members can participate.
+
+It is normal practice (e.g. public company administration and government postal voting) to call for and close proxy voting prior to the vote on the day at an AGM.  The Secretary has requested proxy votes to be provided by 29th April 11.
+
+The proposed change does not change the organisational structure of SESA.  SESA remains a Technical Society of Engineers Australia; and remains unchanged as the Australian national learned society representing systems engineers and systems engineering.  What is being changed is the benefits provided to members, and the necessary fee change to make the change financially sustainable.
+
+The incorporation of INCOSE Australia into SESA formalises and builds on the arrangement put in place in 2006 by a Memorandum of Understanding between SESA and INCOSE Australia.
+
+INCOSE Australia members are recognised as SESA members with full membership rights.  INCOSE Australia is a distinct chapter by charter of INCOSE, and is required to have a President, Secretary and Treasurer to meet INCOSE Central chapter requirements.  However SESA administers INCOSE Australia in that INCOSE Central provides the Australian chapter funds rebate of the INCOSE membership fee (currently $US30 per member) to SESA which then provides local benefits i.e. SESA membership and activities.  INCOSE Australia members and financial management are fully integrated with SESA - SESA is the de facto Australian chapter of INCOSE.
+
+SESA’s mission is to share, promote and advance the best of Systems Engineering for the benefit of Australian organizations and community.  This includes providing benefits to and enhancing the professional standing of members of the organisation.  Management committees of the day and members at large have long considered that the best way to do this is to have SESA formally recognised as the Australian Chapter of INCOSE while remaining a Technical Society of Engineering Australia and being the sole national organisation representing Systems Engineers and systems engineering in Australia.
+
+The National Committee considers that the benefit of INCOSE membership that will in future be part of SESA membership significantly contributes to the SESA mission of promoting systems engineering in Australia, and enhances not only the professional knowledge and standing of individual systems engineering but also the collective standing of Australian systems engineers within the international systems engineering community.  Consequently the Committee considers that the increase in membership fee is warranted (noting that in the past the fees have been decreased for want for membership benefit.)
+
+Previously the affiliation in the manner proposed and agreed in principle with INCOSE could not be achieved due to previous INCOSE Boards of Directors’ stance on membership and chapter structure.  In recent years due to the global expansion and true internationalisation of INCOSE the proposed change can now be achieved through an MOU between EA, SESA and INCOSE.
+
+The proposed change will place SESA’s relationship with INCOSE on an equal basis with that of other national organisations in Europe (e.g. France, Germany, United Kingdom, Netherlands) and Asia (e.g. Korea).  And because that basis is equal the terms of agreement with INCOSE are not likely to change with further negotiation.
+
+To clarify the proposed fee structure:  the statement of motion should; read:
+The SESA fee includes GST, and the payment (in US dollars) of the INCOSE membership fee (less chapter rebate), the associated foreign exchange fee and any exchange rate variation.
+
+The current INCOSE fee for individual full membership is USD135 which includes USD30 rebated to the individual’s nominated chapter.  The proposed SESA fee is ASD135.  (The respective fees happen to be numerically identical due the near parity levels of the respective currencies.)  INCOSE multi-year membership has been introduced this year and any advantage to be gained for SESA members will be pursued with INCOSE, subject to agreement with Engineers Australia who administer the SESA membership database, as is done for all Technical Societies.
+
+The SESA fee is charged in Australia for an Australian service, being SESA membership, and therefore includes GST ($12.27).  USD105 will be paid on an annual basis to INCOSE as consideration for recognition of the SESA member as a full member of INCOSE.  Any exchange rate variation will be met by SESA funds - subject to review by the Management Committee.  Any surplus in membership fees contributes to the administration of the organisation.  As financially modelled by the Treasurer, these funds are not sufficient to cover SESA’s organisational costs – the reminder is derived from surpluses derived form running a successful annual conference.
+
+It is true that SESA does have significant consolidated funds accumulated from past conference surpluses.  The current Management Committee, fully aware of this situation, has worked this past year to identify and plan SESA development and system engineering promotion activities and programs that provide additional benefits to members and promote systems engineering across a broad community. 
+ 
+Elements of this program include student awards, prizes and possibly scholarships; subsidised professional development (i.e. systems engineering related training and education) for SESA members; participation in overseas conferences, meetings and other fora; development of Australian specific systems engineering body of knowledge and practice items and artefacts (that build on the breadth and depth of information available to membership at the INCOSE website) etc.
+
+One of the development activities undertaken by the Committee is improvement in communication with members at large.  The Committee sees the SESA website as a primary tool to achieve this communication.  Consequently significant effort has been and will continue to be made to ensure that membership lists and email addresses are current.  This is necessary as we move more to online delivery of newsletters and other member benefits.  Simplification of management of membership data is a not insignificant benefit which will flow from SESA being the singular INCOSE membership point of contact in Australia. 
+
+The member benefit and systems engineering promotion activities and programs are being developed in a prudent (and even perhaps a robust systems engineering) manner.  The Management Committee after investigation and analysis of alternatives considers that these programs and activities are a better and more equitable use of consolidated funds than large scale subsidy of INCOSE membership.  Details and direction of some of these activities will be announced during the SETE conference and at the AGM – and made known to membership via the SESA website!
+
+I encourage all to participate in the AGM either directly or by proxy.  Needless to say I also encourage you to support the motion.  
+
+I also encourage members to provide suggestions and support for the development activities being considered nu the Management Committee. 
+
+Further, I wish to see as many of you as possible at the forthcoming conference.
+
+Best regards
+
+Paul W Logan 
+President
+Systems Engineering Society of Australia" rel="follow">Notes in clarification of the AGM motion</a>												<div class="ks">
+					<!-- Category -->
+					<span class="ktopic-category">
+						Category: <a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=14&amp;Itemid=85" title="" rel="follow">General Announcements</a>					</span>
+					<!-- /Category -->
+				</div>
+			</td>
+			<td class="kcol-mid kcol-ktopiclastpost">
+				<div class="klatest-post-info">
+					<!--  Sticky   -->
+										<!--  /Sticky   -->
+					<!-- Avatar -->
+										<!-- /Avatar -->
+					<!-- By -->
+					<span class="ktopic-posted-time" title="18 Apr 2011 10:52">
+						Posted 18 Apr 2011 10:52&nbsp;
+					</span>
+
+										<br />
+					<span class="ktopic-by">by <a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=673&amp;Itemid=85" title="" rel="nofollow">Paul Logan</a></span>
+										<!-- /By -->
+				</div>
+			</td>
+
+					</tr>
+
+				</table>
+</div>
+</div>
+</div>
+<input type="hidden" name="option" value="com_kunena" />
+<input type="hidden" name="func" value="bulkactions" />
+<input type="hidden" name="db02a1f00185e4df7b456864359c76f7" value="1" /></form>		</dd>
+				<dt class="closed">Thank You</dt>
+		<dd style="display: none;">
+			<form action="https://sesa.org.au/" method="post" name="kBulkActionForm">
+<div class="kblock">
+	<div class="kheader">
+				<h2><span>Received Thank You</span></h2>
+	</div>
+	<div class="kcontainer">
+		<div class="kbody">
+<table
+	class="">
+				<tr class="krow2">
+			<td class="kcol-first kcol-ktopicicon">No Posts</td>
+		</tr>
+				</table>
+</div>
+</div>
+</div>
+<input type="hidden" name="option" value="com_kunena" />
+<input type="hidden" name="func" value="bulkactions" />
+<input type="hidden" name="db02a1f00185e4df7b456864359c76f7" value="1" /></form>			<form action="https://sesa.org.au/" method="post" name="kBulkActionForm">
+<div class="kblock">
+	<div class="kheader">
+				<h2><span>Said Thank You</span></h2>
+	</div>
+	<div class="kcontainer">
+		<div class="kbody">
+<table
+	class="">
+				<tr class="krow2">
+			<td class="kcol-first kcol-ktopicicon">No Posts</td>
+		</tr>
+				</table>
+</div>
+</div>
+</div>
+<input type="hidden" name="option" value="com_kunena" />
+<input type="hidden" name="func" value="bulkactions" />
+<input type="hidden" name="db02a1f00185e4df7b456864359c76f7" value="1" /></form>		</dd>
+											</dl>
+</div>
+						</div>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+</div>
+<div class="krss-block"><a href="/index.php?option=com_kunena&amp;func=rss&amp;Itemid=85" title="" rel="follow" target="_blank"><span class="kicon krss" title="get the latest posts directly to your desktop"></span></a></div><div class="kcredits kms"> <a href="/index.php?option=com_kunena&amp;func=credits&amp;catid=0&amp;Itemid=85" title="" rel="follow">Powered by</a> <a href="http://www.kunena.com" title="Kunena" rel="follow" target="_blank">Kunena</a></div>	<div class="kfooter">
+		<span class="kfooter-time">Time to create page:&nbsp;0.27&nbsp;seconds</span>
+	</div>
+</div>
+<!-- closes Kunena div -->
+
+                    </div>
+                    <div class="bottom"></div>
+				</td>
+				</table>
+
+                <td class="shadowright">
+                    <img src="/templates/js_simplepro_red/images/topright.png" alt="" width="11"/>
+                </td>
+			</tr>
+
+            <td colspan="3">
+                <div class="bottomenu"></div>
+            </td>
+</table>
+</div>
+
+
+
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-4538777-1");
+
+pageTracker._initData();
+
+pageTracker._trackPageview();
+
+</script>
+
+</body>
+
+</html>
+

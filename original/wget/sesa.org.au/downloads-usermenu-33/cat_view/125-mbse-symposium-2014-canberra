@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding=""?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+  <base href="https://sesa.org.au/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="" />
+  <meta name="title" content="Downloads | MBSE Symposium 2014 - Canberra - Sesa" />
+  <meta name="description" content="Systems engineering focuses on how the deliverables of complex projects are specified, designed, qualified, deployed and change managed over the entire end to end life cycle of the project." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Downloads | MBSE Symposium 2014 - Canberra - Sesa</title>
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="https://sesa.org.au/components/com_docman/themes/default/css/theme.css" type="text/css" />
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/modal.js"></script>
+  <script type="text/javascript">
+
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+
+			$$('a.modal').each(function(el) {
+				el.addEvent('click', function(e) {
+					new Event(e).stop();
+					SqueezeBox.fromElement(el);
+				});
+			});
+		});
+  </script>
+
+
+<link href="/templates/js_simplepro_red/css/template_css.css" rel="stylesheet" type="text/css" />
+
+<link rel="shortcut icon" href="/images/favicon.ico" />
+
+</head>
+
+<body id="page_bg">
+
+<a name="up" id="up"></a>
+
+<div class="center" align="center">
+
+  <table cellpadding="0" cellspacing="0" width="1100" id="maintable">
+
+    <tr valign="top">
+
+      <td class="shadowleft"><img src="/templates/js_simplepro_red/images/topleft.png" alt="" width="11"/><br /></td>
+
+      <td class="wrapper">
+	  	<div id="header">
+      		<div id="headeright">
+            	<div id="headerleft">
+                	<a href="/"><img class="sesa_logo" src="/templates/js_simplepro_red/images/sesa_logo.png" /></a>
+                 </div>
+            </div>
+		</div>
+        
+        <div id="mainbody">
+	        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr valign="top">
+	            <td valign="top" class="navbar">
+                <div class="push">
+                    <div class="leftcoltop">&nbsp;</div>
+                    <div class="leftcol">		<div class="moduletable">
+					
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr ><td><a href="/" class="mainlevel" >Home</a></td></tr>
+<tr ><td><a href="/what-is-systems-engineering" class="mainlevel" >What is Systems Eng?</a></td></tr>
+<tr ><td><a href="/about-sesa" class="mainlevel" >About SESA</a></td></tr>
+<tr ><td><a href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12" class="mainlevel" >SESA Committee</a></td></tr>
+<tr ><td><a href="/membership" class="mainlevel" >Membership</a></td></tr>
+<tr ><td><a href="/corporate-members-fy2015-16" class="mainlevel" >Corporate Members</a></td></tr>
+<tr ><td><a href="/system-engineering-resources" class="mainlevel" >Systems Eng Resources</a></td></tr>
+<tr ><td><a href="/sesa-working-groups" class="mainlevel" >SESA Working Groups</a></td></tr>
+<tr ><td><a href="/newlinks" class="mainlevel" >Links</a></td></tr>
+<tr ><td><a href="/case-csep-applications" class="mainlevel" >CASE/CSEP Applications</a></td></tr>
+<tr ><td><a href="/search" class="mainlevel" >Search</a></td></tr>
+<tr ><td><a href="/contact-us" class="mainlevel" >Contact Us</a></td></tr>
+</table>		</div>
+			<div class="moduletable">
+					<h3>Member Login</h3>
+					<form action="https://sesa.org.au/component/comprofiler/login" method="post" id="mod_loginform" style="margin:0px;">
+Available to SESA members only. If you are a SESA member and don't have a login, go to the Contact Us web page and send a request to the Webmaster.
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="mod_login">
+<tr><td><span id="mod_login_usernametext"><label for="mod_login_username">Username</label></span><br />
+<input type="text" name="username" id="mod_login_username" class="inputbox" size="14" /><br />
+<span id="mod_login_passwordtext"><label for="mod_login_password">Password</label></span><br /><span><input type="password" name="passwd" id="mod_login_password" class="inputbox" size="14" /></span><br />
+<input type="hidden" name="op2" value="login" />
+<input type="hidden" name="lang" value="english" />
+<input type="hidden" name="force_session" value="1" />
+<input type="hidden" name="return" value="B:aHR0cHM6Ly9zZXNhLm9yZy5hdS9kb3dubG9hZHMtdXNlcm1lbnUtMzMvY2F0X3ZpZXcvMTI1LW1ic2Utc3ltcG9zaXVtLTIwMTQtY2FuYmVycmE=" />
+<input type="hidden" name="message" value="0" />
+<input type="hidden" name="loginfrom" value="loginmodule" />
+<input type="hidden" name="cbsecuritym3" value="cbm_32e0302e_2f821911_0e5474c2e8b9bf561b4665c3eb585d83" />
+<input type="checkbox" name="remember" id="mod_login_remember" value="yes" /> <span id="mod_login_remembermetext"><label for="mod_login_remember">Remember me</label></span><br />
+<input type="submit" name="Submit" class="button" value="Login" /></td></tr>
+<tr><td><a href="https://sesa.org.au/component/comprofiler/lostpassword" class="mod_login">Forgot login?</a></td></tr>
+</table></form>		</div>
+	</div>
+                    <div class="leftmodfooter">&nbsp;</div>
+                </div>
+                </td>
+
+				<td>
+				<div id="carea">
+					<div class="top"></div>
+                    <div class="middle">
+						<div class="banner">
+                            
+						</div>
+
+                      	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            	<tr valign="top">
+                                	<td width="50%">
+                                        
+                                    </td>
+                                	<td class="sep"><img src="/templates/js_simplepro_red/images/spacer.png" alt="spacer.png, 0 kB" width="11" /></td>
+              						<td width="50%">
+                                        
+                                    </td>
+                                </tr>
+                            </table>
+                      	
+						<div id="maindivider"></div>
+                      	<script language="javascript" type="text/javascript" src="https://sesa.org.au/components/com_docman/themes/default/js/theme.js"></script>
+<div id="dm_header">
+<div>
+<a href="/downloads-usermenu-33">
+<img src="/components/com_docman/themes/default/images/icons/32x32/home.png" alt="Downloads Home" /><br />
+Downloads Home		</a>
+</div>
+<div>
+<a href="/downloads-usermenu-33/search_form">
+<img src="/components/com_docman/themes/default/images/icons/32x32/search.png" alt="Search Document" /><br />
+Search Document		</a>
+</div>
+</div>
+<div class="clr"></div>
+<div class="dm_cat">
+<img class="dm_thumb-left" src="/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="" /><h1 class="dm_title">MBSE Symposium 2014 - Canberra</h1><div class="clr"></div>
+</div>
+<div id="dm_docs">
+<h2 class="dm_title">Documents</h2>
+<div class="dm_orderby"> Order by :
+<strong>Name </strong> | <a href="/downloads-usermenu-33/cat_view/125-mbse-symposium-2014-canberra?limit=15&amp;limitstart=0&amp;order=date&amp;dir=DESC">Date</a> | <a href="/downloads-usermenu-33/cat_view/125-mbse-symposium-2014-canberra?limit=15&amp;limitstart=0&amp;order=hits&amp;dir=DESC">Hits</a> <a href="/downloads-usermenu-33/cat_view/125-mbse-symposium-2014-canberra?limit=15&amp;limitstart=0&amp;order=name&amp;dir=ASC">[ Ascendant ]</a></div>        
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Utility of Model Based Systems Engineering to Assess the Impacts of Engineering Change" />
+<a href="/downloads-usermenu-33/doc_download/415-utility-of-model-based-systems-engineering-to-assess-the-impacts-of-engineering-change" title="Utility of Model Based Systems Engineering to Assess the Impacts of Engineering Change">
+Utility of Model Based Systems Engineering to Assess the Impacts of Engineering Change				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>639.23 kB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>2010</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+<p><strong>David Culpin</strong></p>
+<p>Utility of Model Based Systems Engineering to Assess the Impacts of Engineering Change for Complex Legacy Defence Systems – A Case Study for the Collins Class Submarine Combat System</p>	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/415-utility-of-model-based-systems-engineering-to-assess-the-impacts-of-engineering-change" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=415&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Use of Systems Engineering Methodology in IOCD" />
+<a href="/downloads-usermenu-33/doc_download/417-use-of-systems-engineering-methodology-in-iocd" title="Use of Systems Engineering Methodology in IOCD">
+Use of Systems Engineering Methodology in IOCD				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>3.69 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>2536</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+<p><strong>Wing Commander James Badgery, CDG</strong></p>
+<p>[KEYNOTE]</p>
+<p>Use of Systems Engineering methodology in Integrating Operational Concept Document development for Capability Development Group</p>	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/417-use-of-systems-engineering-methodology-in-iocd" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=417&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Understanding and Managing Military SoS in Amphibious Capability Realisation" />
+<a href="/downloads-usermenu-33/doc_download/411-understanding-and-managing-military-sos-in-amphibious-capability-realisation" title="Understanding and Managing Military SoS in Amphibious Capability Realisation">
+Understanding and Managing Military SoS in Amphibious Capability Realisation				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>1.18 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1602</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+<p><strong>Frank Lui and Pin Chen</strong></p>
+<p>Understanding and Managing Military SoS in Amphibious Capability Realisation: A case study of applying SoS thinking approach</p>	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/411-understanding-and-managing-military-sos-in-amphibious-capability-realisation" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=411&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/xls.png" alt="The Challenges of Deploying MBSE Solutions - Results" />
+<a href="/downloads-usermenu-33/doc_download/421-the-challenges-of-deploying-mbse-solutions-results" title="The Challenges of Deploying MBSE Solutions - Results">
+The Challenges of Deploying MBSE Solutions - Results				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>63 kB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>2133</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+<p><strong>Fabrice Lestideau and Stéphane Bonnet</strong></p>
+<p>[WORKSHOP]</p>
+<p>The Challenges of Deploying MBSE Solutions</p>
+<p>Results</p>	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/421-the-challenges-of-deploying-mbse-solutions-results" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=421&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="The Challenges of Deploying MBSE Solutions - Introduction" />
+<a href="/downloads-usermenu-33/doc_download/420-the-challenges-of-deploying-mbse-solutions-introduction" title="The Challenges of Deploying MBSE Solutions - Introduction">
+The Challenges of Deploying MBSE Solutions - Introduction				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>1.03 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>2857</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+<p><strong>Fabrice Lestideau and Stéphane Bonnet</strong></p>
+<p>[WORKSHOP]</p>
+<p>The Challenges of Deploying MBSE Solutions</p>
+<p>Introduction</p>	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/420-the-challenges-of-deploying-mbse-solutions-introduction" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=420&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Support Systems - from Concepts to a Systems Engineering Model" />
+<a href="/downloads-usermenu-33/doc_download/409-support-systems-from-concepts-to-a-systems-engineering-model" title="Support Systems - from Concepts to a Systems Engineering Model">
+Support Systems - from Concepts to a Systems Engineering Model				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>1.09 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>4028</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+<p><strong>Michael Edwards</strong></p>
+<p>Support Systems - from Concepts to a Systems Engineering Model</p>	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/409-support-systems-from-concepts-to-a-systems-engineering-model" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=409&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Selection and Application of MBSE Methodologies and Tools in SoS" />
+<a href="/downloads-usermenu-33/doc_download/410-selection-and-application-of-mbse-methodologies-and-tools-in-sos" title="Selection and Application of MBSE Methodologies and Tools in SoS">
+Selection and Application of MBSE Methodologies and Tools in SoS				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>1.43 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>2175</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+<p><strong>Farid Shirvani and Peter Campbell</strong></p>
+<p>Selection and application of MBSE methodologies and tools to bring greater transparency to the contracting of System of Systems</p>	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/410-selection-and-application-of-mbse-methodologies-and-tools-in-sos" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=410&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Modelling the Risk in Defence Engineering" />
+<a href="/downloads-usermenu-33/doc_download/407-modelling-the-risk-in-defence-engineering" title="Modelling the Risk in Defence Engineering">
+Modelling the Risk in Defence Engineering				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>1.82 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1607</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+<p><strong>Chris Stecki and Joshua Bautista</strong></p>
+<p>Modelling the Risk in Defence Engineering</p>	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/407-modelling-the-risk-in-defence-engineering" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=407&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Model-Based Conceptual Design Survey - Introduction" />
+<a href="/downloads-usermenu-33/doc_download/418-model-based-conceptual-design-survey-introduction" title="Model-Based Conceptual Design Survey - Introduction">
+Model-Based Conceptual Design Survey - Introduction				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>468.89 kB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1271</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+<p><strong>Brett Morris and David Harvey</strong></p>
+<p>[WORKSHOP]</p>
+<p>Model-Based Conceptual Design Survey</p>
+<p>Introduction</p>	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/418-model-based-conceptual-design-survey-introduction" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=418&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="MBSE Symposium 2014 Programme" />
+<a href="/downloads-usermenu-33/doc_download/404-mbse-symposium-2014-programme" title="MBSE Symposium 2014 Programme">
+MBSE Symposium 2014 Programme				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>193.94 kB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1356</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+<p>Model-Based   Systems Engineering Symposium 2014 - Programme</p>	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/404-mbse-symposium-2014-programme" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=404&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="MBSE - Backbone of the Thales Engineering Manifesto" />
+<a href="/downloads-usermenu-33/doc_download/416-mbse-backbone-of-the-thales-engineering-manifesto" title="MBSE - Backbone of the Thales Engineering Manifesto">
+MBSE - Backbone of the Thales Engineering Manifesto				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>1.47 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>2276</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+<p><strong>Olivier Flous, Vice President, Engineering for the Thales Group</strong></p>
+<p>[KEYNOTE]</p>
+<p>MBSE - Backbone of the Thales Engineering Manifesto</p>	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/416-mbse-backbone-of-the-thales-engineering-manifesto" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=416&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="MBCD for SoS Integration - Introduction" />
+<a href="/downloads-usermenu-33/doc_download/419-mbcd-for-sos-integration-introduction" title="MBCD for SoS Integration - Introduction">
+MBCD for SoS Integration - Introduction				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>1.55 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1496</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+<p><strong>Åse Jakobsson</strong></p>
+<p>[WORKSHOP]</p>
+<p>Creative Workshop: MBCD for SoS Integration</p>
+<p>Introduction</p>	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/419-mbcd-for-sos-integration-introduction" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=419&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Managing Complexity (Risk) using Model Based Engineering Approaches" />
+<a href="/downloads-usermenu-33/doc_download/414-managing-complexity-risk-using-model-based-engineering-approaches" title="Managing Complexity (Risk) using Model Based Engineering Approaches">
+Managing Complexity (Risk) using Model Based Engineering Approaches				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>2.06 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1944</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+<p><strong>Steven Saunders</strong></p>
+<p>Managing Complexity (Risk) using Model Based Engineering Approaches on the SEA 4000 Air Warfare Destroyer Program</p>	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/414-managing-complexity-risk-using-model-based-engineering-approaches" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=414&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Initial Thoughts on the Application of MBSE to MANETs" />
+<a href="/downloads-usermenu-33/doc_download/412-initial-thoughts-on-the-application-of-mbse-to-manets" title="Initial Thoughts on the Application of MBSE to MANETs">
+Initial Thoughts on the Application of MBSE to MANETs				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>451.69 kB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>1485</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+<p><strong>David Readman, Stephen Passmore and Kevin Robinson</strong></p>
+<p>Initial Thoughts on the Application of MBSE to MANETs</p>	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/412-initial-thoughts-on-the-application-of-mbse-to-manets" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=412&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="dm_row">
+<h3 class="dm_title">
+<img src="/components/com_docman/themes/default/images/icons/32x32/pdf.png" alt="Arcadia and Capella in the Field" />
+<a href="/downloads-usermenu-33/doc_download/406-arcadia-and-capella-in-the-field" title="Arcadia and Capella in the Field">
+Arcadia and Capella in the Field				</a>	
+<div class="clr"></div>
+</h3>
+<div class="dm_details">
+<div>
+<strong>
+hot!	</strong>
+</div>
+<table cellspacing="0">
+<tr>   
+<td><strong>Date added:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Date modified:</strong></td>
+<td>01/06/2015</td>
+</tr>
+<tr>
+<td><strong>Filesize:</strong></td>
+<td>3.58 MB</td>
+</tr>
+<tr>
+<td><strong>Downloads:</strong></td>
+<td>8944</td>
+</tr>
+</table>
+</div>
+<div class="dm_description">
+<p><strong>Stéphane   Bonnet and Fabrice Lestideau</strong></p>
+<p>Arcadia and Capella on the Field: Real-World MBSE Use Cases</p>	</div>
+<div class="clr"></div>
+<div class="dm_taskbar">
+<ul>
+<li >
+<a href="/downloads-usermenu-33/doc_download/406-arcadia-and-capella-in-the-field" >
+Download        </a>
+</li><li >
+<a href="/index.php?option=com_docman&amp;task=doc_details&amp;gid=406&amp;tmpl=component&amp;Itemid=33" class="modal" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+Details        </a>
+</li>    </ul>
+<div class="clr"></div>
+</div>
+</div>        </div>
+<div id="dm_nav">
+&lt;&lt; <span class="pagenav">Start</span> &lt; <span class="pagenav">Prev</span> <span class="pagenav">1</span> <a title="2" href="/downloads-usermenu-33/cat_view/125-mbse-symposium-2014-canberra?limitstart=15" class="pagenav">2</a> <a title="Next" href="/downloads-usermenu-33/cat_view/125-mbse-symposium-2014-canberra?limitstart=15" class="pagenav">Next</a> &gt; <a title="End" href="/downloads-usermenu-33/cat_view/125-mbse-symposium-2014-canberra?limitstart=15" class="pagenav">End</a> &gt;&gt;	<div>
+Page 1 of 2	</div>
+</div>
+                    </div>
+                    <div class="bottom"></div>
+				</td>
+				</table>
+
+                <td class="shadowright">
+                    <img src="/templates/js_simplepro_red/images/topright.png" alt="" width="11"/>
+                </td>
+			</tr>
+
+            <td colspan="3">
+                <div class="bottomenu"></div>
+            </td>
+</table>
+</div>
+
+
+
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-4538777-1");
+
+pageTracker._initData();
+
+pageTracker._trackPageview();
+
+</script>
+
+</body>
+
+</html>
+

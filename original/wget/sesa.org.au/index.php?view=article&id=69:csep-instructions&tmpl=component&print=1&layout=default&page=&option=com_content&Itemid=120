@@ -1,0 +1,432 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+	  <base href="https://sesa.org.au/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="keywords" content="" />
+  <meta name="title" content="CASE/CSEP Instructions - Sesa" />
+  <meta name="author" content="Will Scott" />
+  <meta name="description" content="Systems engineering focuses on how the deliverables of complex projects are specified, designed, qualified, deployed and change managed over the entire end to end life cycle of the project." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>CASE/CSEP Instructions - Sesa</title>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+
+	<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+		<link rel="stylesheet" href="/templates/system/css/template.css" type="text/css" />
+</head>
+<body class="contentpane">
+	
+	<table class="contentpaneopen">
+<tr>
+		<td class="contentheading" width="100%">
+					CASE/CSEP Instructions			</td>
+				<td align="right" width="100%" class="buttonheading">
+		<a href="#" onclick="window.print();return false;"><img src="/images/M_images/printButton.png" alt="Print"  /></a>		</td>
+	</tr>
+</table>
+
+<table class="contentpaneopen">
+
+
+
+<tr>
+<td valign="top">
+<h2>CASE Pathwy 1 - Chartered Professional Engineer (CPEng) to Certified Systems Engineering Professional (CSEP)</h2>
+<h3>Clarifications to minimum requirements for CPEng CSEP Applicants:</h3>
+<p>The required 5 years of Systems Engineering experience, described at the minimum requirements section, can be either or both of</p>
+<ul>
+<li>experience presented in your CPEng Application, or</li>
+<li>experience gained post achieving chartered status</li>
+</ul>
+<h3>Instructions</h3>
+<h4>CSEP Application</h4>
+<p>Pay Application fee (see <a href="/csep-fees">Fees </a>section)</p>
+<p>Complete CASE Form 1, using guidance from Form 2, and submit along with current CV to 
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = 'm&#97;&#105;lt&#111;:';
+ var suffix = '';
+ var attribs = '';
+ var path = 'hr' + 'ef' + '=';
+ var addy65853 = 'CASEAdm&#105;n' + '&#64;';
+ addy65853 = addy65853 + 's&#101;s&#97;' + '&#46;' + '&#111;rg' + '&#46;' + '&#97;&#117;';
+ document.write( '<a ' + path + '\'' + prefix + addy65853 + suffix + '\'' + attribs + '>' );
+ document.write( addy65853 );
+ document.write( '<\/a>' );
+ //-->
+ </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script>. Within Form 1, the following are key points for CPEng CSEP applicants:</p>
+<ul>
+<li>In Section 4 - Experience, include in the P1 data entry fields, complete only the "Referees" and "Your Duties and Responsibilities" sections as follows                     
+<ul>
+<li>"Referees" field: Include one referee, that satisfies the criteria for a qualified referee in Form 4b, who is able to attest to one (1) year of claimed SE experience</li>
+<li>"Your Duties and Responsibilities" field: Start entry with "CPEng Experience Cited".  For each SE competency element being claimed, provide details of your position and the duration of SE experience, and cite the entry within CPEng application that supports the SE competency claim. Where the CPEng appliction covers more than one SE competency claimed, provide clarification on how citation supports the claimed SE competency</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>If necessry, use the data entry fields of P2 onwards, in Section 4, to provide any additional SE competency claims.</li>
+</ul>
+<p>Send CASE Forms 4 and 4b to your referee.  Have the referee complete Form 4b and return it to 
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = 'm&#97;&#105;lt&#111;:';
+ var suffix = '';
+ var attribs = '';
+ var path = 'hr' + 'ef' + '=';
+ var addy61591 = 'CASEAdm&#105;n' + '&#64;';
+ addy61591 = addy61591 + 's&#101;s&#97;' + '&#46;' + '&#111;rg' + '&#46;' + '&#97;&#117;';
+ document.write( '<a ' + path + '\'' + prefix + addy61591 + suffix + '\'' + attribs + '>' );
+ document.write( addy61591 );
+ document.write( '<\/a>' );
+ //-->
+ </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script>.</p>
+<h4>INCOSE SE Handbook Knowledge Exam</h4>
+<p>Upon notifiction of CSEP acceptnce from SESA, study the INCOSE SE Handbook</p>
+<p>(SE Handbook is available through INCOSE see <a href="http://www.incose.org/ProductsPublications/sehandbook">http://www.incose.org/ProductsPublications/sehandbook</a>).</p>
+<p><strong>O<em>PTION:</em></strong></p>
+<p><em>You may choose to do the INCOSE SE Handbook Knowledge exam in advance of application completion (see INCOSE SE Handbook Knowledge exam for details).</em></p>
+<p>Complete the SE Handbook Knowledge Exam.  You are permitted a maximum of 3 examination attempts within period of application submission.</p>
+<h4>CPEng (SE Area of Practice)</h4>
+<p>Use the 
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = 'm&#97;&#105;lt&#111;:';
+ var suffix = '';
+ var attribs = '';
+ var path = 'hr' + 'ef' + '=';
+ var addy82219 = 'm&#101;mb&#101;rs&#101;rv&#105;c&#101;s' + '&#64;';
+ addy82219 = addy82219 + '&#101;ng&#105;n&#101;&#101;rs&#97;&#117;str&#97;l&#105;&#97;' + '&#46;' + '&#111;rg' + '&#46;' + '&#97;&#117;';
+ var addy_text82219 = 'Special Areas of Practice, member services, link';
+ document.write( '<a ' + path + '\'' + prefix + addy82219 + suffix + '\'' + attribs + '>' );
+ document.write( addy_text82219 );
+ document.write( '<\/a>' );
+ //-->
+ </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script> to facilitate providing Engineers Australia with:</p>
+<ul>
+<li>A completed Application form, and</li>
+<li>Evidence of having attained CSEP credential</li>
+<li>A CV</li>
+<li>A CPD record showing at least 150 hours in the last 3 years (minimum 50 hours of Systems Engineering CPD) </li>
+</ul>
+<p>The applicant will then be recognised by Engineers Australia as Chartered Engineers in the Systems Engineering area of practice.</p>
+<h2>CASE Pathwy 2 - Experienced Professional Engineer (PEng) to CSEP to CPEng (SE)</h2>
+<h3>Instructions</h3>
+<h4>CSEP Appliction - Direct</h4>
+<p>Pay CSEP Appliction fee (see <a href="/csep-fees">Fees </a>section)</p>
+<p>Satisfy minimum application requirements described at the minimum requirements section.</p>
+<p>Complete CSE Form 1, using guidance from Form 2, and submit to 
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = 'm&#97;&#105;lt&#111;:';
+ var suffix = '';
+ var attribs = '';
+ var path = 'hr' + 'ef' + '=';
+ var addy34591 = 'CASEAdm&#105;n' + '&#64;';
+ addy34591 = addy34591 + 's&#101;s&#97;' + '&#46;' + '&#111;rg' + '&#46;' + '&#97;&#117;';
+ document.write( '<a ' + path + '\'' + prefix + addy34591 + suffix + '\'' + attribs + '>' );
+ document.write( addy34591 );
+ document.write( '<\/a>' );
+ //-->
+ </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script>.</p>
+<p>Send CASE Forms 4 and 4b to your referees (minimum 3, each to cover different SE competency experience claims).  Have the referees complete Form 4b and return it to 
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = 'm&#97;&#105;lt&#111;:';
+ var suffix = '';
+ var attribs = '';
+ var path = 'hr' + 'ef' + '=';
+ var addy5846 = 'CASEAdm&#105;n' + '&#64;';
+ addy5846 = addy5846 + 's&#101;s&#97;' + '&#46;' + '&#111;rg' + '&#46;' + '&#97;&#117;';
+ document.write( '<a ' + path + '\'' + prefix + addy5846 + suffix + '\'' + attribs + '>' );
+ document.write( addy5846 );
+ document.write( '<\/a>' );
+ //-->
+ </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script>.</p>
+<h4>CSEP Appliction - ASEP to CSEP Transition</h4>
+<p>Pay ASEP to CSEP Transition Appliction fee (see <a href="/csep-fees">Fees </a>section)</p>
+<p>Satisfy minimum appliction requirements described at the minimum requirements section.</p>
+<p>Complete CASE Form 1, using guidnce from Form 2, and submit to 
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = 'm&#97;&#105;lt&#111;:';
+ var suffix = '';
+ var attribs = '';
+ var path = 'hr' + 'ef' + '=';
+ var addy93135 = 'CASEAdm&#105;n' + '&#64;';
+ addy93135 = addy93135 + 's&#101;s&#97;' + '&#46;' + '&#111;rg' + '&#46;' + '&#97;&#117;';
+ document.write( '<a ' + path + '\'' + prefix + addy93135 + suffix + '\'' + attribs + '>' );
+ document.write( addy93135 );
+ document.write( '<\/a>' );
+ //-->
+ </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script>. Within Form 1, the following are key points for ASEP to CSEP Transition Applicants:</p>
+<ul>
+<li>In Section 2 - SESA / Engineers Australia Membership Details - select "Transition from ASEP to CSEP" list item for the Type of Certification Requested with the Appliction</li>
+</ul>
+<p>Send CSE Forms 4 and 4b to your referees (minimum 3, each to cover different SE competency experience claims).  Have the referees complete Form 4b and return it to 
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = 'm&#97;&#105;lt&#111;:';
+ var suffix = '';
+ var attribs = '';
+ var path = 'hr' + 'ef' + '=';
+ var addy82114 = 'CASEAdm&#105;n' + '&#64;';
+ addy82114 = addy82114 + 's&#101;s&#97;' + '&#46;' + '&#111;rg' + '&#46;' + '&#97;&#117;';
+ document.write( '<a ' + path + '\'' + prefix + addy82114 + suffix + '\'' + attribs + '>' );
+ document.write( addy82114 );
+ document.write( '<\/a>' );
+ //-->
+ </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script>.</p>
+<h4>INCOSE SE Handbook Knowledge Exam</h4>
+<p>Upon notification of CSEP Acceptance from SESA, study the INCOSE SE Handbook</p>
+<p>(SE Handbook is avilable through INCOSE - see <a href="http://www.incose.org/ProductsPublications/sehandbook">http://www.incose.org/ProductsPublications/sehandbook</a>).</p>
+<p><strong><em>OPTION:</em></strong></p>
+<p><em>You may choose to do the INCOSE SE Handbook Knowledge exam  in advance of appliction completion (see INCOSE SE Handbook Knowledge exam for details).</em></p>
+<p>Complete the SE Handbook Knowledge Exam.  You are permitted a maximum of 3 examination attempts within period of appliction submission.</p>
+<h4>CPEng (SE area of Practice)</h4>
+<p>Using the Mutual Recognition Agreement (MRA) between INCOSE and Engineers Australia, Applicants are to submit the following appliction material to the 
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = 'm&#97;&#105;lt&#111;:';
+ var suffix = '';
+ var attribs = '';
+ var path = 'hr' + 'ef' + '=';
+ var addy39296 = 'm&#101;mb&#101;rs&#101;rv&#105;c&#101;s' + '&#64;';
+ addy39296 = addy39296 + '&#101;ng&#105;n&#101;&#101;rs&#97;&#117;str&#97;l&#105;&#97;' + '&#46;' + '&#111;rg' + '&#46;' + '&#97;&#117;';
+ var addy_text39296 = 'Member Services, Engineers Australia';
+ document.write( '<a ' + path + '\'' + prefix + addy39296 + suffix + '\'' + attribs + '>' );
+ document.write( addy_text39296 );
+ document.write( '<\/a>' );
+ //-->
+ </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script>, outside of eChartered the following:</p>
+<ul>
+<li>Evidence of having attained CSEP credential,</li>
+<li>A CV,</li>
+<li>Payment,</li>
+<li>A CPD record showing at least 150 hours in the last 3 years (minimum 50 hours of Systems Engineering CPD) </li>
+</ul>
+<p>Applicants will be required to attend a personal interview with the Stage 2 Assessor and attending panellists.</p>
+<p>If successful, the applicant will be recognised by Engineers Australia as Chartered Engineers in the Systems Engineering Area of practice.</p>
+<h2>CASE Development</h2>
+<h3>Applicability</h3>
+<p>This component of the CSEP Appliction is Applicble to Professional Engineers that have not yet attained the experience necessary to fulfil the minimum requirements for completing CASE Pathway 2.</p>
+<p>The following guidance provides resources to support gaining knowledge in Systems Engineering.  Experience will need to be gained through practical appliction of this knowledge.</p>
+<h3>Guidance</h3>
+<p>Support for gaining Systems Engineering knowledge:</p>
+<ul>
+<li>Systems Engineering training providers</li>
+</ul>
+<blockquote>
+<ul>
+<li>Refer to SE Training providers  links page.</li>
+</ul>
+</blockquote>
+<ul>
+<li>CSEP preparation, including INCOSE SE Handbook knowledge exam training, support                      
+<ul>
+<li>Refer to CSEP Preparation providers  links page.</li>
+</ul>
+</li>
+</ul>
+<p>Whilst in this stage you may pay the <a href="/csep-fees">fee</a> and apply for, and undertake the INCOSE SE Handbook Knowledge exam to gain, Associated Systems Engineering Professional (ASEP) certification by INCOSE.</p>
+<p>To apply for ASEP, complete CASE Form 1 and submit to 
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = 'm&#97;&#105;lt&#111;:';
+ var suffix = '';
+ var attribs = '';
+ var path = 'hr' + 'ef' + '=';
+ var addy95093 = 'CASEAdm&#105;n' + '&#64;';
+ addy95093 = addy95093 + 's&#101;s&#97;' + '&#46;' + '&#111;rg' + '&#46;' + '&#97;&#117;?s&#117;bj&#101;ct=CASE ASEP Appl&#105;c&#97;t&#105;&#111;n';
+ var addy_text95093 = 'CASEAdm&#105;n' + '&#64;' + 's&#101;s&#97;' + '&#46;' + '&#111;rg' + '&#46;' + '&#97;&#117;';
+ document.write( '<a ' + path + '\'' + prefix + addy95093 + suffix + '\'' + attribs + '>' );
+ document.write( addy_text95093 );
+ document.write( '<\/a>' );
+ //-->
+ </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script>.</p>
+<p>Once sufficient experience has been attained, you may then pay the fee (ASEP to CSEP transition) and apply for CSEP through CASE Pathwy 2.</p>
+<p>ASEP certification will remain valid for a period of 5 years allowing time to gain the experience to pursue CASE Pathwy 2.</p>
+<h2>INCOSE SE Handbook Knowledge Exam</h2>
+<h3>Instructions and Guidance</h3>
+<h4>CASE Pathways 1 and 2 - Early Exam Applicants</h4>
+<p>Complete Application as per CASE Pathway 1 or CASE Pathway 2 instructions, with the following exceptions:</p>
+<ul>
+<li>Within Form 1, the following are key points for Exam first applicants:</li>
+</ul>
+<blockquote>
+<ul>
+<li>In Section 2 - SESA / Engineers Australia Membership Details - select YES (under the Exam First Option CSEP applicnts heading) in the "I wish to exercise this option and acknowledge the above conditions"</li>
+</ul>
+</blockquote>
+<ul>
+<li>SESA need not have received Referee's contribution to, or confirmed acceptance of, your CSEP application - this will be expected to be done in parallel when this option is selected</li>
+<li>Wait for your Eligibility ID from INCOSE.</li>
+</ul>
+<h4>CASE Pathways 1 and 2 - ALL applicants</h4>
+<p>Once you have received your Eligibility ID from INCOSE you can arrange a date for the INCOSE SE Handbook Knowledge Exam either by the following means:</p>
+<ul>
+<li>Computer based test.  Schedule your test and locate your test centre via the <a href="https://www.prometric.com/en-us/Pages/home.aspx">Prometric </a>website. NOTE: There are presently only two venues (Sydney and Melbourne) for this option.  From the Prometric website complete the following actions:</li>
+</ul>
+<blockquote>
+<ul>
+<li>Search or select from the Test sponsor directory "INCOSE - International Council on Systems Engineering"</li>
+<li>Click on INCOSE - International Council on Systems Engineering</li>
+<li>Complete the "I WANT TO..." steps within the menu screen</li>
+<li>Follow instructions for each step</li>
+<li>Pay Fees as directed</li>
+</ul>
+</blockquote>
+<ul>
+<li>Paper based test.  Refer to the Paper  Based Test Program link for details of where and when paper bsed tests will be convened. Applicants will need to do the following:</li>
+</ul>
+<blockquote>
+<ul>
+<li>Bring their Eligibility ID from INCOSE to the Exam as well as proof of identity</li>
+<li> </li>
+<li>Pay the Examintion <a href="/csep-fees">fee </a>prior toÂ  attending the Exam.</li>
+</ul>
+</blockquote>
+<p>Complete the INCOSE SE Handbook Knowledge Exam</p>
+<p>INCOSE will notify participants of the test results.</p>
+<h4>CASE Development Participants</h4>
+<p>Complete ASEP Appliction Form 1.  Refer to <a href="/csep-fees">Fees </a>for the Application fee.</p>
+<p>Once you have received your Eligibility ID from INCOSE you can arrange a date for the INCOSE SE Handbook Knowledge Exam either by the following means:</p>
+<ul>
+<li>Computer based test.  Schedule your test and locate your test centre via the <a href="https://www.prometric.com/en-us/Pages/home.aspx">Prometric </a>website.  NOTE: There are presently only two venues (Sydney and Melbourne) for  this option.  From the Prometric website complete the following actions:</li>
+</ul>
+<blockquote>
+<ul>
+<li>Search or select from the Test sponsor directory "INCOSE - International Council on Systems Engineering"</li>
+<li>Click on INCOSE - International Council on Systems Engineering</li>
+<li>Complete the "I WANT TO..." steps within the menu screen</li>
+<li>Follow instructions for each step</li>
+<li>Pay Fees as directed</li>
+</ul>
+</blockquote>
+<ul>
+<li>Paper based test.  Refer to the Paper  Based Test Program link for  details of where and when paper bsed tests will be convened. Applicants  will need to do the following:</li>
+</ul>
+<blockquote>
+<ul>
+<li>Bring their Eligibility ID from INCOSE to the Exam as well as proof of identity</li>
+<li> </li>
+<li>Pay the Examintion <a href="/csep-fees">fee </a>prior toÂ  attending the Exam.</li>
+</ul>
+</blockquote>
+<p>Complete the INCOSE SE Handbook Knowledge Exam</p>
+<p>INCOSE will notify participants of the test results.</p>
+<h1>Forms for CASE Pthwys 1 and 2 Applications</h1>
+<ul>
+<li>CASE Form 1 - Application for INCOSE CSEP through SESA</li>
+<li>CASE Form 1a - Application for INCOSE ASEP through SESA</li>
+<li>CASE Form 2 - Instructions for Completing Form 1</li>
+<li>CASE Form 4a - Instructions to INCOSE CSEP Application Referees</li>
+<li>CASE Form 4b - Referee for Application for INCOSE CSEP through SESA</li>
+</ul>
+<p>Forms can be downloded from <a href="/csep-forms">here</a></p>
+<h1></h1>
+<ul>
+</ul>
+<div id="_mcePaste" style="left: -10000px; top: 314px; width: 1px; height: 1px; overflow: hidden; position: absolute;" class="mcePaste"></div></td>
+</tr>
+
+<tr>
+	<td class="modifydate">
+		Last Updated on Thursday, 01 August 2019 11:02	</td>
+</tr>
+</table>
+<span class="article_separator">&nbsp;</span>
+
+</body>
+</html>

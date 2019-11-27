@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="Kunena 1.6.0-RC1" -->
+<rss version="2.0">
+	<channel>
+		<title>Sesa - IT &amp; Telecommunications Systems Engineering</title>
+		<description>Kunena Site Syndication</description>
+		<link>https://sesa.org.au/</link>
+		<lastBuildDate>Sat, 16 Nov 2019 08:54:20 +0100</lastBuildDate>
+        <generator>Kunena 1.6.0-RC1</generator>
+		<image>
+			<url>https://sesa.org.au/components/com_kunena/template/example/images/icons/rss.png</url>
+			<title>Sesa - IT &amp; Telecommunications Systems Engineering</title>
+			<link>https://sesa.org.au/</link>
+			<description>Kunena Site Syndication</description>
+		</image>
+		<pubDate>Sat, 16 Nov 2019 08:54:20 +0100</pubDate>
+	</channel>
+</rss>

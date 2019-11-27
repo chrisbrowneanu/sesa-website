@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding=""?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+  <base href="https://sesa.org.au/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="Categories, SESA, Sesa" />
+  <meta name="title" content="SESA Special Interest Groups (SIGs) - SESA - Sesa" />
+  <meta name="description" content="Systems engineering focuses on how the deliverables of complex projects are specified, designed, qualified, deployed and change managed over the entire end to end life cycle of the project.. Categories - SESA" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>SESA Special Interest Groups (SIGs) - SESA - Sesa</title>
+  <link rel="stylesheet" href="https://sesa.org.au/components/com_kunena/template/example/css/kunena.forum-min.css" type="text/css" />
+  <style type="text/css">
+    <!--
+#Kunena div.kheader ,
+#Kunena div.kheader {
+	background: #5388B4
+}
+#Kunena div.kannouncement div.kheader {
+	background: #990000
+}
+#Kunena div#kannouncement .kanndesc {
+	background: #FFFFAA
+}
+#Kunena div.kfrontstats div.kheader {
+	background: #000000
+}
+#Kunena div.kwhoisonline div.kheader {
+	background: #3B5323
+}
+#Kunena .kicon-profile {
+	background-image: url("https://sesa.org.au/components/com_kunena/template/default/media/iconsets/profile/default/default.png");
+}
+#Kunena .kicon-button {
+	background-image: url("https://sesa.org.au/components/com_kunena/template/default/media/iconsets/buttons/default/default.png");
+}
+#Kunena #kbbcode-toolbar li a,
+#Kunena #kattachments a {
+	background-image:url("https://sesa.org.au/components/com_kunena/template/default/media/iconsets/editor/default/default.png");
+}
+    -->
+  </style>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="https://sesa.org.au/components/com_kunena/js/slimbox/slimbox-min.js"></script>
+  <script type="text/javascript" src="https://sesa.org.au/components/com_kunena/template/default/js/default-min.js"></script>
+  <link rel="alternate" type="application/rss+xml" title="get the latest posts directly to your desktop" href="/index.php?option=com_kunena&amp;func=rss&amp;catid=4&amp;Itemid=85" />
+
+
+<link href="/templates/js_simplepro_red/css/template_css.css" rel="stylesheet" type="text/css" />
+
+<link rel="shortcut icon" href="/images/favicon.ico" />
+
+</head>
+
+<body id="page_bg">
+
+<a name="up" id="up"></a>
+
+<div class="center" align="center">
+
+  <table cellpadding="0" cellspacing="0" width="1100" id="maintable">
+
+    <tr valign="top">
+
+      <td class="shadowleft"><img src="/templates/js_simplepro_red/images/topleft.png" alt="" width="11"/><br /></td>
+
+      <td class="wrapper">
+	  	<div id="header">
+      		<div id="headeright">
+            	<div id="headerleft">
+                	<a href="/"><img class="sesa_logo" src="/templates/js_simplepro_red/images/sesa_logo.png" /></a>
+                 </div>
+            </div>
+		</div>
+        
+        <div id="mainbody">
+	        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr valign="top">
+	            <td valign="top" class="navbar">
+                <div class="push">
+                    <div class="leftcoltop">&nbsp;</div>
+                    <div class="leftcol">		<div class="moduletable">
+					
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr ><td><a href="/" class="mainlevel" >Home</a></td></tr>
+<tr ><td><a href="/what-is-systems-engineering" class="mainlevel" >What is Systems Eng?</a></td></tr>
+<tr ><td><a href="/about-sesa" class="mainlevel" >About SESA</a></td></tr>
+<tr ><td><a href="/index.php?Itemid=3&amp;option=com_contact&amp;view=category&amp;catid=12" class="mainlevel" >SESA Committee</a></td></tr>
+<tr ><td><a href="/membership" class="mainlevel" >Membership</a></td></tr>
+<tr ><td><a href="/corporate-members-fy2015-16" class="mainlevel" >Corporate Members</a></td></tr>
+<tr ><td><a href="/system-engineering-resources" class="mainlevel" >Systems Eng Resources</a></td></tr>
+<tr ><td><a href="/sesa-working-groups" class="mainlevel" >SESA Working Groups</a></td></tr>
+<tr ><td><a href="/newlinks" class="mainlevel" >Links</a></td></tr>
+<tr ><td><a href="/case-csep-applications" class="mainlevel" >CASE/CSEP Applications</a></td></tr>
+<tr ><td><a href="/search" class="mainlevel" >Search</a></td></tr>
+<tr ><td><a href="/contact-us" class="mainlevel" >Contact Us</a></td></tr>
+</table>		</div>
+			<div class="moduletable">
+					<h3>Member Login</h3>
+					<form action="https://sesa.org.au/component/comprofiler/login" method="post" id="mod_loginform" style="margin:0px;">
+Available to SESA members only. If you are a SESA member and don't have a login, go to the Contact Us web page and send a request to the Webmaster.
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="mod_login">
+<tr><td><span id="mod_login_usernametext"><label for="mod_login_username">Username</label></span><br />
+<input type="text" name="username" id="mod_login_username" class="inputbox" size="14" /><br />
+<span id="mod_login_passwordtext"><label for="mod_login_password">Password</label></span><br /><span><input type="password" name="passwd" id="mod_login_password" class="inputbox" size="14" /></span><br />
+<input type="hidden" name="op2" value="login" />
+<input type="hidden" name="lang" value="english" />
+<input type="hidden" name="force_session" value="1" />
+<input type="hidden" name="return" value="B:aHR0cHM6Ly9zZXNhLm9yZy5hdS9pbmRleC5waHA/b3B0aW9uPWNvbV9rdW5lbmEmYW1wO2Z1bmM9bGlzdGNhdCZhbXA7Y2F0aWQ9NCZhbXA7SXRlbWlkPTg2" />
+<input type="hidden" name="message" value="0" />
+<input type="hidden" name="loginfrom" value="loginmodule" />
+<input type="hidden" name="cbsecuritym3" value="cbm_481b804e_1475941a_58b3ed9597e18ad4f469b3a16984ee7d" />
+<input type="checkbox" name="remember" id="mod_login_remember" value="yes" /> <span id="mod_login_remembermetext"><label for="mod_login_remember">Remember me</label></span><br />
+<input type="submit" name="Submit" class="button" value="Login" /></td></tr>
+<tr><td><a href="https://sesa.org.au/component/comprofiler/lostpassword" class="mod_login">Forgot login?</a></td></tr>
+</table></form>		</div>
+	</div>
+                    <div class="leftmodfooter">&nbsp;</div>
+                </div>
+                </td>
+
+				<td>
+				<div id="carea">
+					<div class="top"></div>
+                    <div class="middle">
+						<div class="banner">
+                            
+						</div>
+
+                      	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            	<tr valign="top">
+                                	<td width="50%">
+                                        
+                                    </td>
+                                	<td class="sep"><img src="/templates/js_simplepro_red/images/spacer.png" alt="spacer.png, 0 kB" width="11" /></td>
+              						<td width="50%">
+                                        
+                                    </td>
+                                </tr>
+                            </table>
+                      	
+						<div id="maindivider"></div>
+                      	<!--[if IE 7]>
+<link rel="stylesheet" href="https://sesa.org.au/components/com_kunena/template/default/css/kunena.forum.ie7.css" type="text/css" />
+<![endif]-->
+
+<div id="Kunena"> <!-- Kunena Menu -->
+<div id="ktop">
+			<!-- Kunena Module Position: kunena_menu -->
+		<div id="ktopmenu">
+			<div id="ktab">		<div class="moduletable">
+					<h3>Kunena Menu</h3>
+					<ul class="menu"><li id="current" class="active item86"><a href="/index.php?Itemid=86&amp;option=com_kunena&amp;view=listcat"><span>Index</span></a></li><li class="item87"><a href="/index.php?Itemid=87&amp;option=com_kunena&amp;view=latest"><span>Recent Topics</span></a></li><li class="item92"><a href="/index.php?Itemid=92&amp;option=com_kunena&amp;view=rules"><span>Rules</span></a></li><li class="item93"><a href="/index.php?Itemid=93&amp;option=com_kunena&amp;view=help"><span>Help</span></a></li><li class="item94"><a href="/index.php?Itemid=94&amp;option=com_kunena&amp;view=search"><span>Search</span></a></li></ul>		</div>
+	</div>
+		</div>
+		<!-- /Kunena Module Position: kunena_menu -->
+		<span class="ktoggler fltrt"><a class="ktoggler close" rel="kprofilebox"></a></span>
+</div>
+<!-- /Kunena Menu --><div class="kblock kpbox">
+	<div class="kcontainer" id="kprofilebox">
+		<div class="kbody">
+<table class="kprofilebox">
+	<tbody>
+		<tr class="krow1">
+			<td valign="top" class="kprofileboxcnt">
+				<div class="k_guest">
+					Welcome,
+					<b>Guest</b>
+				</div>
+								<form action="index.php?option=com_kunena" method="post" name="login">
+					<div class="input">
+						<span>
+							Username							<input type="text" name="username" class="inputbox ks" alt="username" size="18" />
+						</span>
+						<span>
+							Password:							<input type="password" name="passwd" class="inputbox ks" size="18" alt="password" /></span>
+						<span>
+														Remember me							<input type="checkbox" name="remember" alt="" value="yes" />
+														<input type="submit" name="submit" class="kbutton" value="Login" />
+							<input type="hidden" name="option" value="com_user" />
+							<input type="hidden" name="task" value="login" />
+							<input type="hidden" name="return" value="L2luZGV4LnBocD9vcHRpb249Y29tX2t1bmVuYSZmdW5jPWxpc3RjYXQmY2F0aWQ9NCZJdGVtaWQ9ODY=" /> <input type="hidden" name="db02a1f00185e4df7b456864359c76f7" value="1" />						</span>
+					</div>
+					<div class="klink-block">
+						<span class="kprofilebox-link">
+							<a href="/user/reset" title="" rel="nofollow">Forgot your password?</a>						</span>
+						<span class="kprofilebox-link">
+							<a href="/user/remind" title="" rel="nofollow">Forgot your username?</a>						</span>
+											</div>
+				</form>
+							</td>
+						</tr>
+	</tbody>
+</table>
+		</div>
+	</div>
+</div><!-- Pathway -->
+<div class="kblock kpathway">
+	<div class="kcontainer" id="pathway_tbody">
+		<div class="ksectionbody">
+			<div class = "kforum-pathway">
+			<div class="path-element-first"><a href="/index.php?option=com_kunena&amp;Itemid=85" title="" rel="follow">SESA</a></div>			</div>
+		</div>
+	</div>
+</div>
+
+<div class="klist-markallcatsread kcontainer">
+	<div class="ksectionbody">
+		<div class="fltlft">
+					</div>
+		<div class="fltrt">
+			<form id="jumpto" name="jumpto" method="post" target="_self" action="/index.php?option=com_kunena&amp;Itemid=85">
+	<span class="kright">
+		<input type="hidden" name="func" value="showcat" />
+		<select name="catid" id="forumjump" class="inputbox fbs" size="1" onchange = "this.form.submit()"><option value="0" >Board Categories</option><option value="1" >SESA Forums</option><option value="3" >...&nbsp;General Systems Engineering Topic</option><option value="2" >...&nbsp;Systems Engineering Best Practices</option><option value="14" >...&nbsp;General Announcements</option><option value="4"  selected="selected">SESA Special Interest Groups (SIGs)</option><option value="5" >...&nbsp; Systems Engineering Accreditation</option><option value="6" >...&nbsp; Defence &amp; Aerospace Systems Engineering</option><option value="7" >...&nbsp;IT &amp; Telecommunications Systems Engineering</option><option value="12" >...&nbsp;Intelligent Transport Systems</option><option value="16" >...&nbsp;Medical Devices &amp; eHealth</option><option value="8" >...&nbsp;Requirements Engineering</option><option value="15" >...&nbsp;Architecture, Design &amp; Modelling</option><option value="9" >...&nbsp;System Safety</option><option value="13" >...&nbsp;Verification &amp; Validation</option></select>		<input type="submit" name="Go" class="kbutton ks" value="Go" />
+	</span>
+</form>		</div>
+	</div>
+</div>
+
+
+
+<div class="kblock kcategories-4">
+	<div class="kheader">
+		<span class="ktoggler"><a class="ktoggler close"  rel="catid_4"></a></span>
+		<h2><span><a href="/index.php?option=com_kunena&amp;func=listcat&amp;catid=4&amp;Itemid=86" title="" rel="follow">SESA Special Interest Groups (SIGs)</a></span></h2>
+				<div class="ktitle-desc km">
+			This section caters for Special Interest Groups (SIGs).<br />
+If you would like to start a new SIG in this section please select Contact Us from the SESA website main menu and contact the SESA webmaster.<br />
+You can subscribe to each category in this section if you would like to be notified by email of any new category topics or new posts to existing topics. Select a category and look for the subscribe button.		</div>
+			</div>
+	<div class="kcontainer" id="catid_4">
+		<div class="kbody">
+<table class="kblocktable" id="kcat4">
+				<tr class="krow2 krow2"
+			id="kcat5">
+			<td class="kcol-first kcol-category-icon">
+				<a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=5&amp;Itemid=85" title="" rel="follow"><span class="kicon knotloginforum" title="No New Posts"></span></a>			</td>
+
+			<td class="kcol-mid kcol-kcattitle">
+			<div class="kthead-title kl">
+			<a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=5&amp;Itemid=85" title="" rel="follow"> Systems Engineering Accreditation</a>			</div>
+
+											</td>
+
+			<td class="kcol-mid kcol-kcattopics">
+				<!-- Number of Topics -->
+				<span class="kcat-topics-number">0</span>
+				<span class="kcat-topics">Topics</span>
+				<!-- /Number of Topics -->
+			</td>
+
+			<td class="kcol-mid kcol-kcatreplies">
+			<!-- Number of Replies -->
+			<span class="kcat-replies-number">0</span>
+			<span class="kcat-replies">Replies </span>
+			<!-- /Number of Replies -->
+			</td>
+
+						<td class="kcol-mid kcol-knoposts">No Posts</td>
+					</tr>
+				<tr class="krow1 krow1"
+			id="kcat6">
+			<td class="kcol-first kcol-category-icon">
+				<a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=6&amp;Itemid=85" title="" rel="follow"><span class="kicon knotloginforum" title="No New Posts"></span></a>			</td>
+
+			<td class="kcol-mid kcol-kcattitle">
+			<div class="kthead-title kl">
+			<a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=6&amp;Itemid=85" title="" rel="follow"> Defence &amp; Aerospace Systems Engineering</a>			</div>
+
+											</td>
+
+			<td class="kcol-mid kcol-kcattopics">
+				<!-- Number of Topics -->
+				<span class="kcat-topics-number">0</span>
+				<span class="kcat-topics">Topics</span>
+				<!-- /Number of Topics -->
+			</td>
+
+			<td class="kcol-mid kcol-kcatreplies">
+			<!-- Number of Replies -->
+			<span class="kcat-replies-number">0</span>
+			<span class="kcat-replies">Replies </span>
+			<!-- /Number of Replies -->
+			</td>
+
+						<td class="kcol-mid kcol-knoposts">No Posts</td>
+					</tr>
+				<tr class="krow2 krow2"
+			id="kcat7">
+			<td class="kcol-first kcol-category-icon">
+				<a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=7&amp;Itemid=85" title="" rel="follow"><span class="kicon knotloginforum" title="No New Posts"></span></a>			</td>
+
+			<td class="kcol-mid kcol-kcattitle">
+			<div class="kthead-title kl">
+			<a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=7&amp;Itemid=85" title="" rel="follow">IT &amp; Telecommunications Systems Engineering</a>			</div>
+
+											</td>
+
+			<td class="kcol-mid kcol-kcattopics">
+				<!-- Number of Topics -->
+				<span class="kcat-topics-number">0</span>
+				<span class="kcat-topics">Topics</span>
+				<!-- /Number of Topics -->
+			</td>
+
+			<td class="kcol-mid kcol-kcatreplies">
+			<!-- Number of Replies -->
+			<span class="kcat-replies-number">0</span>
+			<span class="kcat-replies">Replies </span>
+			<!-- /Number of Replies -->
+			</td>
+
+						<td class="kcol-mid kcol-knoposts">No Posts</td>
+					</tr>
+				<tr class="krow1 krow1"
+			id="kcat12">
+			<td class="kcol-first kcol-category-icon">
+				<a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=12&amp;Itemid=85" title="" rel="follow"><span class="kicon knotloginforum" title="No New Posts"></span></a>			</td>
+
+			<td class="kcol-mid kcol-kcattitle">
+			<div class="kthead-title kl">
+			<a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=12&amp;Itemid=85" title="" rel="follow">Intelligent Transport Systems</a>			</div>
+
+											</td>
+
+			<td class="kcol-mid kcol-kcattopics">
+				<!-- Number of Topics -->
+				<span class="kcat-topics-number">1</span>
+				<span class="kcat-topics">Topics</span>
+				<!-- /Number of Topics -->
+			</td>
+
+			<td class="kcol-mid kcol-kcatreplies">
+			<!-- Number of Replies -->
+			<span class="kcat-replies-number">0</span>
+			<span class="kcat-replies">Replies </span>
+			<!-- /Number of Replies -->
+			</td>
+
+						<td class="kcol-mid kcol-kcatlastpost">
+						<div class="klatest-subject ks">
+				Last Post: <a href="/index.php?option=com_kunena&amp;func=view&amp;catid=12&amp;id=57&amp;Itemid=85#57" title="" rel="follow">Formation of the Transportation Working Group in New South Wales</a>			</div>
+
+			<div class="klatest-subject-by ks">
+			By <a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=307&amp;Itemid=85" title="" rel="nofollow">Christopher John Skinner</a><br /><span class="nowrap" title="29 Aug 2012 14:53">29 Aug 2012 14:53</span>			</div>
+			</td>
+
+					</tr>
+				<tr class="krow2 krow2"
+			id="kcat16">
+			<td class="kcol-first kcol-category-icon">
+				<a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=16&amp;Itemid=85" title="" rel="follow"><span class="kicon knotloginforum" title="No New Posts"></span></a>			</td>
+
+			<td class="kcol-mid kcol-kcattitle">
+			<div class="kthead-title kl">
+			<a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=16&amp;Itemid=85" title="" rel="follow">Medical Devices &amp; eHealth</a>			</div>
+
+											</td>
+
+			<td class="kcol-mid kcol-kcattopics">
+				<!-- Number of Topics -->
+				<span class="kcat-topics-number">0</span>
+				<span class="kcat-topics">Topics</span>
+				<!-- /Number of Topics -->
+			</td>
+
+			<td class="kcol-mid kcol-kcatreplies">
+			<!-- Number of Replies -->
+			<span class="kcat-replies-number">0</span>
+			<span class="kcat-replies">Replies </span>
+			<!-- /Number of Replies -->
+			</td>
+
+						<td class="kcol-mid kcol-knoposts">No Posts</td>
+					</tr>
+				<tr class="krow1 krow1"
+			id="kcat8">
+			<td class="kcol-first kcol-category-icon">
+				<a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=8&amp;Itemid=85" title="" rel="follow"><span class="kicon knotloginforum" title="No New Posts"></span></a>			</td>
+
+			<td class="kcol-mid kcol-kcattitle">
+			<div class="kthead-title kl">
+			<a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=8&amp;Itemid=85" title="" rel="follow">Requirements Engineering</a>			</div>
+
+											</td>
+
+			<td class="kcol-mid kcol-kcattopics">
+				<!-- Number of Topics -->
+				<span class="kcat-topics-number">1</span>
+				<span class="kcat-topics">Topics</span>
+				<!-- /Number of Topics -->
+			</td>
+
+			<td class="kcol-mid kcol-kcatreplies">
+			<!-- Number of Replies -->
+			<span class="kcat-replies-number">5</span>
+			<span class="kcat-replies">Replies </span>
+			<!-- /Number of Replies -->
+			</td>
+
+						<td class="kcol-mid kcol-kcatlastpost">
+						<div class="klatest-subject ks">
+				Last Post: <a href="/index.php?option=com_kunena&amp;func=view&amp;catid=8&amp;id=8&amp;Itemid=85#56" title="" rel="follow">Re: Are Use Cases Requirements or Design</a>			</div>
+
+			<div class="klatest-subject-by ks">
+			By <a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=429&amp;Itemid=85" title="" rel="nofollow">Michael O'Keefe</a><br /><span class="nowrap" title="02 Jan 2012 12:16">02 Jan 2012 12:16</span>			</div>
+			</td>
+
+					</tr>
+				<tr class="krow2 krow2"
+			id="kcat15">
+			<td class="kcol-first kcol-category-icon">
+				<a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=15&amp;Itemid=85" title="" rel="follow"><span class="kicon knotloginforum" title="No New Posts"></span></a>			</td>
+
+			<td class="kcol-mid kcol-kcattitle">
+			<div class="kthead-title kl">
+			<a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=15&amp;Itemid=85" title="" rel="follow">Architecture, Design &amp; Modelling</a>			</div>
+
+											</td>
+
+			<td class="kcol-mid kcol-kcattopics">
+				<!-- Number of Topics -->
+				<span class="kcat-topics-number">0</span>
+				<span class="kcat-topics">Topics</span>
+				<!-- /Number of Topics -->
+			</td>
+
+			<td class="kcol-mid kcol-kcatreplies">
+			<!-- Number of Replies -->
+			<span class="kcat-replies-number">0</span>
+			<span class="kcat-replies">Replies </span>
+			<!-- /Number of Replies -->
+			</td>
+
+						<td class="kcol-mid kcol-knoposts">No Posts</td>
+					</tr>
+				<tr class="krow1 krow1"
+			id="kcat9">
+			<td class="kcol-first kcol-category-icon">
+				<a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=9&amp;Itemid=85" title="" rel="follow"><span class="kicon knotloginforum" title="No New Posts"></span></a>			</td>
+
+			<td class="kcol-mid kcol-kcattitle">
+			<div class="kthead-title kl">
+			<a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=9&amp;Itemid=85" title="" rel="follow">System Safety</a>			</div>
+
+											</td>
+
+			<td class="kcol-mid kcol-kcattopics">
+				<!-- Number of Topics -->
+				<span class="kcat-topics-number">0</span>
+				<span class="kcat-topics">Topics</span>
+				<!-- /Number of Topics -->
+			</td>
+
+			<td class="kcol-mid kcol-kcatreplies">
+			<!-- Number of Replies -->
+			<span class="kcat-replies-number">0</span>
+			<span class="kcat-replies">Replies </span>
+			<!-- /Number of Replies -->
+			</td>
+
+						<td class="kcol-mid kcol-knoposts">No Posts</td>
+					</tr>
+				<tr class="krow2 krow2"
+			id="kcat13">
+			<td class="kcol-first kcol-category-icon">
+				<a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=13&amp;Itemid=85" title="" rel="follow"><span class="kicon knotloginforum" title="No New Posts"></span></a>			</td>
+
+			<td class="kcol-mid kcol-kcattitle">
+			<div class="kthead-title kl">
+			<a href="/index.php?option=com_kunena&amp;func=showcat&amp;catid=13&amp;Itemid=85" title="" rel="follow">Verification &amp; Validation</a>			</div>
+
+											</td>
+
+			<td class="kcol-mid kcol-kcattopics">
+				<!-- Number of Topics -->
+				<span class="kcat-topics-number">1</span>
+				<span class="kcat-topics">Topics</span>
+				<!-- /Number of Topics -->
+			</td>
+
+			<td class="kcol-mid kcol-kcatreplies">
+			<!-- Number of Replies -->
+			<span class="kcat-replies-number">1</span>
+			<span class="kcat-replies">Replies </span>
+			<!-- /Number of Replies -->
+			</td>
+
+						<td class="kcol-mid kcol-kcatlastpost">
+						<div class="klatest-subject ks">
+				Last Post: <a href="/index.php?option=com_kunena&amp;func=view&amp;catid=13&amp;id=60&amp;Itemid=85#62" title="" rel="follow">Re: Identifying the Validity of data generated by isolated speed measurment Radar/Lidar devices - aka Booked.</a>			</div>
+
+			<div class="klatest-subject-by ks">
+			By <a class="kwho-user" href="/index.php?option=com_kunena&amp;func=profile&amp;userid=393&amp;Itemid=85" title="" rel="nofollow">John Michael Parnell</a><br /><span class="nowrap" title="05 Jul 2016 14:22">05 Jul 2016 14:22</span>			</div>
+			</td>
+
+					</tr>
+		</table>
+</div>
+</div>
+</div>
+<!-- F: List Cat -->
+
+<div class="krss-block"><a href="/index.php?option=com_kunena&amp;func=rss&amp;catid=4&amp;Itemid=85" title="" rel="follow" target="_blank"><span class="kicon krss" title="get the latest posts directly to your desktop"></span></a></div><div class="kcredits kms"> <a href="/index.php?option=com_kunena&amp;func=credits&amp;catid=4&amp;Itemid=85" title="" rel="follow">Powered by</a> <a href="http://www.kunena.com" title="Kunena" rel="follow" target="_blank">Kunena</a></div>	<div class="kfooter">
+		<span class="kfooter-time">Time to create page:&nbsp;0.10&nbsp;seconds</span>
+	</div>
+</div>
+<!-- closes Kunena div -->
+
+                    </div>
+                    <div class="bottom"></div>
+				</td>
+				</table>
+
+                <td class="shadowright">
+                    <img src="/templates/js_simplepro_red/images/topright.png" alt="" width="11"/>
+                </td>
+			</tr>
+
+            <td colspan="3">
+                <div class="bottomenu"></div>
+            </td>
+</table>
+</div>
+
+
+
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-4538777-1");
+
+pageTracker._initData();
+
+pageTracker._trackPageview();
+
+</script>
+
+</body>
+
+</html>
+

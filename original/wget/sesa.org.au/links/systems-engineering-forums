@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Sesa</title>
+		<description>Systems engineering focuses on how the deliverables of complex projects are specified, designed, qualified, deployed and change managed over the entire end to end life cycle of the project.</description>
+		<link>https://sesa.org.au/links/systems-engineering-forums</link>
+		<lastBuildDate>Fri, 15 Nov 2019 21:49:43 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>en-gb</language>
+		<managingEditor>webmaster@sesa.org.au (Sesa)</managingEditor>
+		<item>
+			<title>Requirements Engineering Forum - UTS</title>
+			<link>https://sesa.org.au/links/requirements-engineering-forum-uts</link>
+			<guid>https://sesa.org.au/links/requirements-engineering-forum-uts</guid>
+			<description><![CDATA[The Requirements Engineering mailing list(RE-Online) offered by the University of Technology Sydney (UTS) provides an electronic forum for exchange of ideas among Requirements Engineering researchers and practitioners.]]></description>
+			<category>Weblinks</category>
+			<pubDate>Fri, 29 May 2009 22:31:12 +0000</pubDate>
+		</item>
+		<item>
+			<title>SysML Forum</title>
+			<link>https://sesa.org.au/links/sysml-forum</link>
+			<guid>https://sesa.org.au/links/sysml-forum</guid>
+			<description><![CDATA[The SysML Forum is a web community dedicated to the Systems Modeling Language (SysML). SysML is a new  visual modeling language standard for specifying systems and systems-of-systems.]]></description>
+			<category>Weblinks</category>
+			<pubDate>Wed, 11 Jun 2008 03:13:30 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
