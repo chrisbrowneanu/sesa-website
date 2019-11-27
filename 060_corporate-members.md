@@ -1,0 +1,15 @@
+# Corporate Members FY2017-18
+
+The following companies are corporate members of SESA. [Click here](/membership) for more information about being a SESA corporate member.
+
+## [Project Performance International](http://www.ppi-int.com/)
+Project Performance International (PPI) helps enterprises reduce costs, meet schedules, and delight stakeholders through the astute application of systems engineering. We provide consulting, public training courses and on-site training to clients on six continents. Course subject areas include systems engineering, requirements capture and validation, specification writing, cognitive SE, military capability development and much more. Clients include many Fortune 100 companies, as well as smaller companies. PPI has been a corporate member of SESA since 2005, and is a member of the Corporate Advisory Board of INCOSE, helping shape the future direction of systems engineering. PPI's subsidiary company, Certification Training International, provides INCOSE SEP training to the world's engineering professionals.
+
+## [Shoal](http://www.shoalgroup.com/)
+Shoal, formerly Aerospace Concepts, is a systems engineering company based in Australia and the United States. Shoal has established a reputation as problem solvers on a very large scale, working in areas such as defence, emergency services, health, transportation and intelligent infrastructure. What makes us unique is our focus on early-stage design, specialising in working "left of the spec" defining what the system needs to do to meet the needs, goals and objectives of stakeholders. When developing solutions we focus on understanding the whole system, its environment and the complex interactions of its elements. We help our clients clearly define the complex problems they"re facing and design solutions they can trust.
+
+## [SYPAC](http://www.sypaq.com.au/)
+Since its inception in 1992, SYPAQ has expanded from its Melbourne base to offices in Sydney, Canberra, Brisbane, Perth & Adelaide. SYPAQ's core business spans Management and Technology Consulting, Systems Integration, and Managed Services. SYPAQ"s services cover a variety of disciplines including Systems Engineering, Project Management, Business Analysis, ILS, Commerical Support, to name a few. SYPAQ is proud to support Defence, Government and Commercial Enterprise and is a member of a number of Defence and Gov Standing Offer Panels.
+
+## [Vitech](http://www.vitechcorp.com/)
+Vitech Corporation provides systems engineering and architecting software solutions designed to help meet your systems development needs and provide the best solution to the challenges your organization faces. We deliver systems engineering software, proven methodology and services which minimize the risks inherent in your systems development projects. With CORE software, your business can realize increased team effectiveness and collaboration which helps to deliver programs on time and within budget.
